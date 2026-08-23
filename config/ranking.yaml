@@ -1,0 +1,23 @@
+news:
+  authority: 0.20
+  engagement: 0.30
+  cross_source: 0.20
+  recency: 0.15
+  relevance: 0.15
+paper:
+  trending: 0.35
+  recency: 0.20
+  relevance: 0.20
+  community: 0.15
+  novelty: 0.10
+social:
+  engagement: 0.35
+  author: 0.25
+  recency: 0.25
+  relevance: 0.15
+dedup:
+  title_similarity_threshold: 88
+cluster:
+  title_similarity_threshold: 84
+  max_hours_apart: 72
+

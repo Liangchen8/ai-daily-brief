@@ -1,0 +1,27 @@
+high_priority:
+  - AI agents
+  - agent memory
+  - agentic workflow
+  - RAG
+  - retrieval augmented generation
+  - reasoning
+  - tool use
+  - MCP
+  - Model Context Protocol
+  - AI Skills
+  - LLM evaluation
+  - coding agent
+  - multimodal agent
+  - computer use
+  - agent evaluation
+  - long context
+  - memory system
+medium_priority:
+  - reinforcement learning
+  - inference
+  - pretraining
+  - post-training
+  - vision language models
+  - small language models
+  - AI infrastructure
+

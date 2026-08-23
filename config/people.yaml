@@ -1,0 +1,61 @@
+- name: Andrej Karpathy
+  weight: 100
+  enabled: true
+  platforms:
+    x: karpathy
+- name: Yann LeCun
+  weight: 100
+  enabled: true
+  platforms:
+    x: YannLecun
+- name: Andrew Ng
+  weight: 95
+  enabled: true
+  platforms:
+    x: AndrewYNg
+- name: Demis Hassabis
+  weight: 100
+  enabled: true
+  platforms:
+    x: demishassabis
+- name: Sam Altman
+  weight: 95
+  enabled: true
+  platforms:
+    x: sama
+- name: Dario Amodei
+  weight: 95
+  enabled: true
+  platforms:
+    x: DarioAmodei
+- name: Fei-Fei Li
+  weight: 95
+  enabled: true
+  platforms:
+    x: drfeifei
+- name: Ilya Sutskever
+  weight: 100
+  enabled: true
+  platforms:
+    x: ilyasuts
+- name: Jeff Dean
+  weight: 95
+  enabled: true
+  platforms:
+    x: JeffDean
+- name: Jeremy Howard
+  weight: 90
+  enabled: true
+  platforms:
+    bluesky: jeremyhoward.bsky.social
+    x: jeremyphoward
+- name: Ethan Mollick
+  weight: 90
+  enabled: true
+  platforms:
+    bluesky: emollick.bsky.social
+- name: Simon Willison
+  weight: 88
+  enabled: true
+  platforms:
+    bluesky: simonwillison.net

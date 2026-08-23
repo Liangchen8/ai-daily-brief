@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-daily-brief"
+version = "0.1.0"
+description = "可每日自动执行的中文 AI 行业信息日报系统"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "pydantic>=2.8,<3",
+  "pydantic-settings>=2.4,<3",
+  "httpx>=0.27,<1",
+  "feedparser>=6.0,<7",
+  "huggingface_hub>=1.0,<2",
+  "tenacity>=8.3,<10",
+  "PyYAML>=6.0,<7",
+  "rapidfuzz>=3.9,<4",
+  "jinja2>=3.1,<4",
+  "openai>=1.40,<2",
+  "python-dotenv>=1.0,<2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.3,<9", "pytest-asyncio>=0.23,<1"]
+
+[project.scripts]
+ai-daily-brief = "ai_daily.main:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+asyncio_mode = "auto"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"

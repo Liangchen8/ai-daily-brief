@@ -1,0 +1,65 @@
+- name: OpenAI
+  url: https://openai.com/news/rss.xml
+  type: rss
+  authority_weight: 100
+  enabled: true
+- name: Anthropic
+  url: https://www.anthropic.com/news
+  type: official_blog
+  authority_weight: 100
+  enabled: true
+- name: Google DeepMind
+  url: https://deepmind.google/blog/rss.xml
+  type: rss
+  authority_weight: 100
+  enabled: true
+- name: Google Research
+  url: https://research.google/blog/rss/
+  type: rss
+  authority_weight: 95
+  enabled: true
+- name: Meta AI
+  url: https://ai.meta.com/blog/
+  type: official_blog
+  authority_weight: 95
+  enabled: true
+- name: Microsoft Research
+  url: https://www.microsoft.com/en-us/research/feed/
+  type: rss
+  authority_weight: 95
+  enabled: true
+- name: NVIDIA
+  url: https://blogs.nvidia.com/feed/
+  type: rss
+  authority_weight: 90
+  enabled: true
+- name: Hugging Face
+  url: https://huggingface.co/blog/feed.xml
+  type: rss
+  authority_weight: 90
+  enabled: true
+- name: Mistral AI
+  url: https://mistral.ai/news/
+  type: official_blog
+  authority_weight: 90
+  enabled: true
+- name: TechCrunch AI
+  url: https://techcrunch.com/category/artificial-intelligence/feed/
+  type: rss
+  authority_weight: 75
+  enabled: true
+- name: The Verge AI
+  url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+  type: rss
+  authority_weight: 72
+  enabled: true
+- name: VentureBeat AI
+  url: https://venturebeat.com/category/ai/feed/
+  type: rss
+  authority_weight: 70
+  enabled: true
+- name: MIT Technology Review AI
+  url: https://www.technologyreview.com/topic/artificial-intelligence/feed/
+  type: rss
+  authority_weight: 85
+  enabled: true

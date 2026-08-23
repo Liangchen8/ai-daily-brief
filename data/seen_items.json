@@ -1,0 +1,68 @@
+[
+  {
+    "id": "event-d4ddf1d60be14655",
+    "canonical_url": "",
+    "cluster_id": "event-d4ddf1d60be14655",
+    "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design",
+    "first_seen": "2026-08-23T17:47:58.711179+00:00",
+    "last_seen": "2026-08-23T17:47:58.711807+00:00",
+    "last_sent": "2026-08-23T17:47:58.711807+00:00",
+    "content_hash": "eefdb43e326545d1f7413a6d204a3f37f5d7810e50a539d3e0cc1867cb475e06",
+    "update": false
+  },
+  {
+    "id": "event-834a54d3c7435665",
+    "canonical_url": "",
+    "cluster_id": "event-834a54d3c7435665",
+    "title": "New MCP Roadmap",
+    "first_seen": "2026-08-23T17:47:58.711352+00:00",
+    "last_seen": "2026-08-23T17:47:58.712018+00:00",
+    "last_sent": "2026-08-23T17:47:58.712018+00:00",
+    "content_hash": "0abd5852aa55c427f600ca0bd818890136e4665dffbc3dfa93a8fb1b8e3e6e2c",
+    "update": false
+  },
+  {
+    "id": "event-aa97c67e3a2cb53d",
+    "canonical_url": "",
+    "cluster_id": "event-aa97c67e3a2cb53d",
+    "title": "NanoGPT Speedrun Frontier",
+    "first_seen": "2026-08-23T17:47:58.711378+00:00",
+    "last_seen": "2026-08-23T17:47:58.712028+00:00",
+    "last_sent": "2026-08-23T17:47:58.712028+00:00",
+    "content_hash": "16c503096636783b192c06aab5aa2124d380b8583a42109a4a9d4180f8619ef1",
+    "update": false
+  },
+  {
+    "id": "arxiv-4dd4a671039b64af",
+    "canonical_url": "http://arxiv.org/abs/2608.20290v1",
+    "cluster_id": "event-8d668e461467e451",
+    "title": "Phantom Gains: Auditing Self-Improvement Against a Measured Null",
+    "first_seen": "2026-08-23T17:47:58.711505+00:00",
+    "last_seen": "2026-08-23T17:54:15.916108+00:00",
+    "last_sent": "2026-08-23T17:54:15.916108+00:00",
+    "content_hash": "c2be28bef35aa33892cda0be51004a1abe56211478d5245b80957fc3edc87aa9",
+    "update": true
+  },
+  {
+    "id": "arxiv-3ffe7d1215c42ab2",
+    "canonical_url": "http://arxiv.org/abs/2608.20220v1",
+    "cluster_id": "event-631d7cc0f5b080f6",
+    "title": "InsufficiencyBench: Evaluating LLM legal advice on underspecified user queries",
+    "first_seen": "2026-08-23T17:47:58.711573+00:00",
+    "last_seen": "2026-08-23T17:54:15.916176+00:00",
+    "last_sent": "2026-08-23T17:54:15.916176+00:00",
+    "content_hash": "f70cecba9ee080f1305c8d7d295ead3de10f2adfd0a241488509b21c2ad364d2",
+    "update": true
+  },
+  {
+    "id": "event-0e2facc28272a90c",
+    "canonical_url": "",
+    "cluster_id": "event-0e2facc28272a90c",
+    "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design",
+    "first_seen": "2026-08-23T17:54:15.915788+00:00",
+    "last_seen": "2026-08-23T17:54:15.916342+00:00",
+    "last_sent": "2026-08-23T17:54:15.916342+00:00",
+    "content_hash": "5cd3dbbe2e4e4d29c767369fd9389dfa3d5a7fc91bf09799919b03b8b3286f5f",
+    "update": false
+  }
+]

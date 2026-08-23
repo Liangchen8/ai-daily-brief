@@ -1,0 +1,43 @@
+default:
+  primary:
+    provider: openai
+    model: ""
+  fallback:
+    provider: deepseek
+    model: ""
+filter:
+  primary:
+    provider: deepseek
+    model: ""
+  fallback:
+    provider: openai
+    model: ""
+news_analysis:
+  primary:
+    provider: openai
+    model: ""
+  fallback:
+    provider: deepseek
+    model: ""
+paper_analysis:
+  primary:
+    provider: openai
+    model: ""
+  fallback:
+    provider: deepseek
+    model: ""
+social_analysis:
+  primary:
+    provider: deepseek
+    model: ""
+  fallback:
+    provider: openai
+    model: ""
+digest:
+  primary:
+    provider: openai
+    model: ""
+  fallback:
+    provider: deepseek
+    model: ""
+
