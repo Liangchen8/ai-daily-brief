@@ -114,7 +114,15 @@ class HuggingFacePaperCollector(BaseCollector):
 
     async def collect(self) -> list:
         try:
-            sdk_rows = await self._sdk_daily_papers()
+            try:
+                sdk_rows = await self._sdk_daily_papers()
+            except Exception as exc:
+                # SDK 不可用或网关临时失败时，才降级到公开搜索；空列表本身代表正常的零结果。
+                self.record_health(
+                    "parse_failed", source="Hugging Face Daily Papers",
+                    requested_url="huggingface_hub.HfApi.list_daily_papers", error_type=type(exc).__name__,
+                )
+                sdk_rows = None
             if sdk_rows is not None:
                 result = self._to_items(sdk_rows, trending=True, fallback=False)
                 result, lookback_hours, reason = self.adaptive_paper_window(result, windows=(72, 120, 168))

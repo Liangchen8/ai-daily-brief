@@ -7,7 +7,10 @@ from ai_daily.collectors.rss import RSSCollector
 from ai_daily.collectors.huggingface import HuggingFacePaperCollector
 from ai_daily.collectors.arxiv import ArxivCollector
 from ai_daily.collectors.bluesky import BlueskyCollector
+from ai_daily.collectors.hackernews import HackerNewsCollector
 from ai_daily.collectors.official_blog import OfficialBlogCollector
+from ai_daily.collectors.semantic_scholar import SemanticScholarCollector
+from ai_daily.collectors.x import XCollector
 
 
 class FakeResponse:
@@ -64,6 +67,10 @@ async def test_huggingface_falls_back_to_public_search(monkeypatch, app_config):
                 return Response(401, {"error": "token required"})
             return Response(200, [row])
 
+    async def primary_failure(_self):
+        raise RuntimeError("mocked_primary_failure")
+
+    monkeypatch.setattr(HuggingFacePaperCollector, "_sdk_daily_papers", primary_failure)
     monkeypatch.setattr("ai_daily.collectors.huggingface.httpx.AsyncClient", lambda **kwargs: Client())
     items = await HuggingFacePaperCollector(app_config).collect()
     assert len(items) == 1
@@ -77,12 +84,21 @@ async def test_huggingface_sdk_daily_papers_keeps_trending_metadata(monkeypatch,
     async def daily(_self):
         return [{"paper": {"id": "2608.12345", "title": "Fresh Paper", "abstract": "New method", "publishedAt": now, "authors": [{"name": "Ada"}], "githubUrl": "https://github.com/example/paper"}, "upvotes": 42}]
 
+    fallback_called = False
+
+    async def unexpected_fallback(_self):
+        nonlocal fallback_called
+        fallback_called = True
+        raise AssertionError("主路径成功时不得调用 fallback")
+
     monkeypatch.setattr(HuggingFacePaperCollector, "_sdk_daily_papers", daily)
+    monkeypatch.setattr(HuggingFacePaperCollector, "_public_http_rows", unexpected_fallback)
     items = await HuggingFacePaperCollector(app_config).collect()
     assert len(items) == 1
     assert items[0].raw_metadata["trending"] is True
     assert items[0].raw_metadata["hf_upvotes"] == 42
     assert items[0].raw_metadata["arxiv_id"] == "2608.12345"
+    assert fallback_called is False
 
 
 @pytest.mark.asyncio
@@ -90,11 +106,52 @@ async def test_huggingface_zero_results_is_explicit(monkeypatch, app_config):
     async def daily(_self):
         return []
 
+    async def unexpected_fallback(_self):
+        raise AssertionError("正常空结果不得调用 fallback")
+
     monkeypatch.setattr(HuggingFacePaperCollector, "_sdk_daily_papers", daily)
+    monkeypatch.setattr(HuggingFacePaperCollector, "_public_http_rows", unexpected_fallback)
     collector = HuggingFacePaperCollector(app_config)
     assert await collector.collect() == []
     assert collector.health_records[-1]["status"] == "ok_zero_recent_items"
     assert collector.health_records[-1]["detail"] == "API returned zero results"
+
+
+@pytest.mark.asyncio
+async def test_huggingface_primary_failure_uses_mocked_public_fallback(monkeypatch, app_config):
+    now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+    row = {"paper": {"id": "fallback-1", "title": "Fallback Paper", "summary": "Abstract", "publishedAt": now}}
+    fallback_calls = 0
+
+    async def primary_failure(_self):
+        raise RuntimeError("mocked_primary_failure")
+
+    async def public_fallback(_self):
+        nonlocal fallback_calls
+        fallback_calls += 1
+        return [row], False
+
+    monkeypatch.setattr(HuggingFacePaperCollector, "_sdk_daily_papers", primary_failure)
+    monkeypatch.setattr(HuggingFacePaperCollector, "_public_http_rows", public_fallback)
+    items = await HuggingFacePaperCollector(app_config).collect()
+    assert fallback_calls == 1
+    assert len(items) == 1
+    assert items[0].raw_metadata["search_fallback"] is True
+
+
+@pytest.mark.asyncio
+async def test_huggingface_both_paths_failure_is_isolated(monkeypatch, app_config):
+    async def primary_failure(_self):
+        raise RuntimeError("mocked_primary_failure")
+
+    async def fallback_failure(_self):
+        raise RuntimeError("mocked_fallback_failure")
+
+    monkeypatch.setattr(HuggingFacePaperCollector, "_sdk_daily_papers", primary_failure)
+    monkeypatch.setattr(HuggingFacePaperCollector, "_public_http_rows", fallback_failure)
+    collector = HuggingFacePaperCollector(app_config)
+    assert await collector.collect() == []
+    assert collector.health_records[-1]["status"] == "parse_failed"
 
 
 @pytest.mark.asyncio
@@ -226,3 +283,44 @@ async def test_bluesky_unconfigured_and_http_failures_are_isolated(app_config):
     person = SimpleNamespace(name="Valid config", platforms={"bluesky": "real.example"})
     assert await collector._person(Client(), person) == []
     assert collector.health_records[-1]["status"] == "http_failed"
+
+
+@pytest.mark.asyncio
+async def test_hackernews_collector_uses_only_mocked_http(monkeypatch, app_config):
+    now = int(datetime.now(timezone.utc).timestamp())
+
+    class Response:
+        def __init__(self, payload):
+            self.payload = payload
+
+        def raise_for_status(self):
+            return None
+
+        def json(self):
+            return self.payload
+
+    class Client:
+        async def __aenter__(self): return self
+        async def __aexit__(self, *args): return None
+
+        async def get(self, url, **kwargs):
+            if url.endswith(("topstories.json", "beststories.json")):
+                return Response([1])
+            return Response({"id": 1, "type": "story", "url": "https://example.com/ai", "title": "AI agent release", "time": now, "score": 3, "descendants": 1})
+
+    monkeypatch.setattr("ai_daily.collectors.hackernews.httpx.AsyncClient", lambda **kwargs: Client())
+    items = await HackerNewsCollector(app_config).collect()
+    assert len(items) == 1
+    assert items[0].source_type == "hackernews"
+
+
+@pytest.mark.asyncio
+async def test_semantic_scholar_and_x_missing_keys_do_not_make_network_calls(app_config):
+    app_config.environ["SEMANTIC_SCHOLAR_API_KEY"] = ""
+    app_config.environ["X_BEARER_TOKEN"] = ""
+    semantic = SemanticScholarCollector(app_config)
+    assert await semantic.enrich([]) == []
+    assert semantic.health_records[-1]["status"] == "disabled_missing_optional_key"
+    x_collector = XCollector(app_config)
+    assert await x_collector.collect() == []
+    assert x_collector.health_records[-1]["status"] == "disabled"
