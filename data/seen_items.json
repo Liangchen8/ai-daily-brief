@@ -64,5 +64,93 @@
     "last_sent": "2026-08-23T17:54:15.916342+00:00",
     "content_hash": "5cd3dbbe2e4e4d29c767369fd9389dfa3d5a7fc91bf09799919b03b8b3286f5f",
     "update": false
+  },
+  {
+    "id": "event-35ccf8d10724673d",
+    "canonical_url": "",
+    "cluster_id": "event-35ccf8d10724673d",
+    "title": "VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation",
+    "first_seen": "2026-08-24T01:50:56.458933+00:00",
+    "last_seen": "2026-08-24T01:50:56.459094+00:00",
+    "last_sent": "2026-08-24T01:50:56.459094+00:00",
+    "content_hash": "80d5f2ea29b9b23c67735959c14267a5a854f6eec3668cddd40c799dfce89be8",
+    "update": false
+  },
+  {
+    "id": "event-7ac1121c30d9cff3",
+    "canonical_url": "",
+    "cluster_id": "event-7ac1121c30d9cff3",
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "first_seen": "2026-08-24T01:50:56.459013+00:00",
+    "last_seen": "2026-08-24T01:50:56.459110+00:00",
+    "last_sent": "2026-08-24T01:50:56.459110+00:00",
+    "content_hash": "935a38d864ce98e471db3983c0d3bd690c9eaa8fb9b7238dffa147b14a6e369f",
+    "update": false
+  },
+  {
+    "id": "event-8964fd3843984180",
+    "canonical_url": "",
+    "cluster_id": "event-8964fd3843984180",
+    "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
+    "first_seen": "2026-08-24T01:50:56.459019+00:00",
+    "last_seen": "2026-08-24T01:50:56.459117+00:00",
+    "last_sent": "2026-08-24T01:50:56.459117+00:00",
+    "content_hash": "a1ca8eff9e03f3d153468deb867f5f07e36c91e6f62e8d75900ab9fd96c20ba3",
+    "update": false
+  },
+  {
+    "id": "event-172a7e0d32d9c4fb",
+    "canonical_url": "",
+    "cluster_id": "event-172a7e0d32d9c4fb",
+    "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
+    "first_seen": "2026-08-24T01:50:56.459027+00:00",
+    "last_seen": "2026-08-24T01:50:56.459123+00:00",
+    "last_sent": "2026-08-24T01:50:56.459123+00:00",
+    "content_hash": "d7d197d748a5d89ee396cc4fcf64da74d137d6b5139091229f94319e28cde5e6",
+    "update": false
+  },
+  {
+    "id": "hf-ee82fc065ac890d9",
+    "canonical_url": "https://huggingface.co/papers/2608.17271",
+    "cluster_id": "event-707f44a77871589c",
+    "title": "ASI-Bench: At the Dawn of Artificial Superintelligence",
+    "first_seen": "2026-08-24T01:50:56.459033+00:00",
+    "last_seen": "2026-08-24T01:50:56.459033+00:00",
+    "last_sent": "2026-08-24T01:50:56.459033+00:00",
+    "content_hash": "c965d4bae73c7847b29ea32f81833119ae2da1c9e5c6ced27021ef12297e51f3",
+    "update": false
+  },
+  {
+    "id": "hf-6005a7fb0cba59fe",
+    "canonical_url": "https://huggingface.co/papers/2608.17310",
+    "cluster_id": "event-75c7c54b895d03e3",
+    "title": "Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements",
+    "first_seen": "2026-08-24T01:50:56.459039+00:00",
+    "last_seen": "2026-08-24T01:50:56.459039+00:00",
+    "last_sent": "2026-08-24T01:50:56.459039+00:00",
+    "content_hash": "6394fe0d3b847486dad64f802d000762cae48d2f2f624b281a8ebe5ad177e7c6",
+    "update": false
+  },
+  {
+    "id": "event-34c10f8d732ea96e",
+    "canonical_url": "",
+    "cluster_id": "event-34c10f8d732ea96e",
+    "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+    "first_seen": "2026-08-24T01:50:56.459047+00:00",
+    "last_seen": "2026-08-24T01:50:56.459147+00:00",
+    "last_sent": "2026-08-24T01:50:56.459147+00:00",
+    "content_hash": "fb2b846e90ccda144e0fb2fd62e09eb38f5272d0cf2584aeb84ddb7368524a34",
+    "update": false
+  },
+  {
+    "id": "ce1740f74201a56a22f7",
+    "canonical_url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
+    "cluster_id": "event-d7ad9383331e2821",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "first_seen": "2026-08-24T01:50:56.459073+00:00",
+    "last_seen": "2026-08-24T01:50:56.459073+00:00",
+    "last_sent": "2026-08-24T01:50:56.459073+00:00",
+    "content_hash": "2f324aba2ff98e560ac38fb2466e133aea6e9b79dedbcf8eeffe2adc43f984b5",
+    "update": false
   }
 ]
