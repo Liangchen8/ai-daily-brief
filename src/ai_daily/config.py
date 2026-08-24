@@ -11,6 +11,50 @@ from pydantic import BaseModel, Field
 from .models import ModelSpec, ResolvedModel, TaskModelConfig
 
 
+REQUIRED_CONFIG_FILES = ("sources.yaml", "models.yaml", "people.yaml", "topics.yaml", "ranking.yaml")
+
+
+class ConfigurationError(RuntimeError):
+    """配置目录或必需配置文件不可用。"""
+
+
+def _path_from_env(environ: dict[str, str], name: str) -> Path | None:
+    value = environ.get(name, "").strip()
+    return Path(value).expanduser().resolve() if value else None
+
+
+def resolve_config_dir(
+    *,
+    environ: dict[str, str] | None = None,
+    cwd: Path | None = None,
+    source_file: Path | None = None,
+    project_root: Path | None = None,
+) -> Path:
+    """按固定优先级寻找配置目录，绝不依赖 Python 安装目录。"""
+    env = dict(os.environ if environ is None else environ)
+    configured = _path_from_env(env, "AI_DAILY_CONFIG_DIR")
+    if configured:
+        return configured
+    if project_root is not None:
+        candidate = Path(project_root).expanduser().resolve() / "config"
+        if candidate.is_dir():
+            return candidate
+    working_dir = (cwd or Path.cwd()).expanduser().resolve()
+    candidate = working_dir / "config"
+    if candidate.is_dir():
+        return candidate
+    module_path = (source_file or Path(__file__)).expanduser().resolve()
+    for parent in (module_path, *module_path.parents):
+        candidate = parent / "config"
+        if candidate.is_dir():
+            return candidate
+    raise ConfigurationError(f"Unable to locate config directory; cwd={working_dir}")
+
+
+def _resolve_runtime_dir(environ: dict[str, str], name: str, default: Path) -> Path:
+    return _path_from_env(environ, name) or default
+
+
 class SourceConfig(BaseModel):
     name: str
     url: str
@@ -28,19 +72,29 @@ class PersonConfig(BaseModel):
 
 class AppConfig:
     def __init__(self, root: Path | None = None, environ: dict[str, str] | None = None):
-        self.root = root or Path(__file__).resolve().parents[2]
         self.environ = dict(environ or os.environ)
+        self.config_dir = resolve_config_dir(environ=self.environ, project_root=root)
+        self.root = self.config_dir.parent
+        self.data_dir = _resolve_runtime_dir(self.environ, "AI_DAILY_DATA_DIR", self.root / "data")
+        self.output_dir = _resolve_runtime_dir(self.environ, "AI_DAILY_OUTPUT_DIR", self.root / "output")
         load_dotenv(self.root / ".env", override=False)
         for key, value in os.environ.items():
             self.environ.setdefault(key, value)
-        self.sources = self._load_list("config/sources.yaml", SourceConfig)
-        self.people = self._load_list("config/people.yaml", PersonConfig)
-        self.topics = self._load_yaml("config/topics.yaml")
-        self.ranking = self._load_yaml("config/ranking.yaml")
-        self.models = self._load_yaml("config/models.yaml")
+        self._validate_config_files()
+        self.sources = self._load_list("sources.yaml", SourceConfig)
+        self.people = self._load_list("people.yaml", PersonConfig)
+        self.topics = self._load_yaml("topics.yaml")
+        self.ranking = self._load_yaml("ranking.yaml")
+        self.models = self._load_yaml("models.yaml")
 
-    def _load_yaml(self, relative: str) -> Any:
-        path = self.root / relative
+    def _validate_config_files(self) -> None:
+        for filename in REQUIRED_CONFIG_FILES:
+            path = self.config_dir / filename
+            if not path.is_file():
+                raise ConfigurationError(f"Missing config file: {path} (config_dir={self.config_dir})")
+
+    def _load_yaml(self, filename: str) -> Any:
+        path = self.config_dir / filename
         with path.open(encoding="utf-8") as handle:
             return yaml.safe_load(handle) or {}
 
@@ -95,4 +149,3 @@ class AppConfig:
     def show_models(self, cli_overrides: dict[str, dict[str, str]] | None = None) -> list[ResolvedModel]:
         tasks = ["filter", "news_analysis", "paper_analysis", "social_analysis", "digest"]
         return [self.resolve_model(task, (cli_overrides or {}).get(task, {})) for task in tasks]
-

@@ -178,9 +178,13 @@ def _history_candidates(items: list, clusters: list, history: HistoryStore) -> t
 
 
 async def run(args) -> int:
-    root = Path(__file__).resolve().parents[2]
     logger = configure_logging(args.debug)
-    config = AppConfig(root=root)
+    config = AppConfig()
+    root = config.root
+    logger.info(
+        "project_root=%s config_dir=%s data_dir=%s output_dir=%s",
+        config.root, config.config_dir, config.data_dir, config.output_dir,
+    )
     overrides = model_overrides(args)
     if args.show_models:
         print_models(config, overrides)
@@ -213,7 +217,7 @@ async def run(args) -> int:
         cluster.heat_score = max((item.heat_score for item in cluster.items), default=0)
     clusters.sort(key=lambda cluster: cluster.heat_score, reverse=True)
     metrics["clusters"] = len(clusters)
-    history = HistoryStore(root / "data" / "seen_items.json", logger)
+    history = HistoryStore(config.data_dir / "seen_items.json", logger)
     new_items, new_clusters = _history_candidates(items, clusters, history)
     candidates = new_items[: int(config.env("DRY_RUN_MAX_ITEMS", "60") or 60)]
     metrics["history_new_items"] = len(new_items)
@@ -260,7 +264,7 @@ async def run(args) -> int:
     watchlist = digest_result.watchlist if digest_result else [cluster.title for cluster in display_news[:3]]
     report_date = datetime.now().astimezone().date()
     report = DigestBuilder().build(report_date=report_date, news_clusters=display_news, news_analyses=news_results, papers=display_papers, paper_analyses=paper_results, social=display_social, social_analyses=social_results, conflicts=conflicts, watchlist=watchlist, metrics=metrics | {"llm_usage": router.usage_summary()})
-    output_path = root / "output" / f"AI_Daily_Brief_{report_date.isoformat()}.md"
+    output_path = config.output_dir / f"AI_Daily_Brief_{report_date.isoformat()}.md"
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(report, encoding="utf-8")
     logger.info("output=%s", output_path)

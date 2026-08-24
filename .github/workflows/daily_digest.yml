@@ -12,6 +12,9 @@ permissions:
 jobs:
   daily-digest:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ${{ github.workspace }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -41,6 +44,9 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          AI_DAILY_CONFIG_DIR: ${{ github.workspace }}/config
+          AI_DAILY_DATA_DIR: ${{ github.workspace }}/data
+          AI_DAILY_OUTPUT_DIR: ${{ github.workspace }}/output
           FILTER_PROVIDER: ${{ vars.FILTER_PROVIDER }}
           FILTER_MODEL: ${{ vars.FILTER_MODEL }}
           NEWS_ANALYSIS_PROVIDER: ${{ vars.NEWS_ANALYSIS_PROVIDER }}
