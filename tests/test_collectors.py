@@ -1,4 +1,5 @@
 from datetime import datetime, timedelta, timezone
+from email.utils import format_datetime
 from types import SimpleNamespace
 
 import pytest
@@ -11,34 +12,64 @@ from ai_daily.collectors.hackernews import HackerNewsCollector
 from ai_daily.collectors.official_blog import OfficialBlogCollector
 from ai_daily.collectors.semantic_scholar import SemanticScholarCollector
 from ai_daily.collectors.x import XCollector
+from ai_daily.collectors.base import BaseCollector
+
+FIXED_NOW = datetime(2026, 8, 25, 12, 0, 0, tzinfo=timezone.utc)
+
+
+@pytest.fixture
+def fixed_now(monkeypatch):
+    """所有 Collector 窗口判断以同一个 UTC 基准执行，独立于机器时区与日期。"""
+    monkeypatch.setattr(BaseCollector, "now", lambda _self: FIXED_NOW)
+    return FIXED_NOW
+
+
+def _rss_xml(published_at: datetime) -> bytes:
+    pub_date = format_datetime(published_at.astimezone(timezone.utc), usegmt=True)
+    return f"""<rss version='2.0'><channel><title>Test</title><item><title>AI agents launch</title><link>https://example.com/a</link><description>RAG and AI agents</description><pubDate>{pub_date}</pubDate></item></channel></rss>""".encode()
 
 
 class FakeResponse:
-    content = b"""<rss version='2.0'><channel><title>Test</title><item><title>AI agents launch</title><link>https://example.com/a</link><description>RAG and AI agents</description><pubDate>Sat, 23 Aug 2026 12:00:00 GMT</pubDate></item></channel></rss>"""
+    def __init__(self, content: bytes):
+        self.content = content
 
     def raise_for_status(self):
         return None
 
 
 class FakeClient:
+    def __init__(self, content: bytes):
+        self.content = content
+
     async def get(self, url, timeout=None, **kwargs):
         assert timeout is not None
-        return FakeResponse()
+        return FakeResponse(self.content)
 
 
 @pytest.mark.asyncio
-async def test_rss_collector_uses_timeout_and_unified_model(app_config):
+async def test_rss_collector_uses_timeout_and_unified_model(app_config, fixed_now):
     source = SimpleNamespace(name="Test", url="https://example.com/feed", type="rss", authority_weight=80, enabled=True)
     app_config.sources = [source]
-    items = await RSSCollector(app_config)._one(FakeClient(), source)
+    items = await RSSCollector(app_config)._one(FakeClient(_rss_xml(fixed_now - timedelta(hours=1))), source)
     assert len(items) == 1
     assert items[0].source_type == "rss"
     assert items[0].title == "AI agents launch"
 
 
 @pytest.mark.asyncio
-async def test_huggingface_falls_back_to_public_search(monkeypatch, app_config):
-    now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+@pytest.mark.parametrize(
+    ("age_hours", "expected_count"),
+    [(1, 1), (35, 1), (36, 1), (37, 0)],
+)
+async def test_rss_recency_window_is_deterministic(app_config, fixed_now, age_hours, expected_count):
+    source = SimpleNamespace(name="Test", url="https://example.com/feed", type="rss", authority_weight=80, enabled=True)
+    items = await RSSCollector(app_config)._one(FakeClient(_rss_xml(fixed_now - timedelta(hours=age_hours))), source)
+    assert len(items) == expected_count
+
+
+@pytest.mark.asyncio
+async def test_huggingface_falls_back_to_public_search(monkeypatch, app_config, fixed_now):
+    now = fixed_now.isoformat().replace("+00:00", "Z")
     row = {"paper": {"id": "1234.5678", "title": "Agent Memory", "summary": "A paper", "publishedAt": now, "authors": [{"name": "Author"}], "upvotes": 12}}
 
     class Response:
@@ -78,8 +109,8 @@ async def test_huggingface_falls_back_to_public_search(monkeypatch, app_config):
 
 
 @pytest.mark.asyncio
-async def test_huggingface_sdk_daily_papers_keeps_trending_metadata(monkeypatch, app_config):
-    now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+async def test_huggingface_sdk_daily_papers_keeps_trending_metadata(monkeypatch, app_config, fixed_now):
+    now = fixed_now.isoformat().replace("+00:00", "Z")
 
     async def daily(_self):
         return [{"paper": {"id": "2608.12345", "title": "Fresh Paper", "abstract": "New method", "publishedAt": now, "authors": [{"name": "Ada"}], "githubUrl": "https://github.com/example/paper"}, "upvotes": 42}]
@@ -118,8 +149,8 @@ async def test_huggingface_zero_results_is_explicit(monkeypatch, app_config):
 
 
 @pytest.mark.asyncio
-async def test_huggingface_primary_failure_uses_mocked_public_fallback(monkeypatch, app_config):
-    now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+async def test_huggingface_primary_failure_uses_mocked_public_fallback(monkeypatch, app_config, fixed_now):
+    now = fixed_now.isoformat().replace("+00:00", "Z")
     row = {"paper": {"id": "fallback-1", "title": "Fallback Paper", "summary": "Abstract", "publishedAt": now}}
     fallback_calls = 0
 
@@ -155,8 +186,8 @@ async def test_huggingface_both_paths_failure_is_isolated(monkeypatch, app_confi
 
 
 @pytest.mark.asyncio
-async def test_huggingface_adaptive_lookback_uses_120_hours(monkeypatch, app_config):
-    published = (datetime.now(timezone.utc) - timedelta(hours=100)).isoformat().replace("+00:00", "Z")
+async def test_huggingface_adaptive_lookback_uses_120_hours(monkeypatch, app_config, fixed_now):
+    published = (fixed_now - timedelta(hours=100)).isoformat().replace("+00:00", "Z")
 
     async def daily(_self):
         return [
@@ -199,7 +230,7 @@ async def test_rss_http_errors_are_reported(app_config, status):
 
 
 @pytest.mark.asyncio
-async def test_rss_parse_failure_and_zero_recent_items(app_config):
+async def test_rss_parse_failure_and_zero_recent_items(app_config, fixed_now):
     source = SimpleNamespace(name="Test", url="https://example.com/feed", type="rss", authority_weight=80, enabled=True)
 
     class Client:
@@ -210,7 +241,7 @@ async def test_rss_parse_failure_and_zero_recent_items(app_config):
     assert await collector._one(Client(), source) == []
     assert collector.health_records[-1]["status"] == "parse_failed"
 
-    old = b"""<rss><channel><item><title>Old</title><link>https://example.com/old</link><pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate></item></channel></rss>"""
+    old = _rss_xml(fixed_now - timedelta(hours=37))
     assert await collector._one(type("Client", (), {"get": lambda *args, **kwargs: _awaitable(_TextResponse(old))})(), source) == []
     assert collector.health_records[-1]["status"] == "ok_zero_recent_items"
 
@@ -220,8 +251,8 @@ async def _awaitable(value):
 
 
 @pytest.mark.asyncio
-async def test_arxiv_atom_date_category_and_configurable_window(monkeypatch, app_config):
-    xml = f"""<feed xmlns='http://www.w3.org/2005/Atom'><entry><id>http://arxiv.org/abs/2608.00001</id><published>{datetime.now(timezone.utc).isoformat()}</published><title>Methods</title><summary>Not keyword constrained</summary><author><name>Ada</name></author><category term='cs.AI'/><category term='cs.LG'/></entry></feed>""".encode()
+async def test_arxiv_atom_date_category_and_configurable_window(monkeypatch, app_config, fixed_now):
+    xml = f"""<feed xmlns='http://www.w3.org/2005/Atom'><entry><id>http://arxiv.org/abs/2608.00001</id><published>{fixed_now.isoformat()}</published><title>Methods</title><summary>Not keyword constrained</summary><author><name>Ada</name></author><category term='cs.AI'/><category term='cs.LG'/></entry></feed>""".encode()
 
     class Client:
         async def __aenter__(self): return self
@@ -236,8 +267,8 @@ async def test_arxiv_atom_date_category_and_configurable_window(monkeypatch, app
 
 
 @pytest.mark.asyncio
-async def test_arxiv_adaptive_lookback_expands_to_96_hours(monkeypatch, app_config):
-    published = (datetime.now(timezone.utc) - timedelta(hours=70)).isoformat()
+async def test_arxiv_adaptive_lookback_expands_to_96_hours(monkeypatch, app_config, fixed_now):
+    published = (fixed_now - timedelta(hours=70)).isoformat()
     entries = "".join(
         f"<entry><id>http://arxiv.org/abs/2608.00{index}</id><published>{published}</published><title>Paper {index}</title><summary>Abstract</summary><author><name>Ada</name></author><category term='cs.AI'/></entry>"
         for index in range(5)
@@ -257,8 +288,8 @@ async def test_arxiv_adaptive_lookback_expands_to_96_hours(monkeypatch, app_conf
 
 
 @pytest.mark.asyncio
-async def test_official_blog_reads_semantic_json_without_css(app_config):
-    now = datetime.now(timezone.utc).isoformat()
+async def test_official_blog_reads_semantic_json_without_css(app_config, fixed_now):
+    now = fixed_now.isoformat()
     html = f'<script type="application/ld+json">{{"@type":"NewsArticle","headline":"Official release","url":"/news/release","datePublished":"{now}","description":"AI announcement"}}</script>'.encode()
     source = SimpleNamespace(name="Official", url="https://example.com/news", type="official_blog", authority_weight=90, enabled=True)
 
@@ -286,8 +317,41 @@ async def test_bluesky_unconfigured_and_http_failures_are_isolated(app_config):
 
 
 @pytest.mark.asyncio
-async def test_hackernews_collector_uses_only_mocked_http(monkeypatch, app_config):
-    now = int(datetime.now(timezone.utc).timestamp())
+@pytest.mark.parametrize(("age_hours", "expected_count"), [(1, 1), (49, 0)])
+async def test_bluesky_recency_window_is_deterministic(app_config, fixed_now, age_hours, expected_count):
+    published = (fixed_now - timedelta(hours=age_hours)).isoformat().replace("+00:00", "Z")
+
+    class Response:
+        def raise_for_status(self):
+            return None
+
+        def json(self):
+            return {
+                "feed": [{
+                    "post": {
+                        "uri": "at://did:plc:test/app.bsky.feed.post/test-post",
+                        "cid": "test-cid",
+                        "record": {"createdAt": published, "text": "AI agent update"},
+                        "likeCount": 2,
+                        "replyCount": 1,
+                        "repostCount": 0,
+                    },
+                }],
+            }
+
+    class Client:
+        async def get(self, *args, **kwargs):
+            return Response()
+
+    person = SimpleNamespace(name="Fixed Time", platforms={"bluesky": "fixed.example"}, weight=80)
+    items = await BlueskyCollector(app_config)._person(Client(), person)
+    assert len(items) == expected_count
+
+
+@pytest.mark.asyncio
+@pytest.mark.parametrize(("age_hours", "expected_count"), [(1, 1), (37, 0)])
+async def test_hackernews_collector_uses_only_mocked_http(monkeypatch, app_config, fixed_now, age_hours, expected_count):
+    now = int((fixed_now - timedelta(hours=age_hours)).timestamp())
 
     class Response:
         def __init__(self, payload):
@@ -310,8 +374,9 @@ async def test_hackernews_collector_uses_only_mocked_http(monkeypatch, app_confi
 
     monkeypatch.setattr("ai_daily.collectors.hackernews.httpx.AsyncClient", lambda **kwargs: Client())
     items = await HackerNewsCollector(app_config).collect()
-    assert len(items) == 1
-    assert items[0].source_type == "hackernews"
+    assert len(items) == expected_count
+    if items:
+        assert items[0].source_type == "hackernews"
 
 
 @pytest.mark.asyncio

@@ -42,8 +42,12 @@ class BaseCollector:
             await asyncio.sleep(0.4 * (attempt + 1))
         raise RuntimeError(f"请求失败: {url}")
 
+    def now(self) -> datetime:
+        """统一提供 UTC 当前时间；测试可覆写，生产默认仍使用真实时间。"""
+        return datetime.now(timezone.utc)
+
     def recent(self, published_at: datetime, hours: int) -> bool:
-        now = datetime.now(timezone.utc)
+        now = self.now()
         if published_at.tzinfo is None:
             published_at = published_at.replace(tzinfo=timezone.utc)
         age = (now - published_at.astimezone(timezone.utc)).total_seconds() / 3600
@@ -57,7 +61,7 @@ class BaseCollector:
         minimum_candidates: int = 5,
     ) -> tuple[list[ContentItem], int, str]:
         """按新鲜度逐档扩展论文窗口，旧论文仅在新论文不足时参与补位。"""
-        now = datetime.now(timezone.utc)
+        now = self.now()
         ages = {
             item.id: max(0.0, (now - item.published_at.astimezone(timezone.utc)).total_seconds() / 3600)
             for item in items
