@@ -3,7 +3,7 @@ name: AI Daily Brief
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "17 0 * * *"
 permissions:
   contents: write
 
