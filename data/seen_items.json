@@ -152,5 +152,137 @@
     "last_sent": "2026-08-24T01:50:56.459073+00:00",
     "content_hash": "2f324aba2ff98e560ac38fb2466e133aea6e9b79dedbcf8eeffe2adc43f984b5",
     "update": false
+  },
+  {
+    "id": "event-28bb74b5160b0061",
+    "canonical_url": "",
+    "cluster_id": "event-28bb74b5160b0061",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "first_seen": "2026-08-26T02:04:09.673420+00:00",
+    "last_seen": "2026-08-26T02:04:09.673846+00:00",
+    "last_sent": "2026-08-26T02:04:09.673846+00:00",
+    "content_hash": "a777d9b5eceb6a7b28005867e7b11a1aff3d89561316371766deb8f5d8d5c2b8",
+    "update": false
+  },
+  {
+    "id": "event-8a622745ed421a14",
+    "canonical_url": "",
+    "cluster_id": "event-8a622745ed421a14",
+    "title": "EchoWM: Open and Enterable Omnimodal World Models",
+    "first_seen": "2026-08-26T02:04:09.673544+00:00",
+    "last_seen": "2026-08-26T02:04:09.673879+00:00",
+    "last_sent": "2026-08-26T02:04:09.673879+00:00",
+    "content_hash": "31f77717a61b8d5e9af844eaef0d02a584485aeecfcdb1b704b3cce9c9162ee7",
+    "update": false
+  },
+  {
+    "id": "event-fd34c2fb681deabd",
+    "canonical_url": "",
+    "cluster_id": "event-fd34c2fb681deabd",
+    "title": "Prime Agent: A Self-Improving RLM Harness",
+    "first_seen": "2026-08-26T02:04:09.673569+00:00",
+    "last_seen": "2026-08-26T02:04:09.673887+00:00",
+    "last_sent": "2026-08-26T02:04:09.673887+00:00",
+    "content_hash": "c9e653cee152fa5c383e65cba6be6f63d63e3773d4ef6f55a688ffe7500a2051",
+    "update": false
+  },
+  {
+    "id": "event-8b4e87434af33e0a",
+    "canonical_url": "",
+    "cluster_id": "event-8b4e87434af33e0a",
+    "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+    "first_seen": "2026-08-26T02:04:09.673587+00:00",
+    "last_seen": "2026-08-26T02:04:09.673895+00:00",
+    "last_sent": "2026-08-26T02:04:09.673895+00:00",
+    "content_hash": "b7b294d814af25255b170504b7718ed4aca2eac343baffb1b608f602982c655b",
+    "update": false
+  },
+  {
+    "id": "hf-b031aad84c386406",
+    "canonical_url": "https://huggingface.co/papers/2608.17906",
+    "cluster_id": "event-ae87f9c83f034e6a",
+    "title": "AutoResearch: Insight In, Hallucination Out",
+    "first_seen": "2026-08-26T02:04:09.673612+00:00",
+    "last_seen": "2026-08-26T02:04:09.673612+00:00",
+    "last_sent": "2026-08-26T02:04:09.673612+00:00",
+    "content_hash": "72983056b8bfc37b998f23739a5b1de83e4ff2ea7657cae3dfbb6c443d3341e1",
+    "update": false
+  },
+  {
+    "id": "hn-49421074",
+    "canonical_url": "https://developers.openai.com/api/docs/pricing",
+    "cluster_id": "event-08b135ef056344a4",
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "first_seen": "2026-08-26T02:04:09.673639+00:00",
+    "last_seen": "2026-08-26T02:04:09.673639+00:00",
+    "last_sent": "2026-08-26T02:04:09.673639+00:00",
+    "content_hash": "84f321ee21db76ec3290d8891f4a12673fa1866d33303f3fb055d17b00795732",
+    "update": false
+  },
+  {
+    "id": "hn-49424387",
+    "canonical_url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+    "cluster_id": "event-33359dd7099fa24f",
+    "title": "LLMs could control their host machines by exploiting inference engines",
+    "first_seen": "2026-08-26T02:04:09.673680+00:00",
+    "last_seen": "2026-08-26T02:04:09.673680+00:00",
+    "last_sent": "2026-08-26T02:04:09.673680+00:00",
+    "content_hash": "3e37ff50f0409ff1a5340e8301c0f9a16dd60ac69a915b6ae2408ae3f86636ba",
+    "update": false
+  },
+  {
+    "id": "event-14f341a3820a544c",
+    "canonical_url": "",
+    "cluster_id": "event-14f341a3820a544c",
+    "title": "Annoying side effect of all the AI bots on the site is that they are all “well-read” and therefore reply cogently my nic",
+    "first_seen": "2026-08-26T02:04:09.673749+00:00",
+    "last_seen": "2026-08-26T02:04:09.673867+00:00",
+    "last_sent": "2026-08-26T02:04:09.673867+00:00",
+    "content_hash": "77ea11e744584ca0925f077adb12d3c6d28c7bb0a1dacf76a32b47bae9531a7d",
+    "update": false
+  },
+  {
+    "id": "6d1dcd425b17c55a9d71",
+    "canonical_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
+    "cluster_id": "event-638489ccf77cec34",
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "first_seen": "2026-08-26T02:04:09.673796+00:00",
+    "last_seen": "2026-08-26T02:04:09.673804+00:00",
+    "last_sent": "2026-08-26T02:04:09.673804+00:00",
+    "content_hash": "98afa45a39e78a3557322f21dce15b1afcc1e1e2b46d3d6dd669fe507ef1b45a",
+    "update": false
+  },
+  {
+    "id": "34568065c18902e80097",
+    "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "cluster_id": "event-1a39c2c9e317a790",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "first_seen": "2026-08-26T02:04:09.673812+00:00",
+    "last_seen": "2026-08-26T02:04:09.673812+00:00",
+    "last_sent": "2026-08-26T02:04:09.673812+00:00",
+    "content_hash": "3dc267c8822275927b07d364e1751569288da7d1d89d6f2350a827ad223a296e",
+    "update": false
+  },
+  {
+    "id": "04794e83c27d8001794a",
+    "canonical_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "cluster_id": "event-4ab534e8b6d9f47a",
+    "title": "The full stack behind abundant intelligence",
+    "first_seen": "2026-08-26T02:04:09.673820+00:00",
+    "last_seen": "2026-08-26T02:04:09.673820+00:00",
+    "last_sent": "2026-08-26T02:04:09.673820+00:00",
+    "content_hash": "6c400214e73cc52bb1560e9f90e11c369e8e2e3908c23b08269e11672bc96767",
+    "update": false
+  },
+  {
+    "id": "0607456fb34351180d2e",
+    "canonical_url": "https://theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "cluster_id": "event-641ccd6bd4c2a29a",
+    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "first_seen": "2026-08-26T02:04:09.673828+00:00",
+    "last_seen": "2026-08-26T02:04:09.673828+00:00",
+    "last_sent": "2026-08-26T02:04:09.673828+00:00",
+    "content_hash": "3b44fc1371da9be4a71338d2860725b8090d7326262e975a0476cb8f7785cd54",
+    "update": false
   }
 ]
