@@ -416,5 +416,104 @@
     "last_sent": "2026-08-27T09:58:11.318619+00:00",
     "content_hash": "bfbc2f71b6defa8abe077b8acaf53b2ec93a28612ca0e719b0f21eba8990abd7",
     "update": false
+  },
+  {
+    "id": "event-58a35a97de1bb61d",
+    "canonical_url": "",
+    "cluster_id": "event-58a35a97de1bb61d",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "first_seen": "2026-08-28T11:25:56.889112+00:00",
+    "last_seen": "2026-08-28T11:25:56.889767+00:00",
+    "last_sent": "2026-08-28T11:25:56.889767+00:00",
+    "content_hash": "7e79a022eec73ec6d15accffdc7fb24aebbea4c2ae59456cf35753e391cfe684",
+    "update": false
+  },
+  {
+    "id": "event-95258ba3b5462c0c",
+    "canonical_url": "",
+    "cluster_id": "event-95258ba3b5462c0c",
+    "title": "WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report",
+    "first_seen": "2026-08-28T11:25:56.889262+00:00",
+    "last_seen": "2026-08-28T11:25:56.890097+00:00",
+    "last_sent": "2026-08-28T11:25:56.890097+00:00",
+    "content_hash": "9b59e0d0c1b2bd3c27cdf395311517431ad45ba2276a107b68776e59e2adeede",
+    "update": false
+  },
+  {
+    "id": "event-2da855d23a54cd7d",
+    "canonical_url": "",
+    "cluster_id": "event-2da855d23a54cd7d",
+    "title": "On-Policy Self-Distillation in Diffusion Models",
+    "first_seen": "2026-08-28T11:25:56.889273+00:00",
+    "last_seen": "2026-08-28T11:25:56.890115+00:00",
+    "last_sent": "2026-08-28T11:25:56.890115+00:00",
+    "content_hash": "cf5292229df8d03ee120b3ebdb51b833eb81ebc7e6a28e124922aab3984c0654",
+    "update": false
+  },
+  {
+    "id": "event-2837828855fcf890",
+    "canonical_url": "",
+    "cluster_id": "event-2837828855fcf890",
+    "title": "WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation",
+    "first_seen": "2026-08-28T11:25:56.889285+00:00",
+    "last_seen": "2026-08-28T11:25:56.890129+00:00",
+    "last_sent": "2026-08-28T11:25:56.890129+00:00",
+    "content_hash": "2b5e07a1baea2eda4284d65a84709f84b0db0269486e7e3f2fa1443f2a40340d",
+    "update": false
+  },
+  {
+    "id": "event-7279c34c47eb8594",
+    "canonical_url": "",
+    "cluster_id": "event-7279c34c47eb8594",
+    "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
+    "first_seen": "2026-08-28T11:25:56.889306+00:00",
+    "last_seen": "2026-08-28T11:25:56.890148+00:00",
+    "last_sent": "2026-08-28T11:25:56.890148+00:00",
+    "content_hash": "efc08ba3e60b2b36e0ef6721d78e530bcd2af5d94113ebdf97060e2828b73c72",
+    "update": false
+  },
+  {
+    "id": "hf-0f90d5e98b2a01df",
+    "canonical_url": "https://huggingface.co/papers/2608.23552",
+    "cluster_id": "event-1fb9dde50f4847c0",
+    "title": "Prime Agent: A Self-Improving RLM Harness",
+    "first_seen": "2026-08-28T11:25:56.889316+00:00",
+    "last_seen": "2026-08-28T11:25:56.889328+00:00",
+    "last_sent": "2026-08-28T11:25:56.889328+00:00",
+    "content_hash": "c9e653cee152fa5c383e65cba6be6f63d63e3773d4ef6f55a688ffe7500a2051",
+    "update": false
+  },
+  {
+    "id": "hf-4bbf2c45c6cc55ea",
+    "canonical_url": "https://huggingface.co/papers/2608.25580",
+    "cluster_id": "event-72e277b8223a1420",
+    "title": "V-Rubrics: Visual Faithfulness via Rubric-Based Reinforcement Learning",
+    "first_seen": "2026-08-28T11:25:56.889392+00:00",
+    "last_seen": "2026-08-28T11:25:56.889392+00:00",
+    "last_sent": "2026-08-28T11:25:56.889392+00:00",
+    "content_hash": "02db8979db44afca2ea489afc54b29e99467d4fa1dae014b2824e6c7ffbea82f",
+    "update": false
+  },
+  {
+    "id": "arxiv-03b97ef9b09e2cd8",
+    "canonical_url": "http://arxiv.org/abs/2608.27449v1",
+    "cluster_id": "event-a2912b90da33156d",
+    "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+    "first_seen": "2026-08-28T11:25:56.889619+00:00",
+    "last_seen": "2026-08-28T11:25:56.889619+00:00",
+    "last_sent": "2026-08-28T11:25:56.889619+00:00",
+    "content_hash": "3ac5da2bdd31bdc2fb63f04b571e2b3b4e700cf0a048a00cf5bc04d784365223",
+    "update": false
+  },
+  {
+    "id": "arxiv-f40073dba19c1e0a",
+    "canonical_url": "http://arxiv.org/abs/2608.27448v1",
+    "cluster_id": "event-a778e090277ee9d7",
+    "title": "TTPO: Test-Time Policy Optimization",
+    "first_seen": "2026-08-28T11:25:56.889631+00:00",
+    "last_seen": "2026-08-28T11:25:56.889631+00:00",
+    "last_sent": "2026-08-28T11:25:56.889631+00:00",
+    "content_hash": "65f882b8755a302b7c6fcfd061c2c73f69b2da2f21ebb909d4263784b04652bc",
+    "update": false
   }
 ]
