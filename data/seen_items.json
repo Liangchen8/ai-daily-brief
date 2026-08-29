@@ -515,5 +515,115 @@
     "last_sent": "2026-08-28T11:25:56.889631+00:00",
     "content_hash": "65f882b8755a302b7c6fcfd061c2c73f69b2da2f21ebb909d4263784b04652bc",
     "update": false
+  },
+  {
+    "id": "event-17e55d24bc87b29e",
+    "canonical_url": "",
+    "cluster_id": "event-17e55d24bc87b29e",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "first_seen": "2026-08-29T07:06:32.579694+00:00",
+    "last_seen": "2026-08-29T07:06:32.580477+00:00",
+    "last_sent": "2026-08-29T07:06:32.580477+00:00",
+    "content_hash": "11e49d89e53b97549350fc3e8bd189783dd5ce1b1b427854baf4196a9a58fb97",
+    "update": false
+  },
+  {
+    "id": "event-27a1ab9e342c7fdc",
+    "canonical_url": "",
+    "cluster_id": "event-27a1ab9e342c7fdc",
+    "title": "GameWAM: A World Action Model for Video Games",
+    "first_seen": "2026-08-29T07:06:32.579829+00:00",
+    "last_seen": "2026-08-29T07:06:32.580639+00:00",
+    "last_sent": "2026-08-29T07:06:32.580639+00:00",
+    "content_hash": "8cd7139bdd08766d67de6a445231f6119f85149485125da7f72f26fa5ec4e884",
+    "update": false
+  },
+  {
+    "id": "event-b259b9b60e711af3",
+    "canonical_url": "",
+    "cluster_id": "event-b259b9b60e711af3",
+    "title": "TTPO: Test-Time Policy Optimization",
+    "first_seen": "2026-08-29T07:06:32.579855+00:00",
+    "last_seen": "2026-08-29T07:06:32.580724+00:00",
+    "last_sent": "2026-08-29T07:06:32.580724+00:00",
+    "content_hash": "65f882b8755a302b7c6fcfd061c2c73f69b2da2f21ebb909d4263784b04652bc",
+    "update": false
+  },
+  {
+    "id": "event-a574994b8c3a7ccb",
+    "canonical_url": "",
+    "cluster_id": "event-a574994b8c3a7ccb",
+    "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+    "first_seen": "2026-08-29T07:06:32.579918+00:00",
+    "last_seen": "2026-08-29T07:06:32.580740+00:00",
+    "last_sent": "2026-08-29T07:06:32.580740+00:00",
+    "content_hash": "f0c065752ae36c6a36db5239b9f38187bb325cdb2a0e6c4f4321387e261109a5",
+    "update": false
+  },
+  {
+    "id": "event-f24f3b3e25f28916",
+    "canonical_url": "",
+    "cluster_id": "event-f24f3b3e25f28916",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "first_seen": "2026-08-29T07:06:32.579962+00:00",
+    "last_seen": "2026-08-29T07:06:32.580767+00:00",
+    "last_sent": "2026-08-29T07:06:32.580767+00:00",
+    "content_hash": "6053e8ad7218b7a2901f3b204504f32d7c8e894c12bf1b1bbec174d1708fb75f",
+    "update": false
+  },
+  {
+    "id": "bsky-bafyreiacowv7otiocog37yjp2hdpzbbk6csvuv33jcpvz5qvdqyx276fqq",
+    "canonical_url": "https://bsky.app/profile/emollick.bsky.social/post/3mu35oijits2v",
+    "cluster_id": "event-962810f3ca5ef16f",
+    "title": "🚨Our new research examines agentic shopping: can you consistently predict (or, using marketing, influence) what an agent",
+    "first_seen": "2026-08-29T07:06:32.580069+00:00",
+    "last_seen": "2026-08-29T07:06:32.580069+00:00",
+    "last_sent": "2026-08-29T07:06:32.580069+00:00",
+    "content_hash": "ae811cc5d12d93ea5fcefa87df653ab2829b8e5595f9fd17127589fe5f152351",
+    "update": false
+  },
+  {
+    "id": "hf-9d26c46bc8c0a49f",
+    "canonical_url": "https://huggingface.co/papers/2608.26238",
+    "cluster_id": "event-767ed6261f966133",
+    "title": "Procedura: Agentic 3D Modeling with Procedural Control",
+    "first_seen": "2026-08-29T07:06:32.580084+00:00",
+    "last_seen": "2026-08-29T07:06:32.580084+00:00",
+    "last_sent": "2026-08-29T07:06:32.580084+00:00",
+    "content_hash": "bfec0d54066609aaf9df47fe1c6b0c113cdd068737d227b0ff0cb60dcc9a1297",
+    "update": false
+  },
+  {
+    "id": "hn-49477311",
+    "canonical_url": "https://infernalcode.com/posts/your-ai-agent-has-root",
+    "cluster_id": "event-559ff07e4bdee7fd",
+    "title": "AI Agent Has Root",
+    "first_seen": "2026-08-29T07:06:32.580165+00:00",
+    "last_seen": "2026-08-29T07:06:32.580165+00:00",
+    "last_sent": "2026-08-29T07:06:32.580165+00:00",
+    "content_hash": "ae4605fe21b6e9e83b18aca4f052ae86dd280433eb2c4646293a12ea2d53a6a5",
+    "update": false
+  },
+  {
+    "id": "arxiv-a4d39c7d11ec3434",
+    "canonical_url": "http://arxiv.org/abs/2608.27395v1",
+    "cluster_id": "event-0a5ab45f9671660c",
+    "title": "LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics",
+    "first_seen": "2026-08-29T07:06:32.580383+00:00",
+    "last_seen": "2026-08-29T07:06:32.580383+00:00",
+    "last_sent": "2026-08-29T07:06:32.580383+00:00",
+    "content_hash": "e16bae1b6997cf943b496bdeb66d136224353a5e602cb1328037ba5c1e7caf82",
+    "update": false
+  },
+  {
+    "id": "arxiv-dcabefdc7f6f937b",
+    "canonical_url": "http://arxiv.org/abs/2608.27382v1",
+    "cluster_id": "event-cf075978230c1fb7",
+    "title": "Token-Level Advertising",
+    "first_seen": "2026-08-29T07:06:32.580425+00:00",
+    "last_seen": "2026-08-29T07:06:32.580425+00:00",
+    "last_sent": "2026-08-29T07:06:32.580425+00:00",
+    "content_hash": "2ca45c3e5ecd8c390670eac46f763509cba89d4ad03d173d39f7206c62bbdd7f",
+    "update": false
   }
 ]
