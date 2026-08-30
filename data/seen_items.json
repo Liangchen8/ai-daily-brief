@@ -625,5 +625,71 @@
     "last_sent": "2026-08-29T07:06:32.580425+00:00",
     "content_hash": "2ca45c3e5ecd8c390670eac46f763509cba89d4ad03d173d39f7206c62bbdd7f",
     "update": false
+  },
+  {
+    "id": "event-1a2a1aad65b628a1",
+    "canonical_url": "",
+    "cluster_id": "event-1a2a1aad65b628a1",
+    "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
+    "first_seen": "2026-08-30T05:29:20.080572+00:00",
+    "last_seen": "2026-08-30T05:29:20.081290+00:00",
+    "last_sent": "2026-08-30T05:29:20.081290+00:00",
+    "content_hash": "c0382ac508841ba21212d8ca7548f248d8484cac751d81b8d33cf0a6bd0507f6",
+    "update": false
+  },
+  {
+    "id": "event-f8139db5b9255892",
+    "canonical_url": "",
+    "cluster_id": "event-f8139db5b9255892",
+    "title": "JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution",
+    "first_seen": "2026-08-30T05:29:20.080754+00:00",
+    "last_seen": "2026-08-30T05:29:20.081452+00:00",
+    "last_sent": "2026-08-30T05:29:20.081452+00:00",
+    "content_hash": "2cdea3fdf7dd5edd0c55fa25efe1c009a9b40621c49224d2190030994f4fb712",
+    "update": false
+  },
+  {
+    "id": "event-e38dd4894d497cfd",
+    "canonical_url": "",
+    "cluster_id": "event-e38dd4894d497cfd",
+    "title": "vLLM v0.28.0",
+    "first_seen": "2026-08-30T05:29:20.080828+00:00",
+    "last_seen": "2026-08-30T05:29:20.081468+00:00",
+    "last_sent": "2026-08-30T05:29:20.081468+00:00",
+    "content_hash": "1fa952a89982789597eff2710f94b9c06344cdd8baab8d441d59f6acaa15b972",
+    "update": false
+  },
+  {
+    "id": "event-bdb126f949464f4e",
+    "canonical_url": "",
+    "cluster_id": "event-bdb126f949464f4e",
+    "title": "Sony Music and Warner Chappell are suing Anthropic",
+    "first_seen": "2026-08-30T05:29:20.080939+00:00",
+    "last_seen": "2026-08-30T05:29:20.081480+00:00",
+    "last_sent": "2026-08-30T05:29:20.081480+00:00",
+    "content_hash": "86dea87a8b85b607ebbf6f3f3ffc06fa90c21f06049921b27d2c91c139801068",
+    "update": false
+  },
+  {
+    "id": "event-d55a5477f3a6cf2c",
+    "canonical_url": "",
+    "cluster_id": "event-d55a5477f3a6cf2c",
+    "title": "Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090",
+    "first_seen": "2026-08-30T05:29:20.081154+00:00",
+    "last_seen": "2026-08-30T05:29:20.081492+00:00",
+    "last_sent": "2026-08-30T05:29:20.081492+00:00",
+    "content_hash": "f035967e53a97a4d3d5a397076e0355f6f5b54b4f1b828f948f1e8ee6e981fe7",
+    "update": false
+  },
+  {
+    "id": "arxiv-c618dcf5061e45fe",
+    "canonical_url": "http://arxiv.org/abs/2608.27365v1",
+    "cluster_id": "event-7a4f66020f1fd1d0",
+    "title": "KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations",
+    "first_seen": "2026-08-30T05:29:20.081169+00:00",
+    "last_seen": "2026-08-30T05:29:20.081169+00:00",
+    "last_sent": "2026-08-30T05:29:20.081169+00:00",
+    "content_hash": "6522be0a3e9644be5c673cb582ba83ff9f652ba80892f4cc7dc20cd2352d9d65",
+    "update": false
   }
 ]
