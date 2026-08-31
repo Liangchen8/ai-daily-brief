@@ -663,12 +663,12 @@
     "id": "event-bdb126f949464f4e",
     "canonical_url": "",
     "cluster_id": "event-bdb126f949464f4e",
-    "title": "Sony Music and Warner Chappell are suing Anthropic",
+    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
     "first_seen": "2026-08-30T05:29:20.080939+00:00",
-    "last_seen": "2026-08-30T05:29:20.081480+00:00",
-    "last_sent": "2026-08-30T05:29:20.081480+00:00",
-    "content_hash": "86dea87a8b85b607ebbf6f3f3ffc06fa90c21f06049921b27d2c91c139801068",
-    "update": false
+    "last_seen": "2026-08-31T05:37:22.594680+00:00",
+    "last_sent": "2026-08-31T05:37:22.594680+00:00",
+    "content_hash": "86b1ecd3c1aabfbe47f2e52c486d24490d852a4989c981b43c56794e0a625613",
+    "update": true
   },
   {
     "id": "event-d55a5477f3a6cf2c",
@@ -690,6 +690,61 @@
     "last_seen": "2026-08-30T05:29:20.081169+00:00",
     "last_sent": "2026-08-30T05:29:20.081169+00:00",
     "content_hash": "6522be0a3e9644be5c673cb582ba83ff9f652ba80892f4cc7dc20cd2352d9d65",
+    "update": false
+  },
+  {
+    "id": "event-3416065ad20a64e4",
+    "canonical_url": "",
+    "cluster_id": "event-3416065ad20a64e4",
+    "title": "GameWAM: A World Action Model for Video Games",
+    "first_seen": "2026-08-31T05:37:22.593697+00:00",
+    "last_seen": "2026-08-31T05:37:22.594416+00:00",
+    "last_sent": "2026-08-31T05:37:22.594416+00:00",
+    "content_hash": "de758013685d5adeed0b9a9e079e41291efba2ec2c92a9fc9c3d4cb1b4180234",
+    "update": false
+  },
+  {
+    "id": "event-4f93cdce419518bd",
+    "canonical_url": "",
+    "cluster_id": "event-4f93cdce419518bd",
+    "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+    "first_seen": "2026-08-31T05:37:22.593857+00:00",
+    "last_seen": "2026-08-31T05:37:22.594635+00:00",
+    "last_sent": "2026-08-31T05:37:22.594635+00:00",
+    "content_hash": "3e44a2dae0940816da073bc16a95567404a81a04c7925a7c6f9cd4e87b298ba5",
+    "update": false
+  },
+  {
+    "id": "event-59ddeecd5ed82d54",
+    "canonical_url": "",
+    "cluster_id": "event-59ddeecd5ed82d54",
+    "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+    "first_seen": "2026-08-31T05:37:22.593993+00:00",
+    "last_seen": "2026-08-31T05:37:22.594654+00:00",
+    "last_sent": "2026-08-31T05:37:22.594654+00:00",
+    "content_hash": "f034a81ba83a064e2a51e9bb585052a6c6a97903a2fe94c5803beb08a5d37083",
+    "update": false
+  },
+  {
+    "id": "event-ebaafaf019e44fc4",
+    "canonical_url": "",
+    "cluster_id": "event-ebaafaf019e44fc4",
+    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "first_seen": "2026-08-31T05:37:22.594037+00:00",
+    "last_seen": "2026-08-31T05:37:22.594667+00:00",
+    "last_sent": "2026-08-31T05:37:22.594667+00:00",
+    "content_hash": "8b750417b494e6821b81f08fdb301406cfb4c9fcc0e6549f235584ec783a9904",
+    "update": false
+  },
+  {
+    "id": "arxiv-66e3202a873cc520",
+    "canonical_url": "http://arxiv.org/abs/2608.28557v1",
+    "cluster_id": "event-a2862cab3d3c3493",
+    "title": "Blog: Survey of Optimizers",
+    "first_seen": "2026-08-31T05:37:22.594098+00:00",
+    "last_seen": "2026-08-31T05:37:22.594098+00:00",
+    "last_sent": "2026-08-31T05:37:22.594098+00:00",
+    "content_hash": "c663acafa1e629203bf06a9acf41d9d14ee84ef8bbf3dc6d95d1294ae7951c36",
     "update": false
   }
 ]
