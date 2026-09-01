@@ -746,5 +746,82 @@
     "last_sent": "2026-08-31T05:37:22.594098+00:00",
     "content_hash": "c663acafa1e629203bf06a9acf41d9d14ee84ef8bbf3dc6d95d1294ae7951c36",
     "update": false
+  },
+  {
+    "id": "event-6c32473b8aa748a1",
+    "canonical_url": "",
+    "cluster_id": "event-6c32473b8aa748a1",
+    "title": "A milestone in expanding access to AI",
+    "first_seen": "2026-09-01T05:13:37.726488+00:00",
+    "last_seen": "2026-09-01T05:13:37.727017+00:00",
+    "last_sent": "2026-09-01T05:13:37.727017+00:00",
+    "content_hash": "9e7a912a3e7aa20497120556d074d1b97eaa28e6ab4ec57dce7ddcb2e16c98f7",
+    "update": false
+  },
+  {
+    "id": "event-06f26bf1d5d4ae10",
+    "canonical_url": "",
+    "cluster_id": "event-06f26bf1d5d4ae10",
+    "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
+    "first_seen": "2026-09-01T05:13:37.726645+00:00",
+    "last_seen": "2026-09-01T05:13:37.727168+00:00",
+    "last_sent": "2026-09-01T05:13:37.727168+00:00",
+    "content_hash": "61dbcacaf2dc7397321a29fc66e8f0d204f7c32210deaabadca947aa1256371f",
+    "update": false
+  },
+  {
+    "id": "event-4c4c9fb3b230dfdf",
+    "canonical_url": "",
+    "cluster_id": "event-4c4c9fb3b230dfdf",
+    "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
+    "first_seen": "2026-09-01T05:13:37.726657+00:00",
+    "last_seen": "2026-09-01T05:13:37.727183+00:00",
+    "last_sent": "2026-09-01T05:13:37.727183+00:00",
+    "content_hash": "b30687d256316a597ab4431fa9ed81ac9b885bcd71c0007a08964c2da6f84b26",
+    "update": false
+  },
+  {
+    "id": "event-4100d60e0e2f1d96",
+    "canonical_url": "",
+    "cluster_id": "event-4100d60e0e2f1d96",
+    "title": "JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution",
+    "first_seen": "2026-09-01T05:13:37.726666+00:00",
+    "last_seen": "2026-09-01T05:13:37.727193+00:00",
+    "last_sent": "2026-09-01T05:13:37.727193+00:00",
+    "content_hash": "72f7ef0b9ec84ac8172c84a7bdc46fc73f7d3d02e26c85db3d66e6409509f464",
+    "update": false
+  },
+  {
+    "id": "event-21b07bbe51ad75d7",
+    "canonical_url": "",
+    "cluster_id": "event-21b07bbe51ad75d7",
+    "title": "Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090",
+    "first_seen": "2026-09-01T05:13:37.726723+00:00",
+    "last_seen": "2026-09-01T05:13:37.727202+00:00",
+    "last_sent": "2026-09-01T05:13:37.727202+00:00",
+    "content_hash": "9a4a2409a29a0affb2ce63434e3915a93034e22e0a022e39a870222c291c15f3",
+    "update": false
+  },
+  {
+    "id": "hn-49508317",
+    "canonical_url": "https://calpaterson.com/memoryfields.html",
+    "cluster_id": "event-b5655b997bbb8b95",
+    "title": "Agent memory as a file format",
+    "first_seen": "2026-09-01T05:13:37.726777+00:00",
+    "last_seen": "2026-09-01T05:13:37.726777+00:00",
+    "last_sent": "2026-09-01T05:13:37.726777+00:00",
+    "content_hash": "e5799792f02060a81784160e2e1bcc720538f09a92227f7a8b10b8af1d02cade",
+    "update": false
+  },
+  {
+    "id": "hn-49517537",
+    "canonical_url": "https://antigravity.google/docs/boost",
+    "cluster_id": "event-6af64929facad8f1",
+    "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
+    "first_seen": "2026-09-01T05:13:37.726785+00:00",
+    "last_seen": "2026-09-01T05:13:37.726785+00:00",
+    "last_sent": "2026-09-01T05:13:37.726785+00:00",
+    "content_hash": "707c3a1b097a6adb7501d7dcbf5d1345b77051466c591855ca1c69067dd81c9b",
+    "update": false
   }
 ]
