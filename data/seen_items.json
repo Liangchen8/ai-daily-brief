@@ -823,5 +823,104 @@
     "last_sent": "2026-09-01T05:13:37.726785+00:00",
     "content_hash": "707c3a1b097a6adb7501d7dcbf5d1345b77051466c591855ca1c69067dd81c9b",
     "update": false
+  },
+  {
+    "id": "event-c5e9144681cfceef",
+    "canonical_url": "",
+    "cluster_id": "event-c5e9144681cfceef",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "first_seen": "2026-09-02T04:36:57.680489+00:00",
+    "last_seen": "2026-09-02T04:36:57.681233+00:00",
+    "last_sent": "2026-09-02T04:36:57.681233+00:00",
+    "content_hash": "84e3fb65e395025bc1ae520d8c1338112d049dee66a978ada81fd59ebead25c1",
+    "update": false
+  },
+  {
+    "id": "event-3c5c57e26f0b401b",
+    "canonical_url": "",
+    "cluster_id": "event-3c5c57e26f0b401b",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "first_seen": "2026-09-02T04:36:57.680614+00:00",
+    "last_seen": "2026-09-02T04:36:57.681373+00:00",
+    "last_sent": "2026-09-02T04:36:57.681373+00:00",
+    "content_hash": "effdbae1effaf3dc84537d0eb124b8a1790100eabc17f467bbd33d5df0e9ad15",
+    "update": false
+  },
+  {
+    "id": "event-9b90939cb7a5fd1c",
+    "canonical_url": "",
+    "cluster_id": "event-9b90939cb7a5fd1c",
+    "title": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
+    "first_seen": "2026-09-02T04:36:57.680684+00:00",
+    "last_seen": "2026-09-02T04:36:57.681419+00:00",
+    "last_sent": "2026-09-02T04:36:57.681419+00:00",
+    "content_hash": "466895d2d48aef281b13b39ee38e796006b06c909084ba44ca24b7dcf1352afe",
+    "update": false
+  },
+  {
+    "id": "event-825f503c1857aa6f",
+    "canonical_url": "",
+    "cluster_id": "event-825f503c1857aa6f",
+    "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
+    "first_seen": "2026-09-02T04:36:57.680701+00:00",
+    "last_seen": "2026-09-02T04:36:57.681437+00:00",
+    "last_sent": "2026-09-02T04:36:57.681437+00:00",
+    "content_hash": "7b94f3ec89b8e7f782c56d79055f4a0baffeed005582848c4f5261216b9c14cd",
+    "update": false
+  },
+  {
+    "id": "event-7ccbd6f2fc4e9b59",
+    "canonical_url": "",
+    "cluster_id": "event-7ccbd6f2fc4e9b59",
+    "title": "Normalized Low-Rank Adaptation",
+    "first_seen": "2026-09-02T04:36:57.680727+00:00",
+    "last_seen": "2026-09-02T04:36:57.681458+00:00",
+    "last_sent": "2026-09-02T04:36:57.681458+00:00",
+    "content_hash": "28979fb59d8a9416e6865e0ae1326558595e1ca36b452c561ad4ed9eea181c74",
+    "update": false
+  },
+  {
+    "id": "hf-8241c14f1fb494f3",
+    "canonical_url": "https://huggingface.co/papers/2608.31119",
+    "cluster_id": "event-5e94640010ac37e9",
+    "title": "PaperGym: Rubric-Centered Evolution for Research-Plan Generation",
+    "first_seen": "2026-09-02T04:36:57.680750+00:00",
+    "last_seen": "2026-09-02T04:36:57.680750+00:00",
+    "last_sent": "2026-09-02T04:36:57.680750+00:00",
+    "content_hash": "d83937edbbac1f619127181354929eb109eab2ceadec2881df47c97241103786",
+    "update": false
+  },
+  {
+    "id": "hf-59b8eb5219ea63b4",
+    "canonical_url": "https://huggingface.co/papers/2608.30968",
+    "cluster_id": "event-ebc5d458b361f5de",
+    "title": "CogEvol: Towards Efficient and Reliable Learning Environment Generation",
+    "first_seen": "2026-09-02T04:36:57.680773+00:00",
+    "last_seen": "2026-09-02T04:36:57.680773+00:00",
+    "last_sent": "2026-09-02T04:36:57.680773+00:00",
+    "content_hash": "f744120cb1afe235b50e3ec232d244ce5fdc2821f3b57315813ad14ffaa3d7f6",
+    "update": false
+  },
+  {
+    "id": "2212fd956b5f722cdd49",
+    "canonical_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+    "cluster_id": "event-c4644ae0445dd178",
+    "title": "Introducing agentic video understanding with Gemini",
+    "first_seen": "2026-09-02T04:36:57.681130+00:00",
+    "last_seen": "2026-09-02T04:36:57.681130+00:00",
+    "last_sent": "2026-09-02T04:36:57.681130+00:00",
+    "content_hash": "48f11039d1070bc3e6497f311ce0b8fdcf3e5ddab71c148cbddb4d03a0138a66",
+    "update": false
+  },
+  {
+    "id": "e1cdef904f72ef37e1dd",
+    "canonical_url": "https://huggingface.co/blog/allenai/benchmirt",
+    "cluster_id": "event-b80b371293567037",
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "first_seen": "2026-09-02T04:36:57.681142+00:00",
+    "last_seen": "2026-09-02T04:36:57.681142+00:00",
+    "last_sent": "2026-09-02T04:36:57.681142+00:00",
+    "content_hash": "b89a203c7df40e274eeb1895edbf5897200773e39e947e3fbe9646aa461d0fce",
+    "update": false
   }
 ]
