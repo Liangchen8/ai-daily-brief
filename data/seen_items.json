@@ -922,5 +922,104 @@
     "last_sent": "2026-09-02T04:36:57.681142+00:00",
     "content_hash": "b89a203c7df40e274eeb1895edbf5897200773e39e947e3fbe9646aa461d0fce",
     "update": false
+  },
+  {
+    "id": "event-8b1017bdb7966f45",
+    "canonical_url": "",
+    "cluster_id": "event-8b1017bdb7966f45",
+    "title": "CogEvol: Towards Efficient and Reliable Learning Environment Generation",
+    "first_seen": "2026-09-03T04:36:47.749138+00:00",
+    "last_seen": "2026-09-03T04:36:47.750165+00:00",
+    "last_sent": "2026-09-03T04:36:47.750165+00:00",
+    "content_hash": "fca795364d906359f8a1e80b9a8f01cd532e7bc74b1f765aeb9d9d32c9bd62cf",
+    "update": false
+  },
+  {
+    "id": "event-5fc1c84c62f0512e",
+    "canonical_url": "",
+    "cluster_id": "event-5fc1c84c62f0512e",
+    "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
+    "first_seen": "2026-09-03T04:36:47.749271+00:00",
+    "last_seen": "2026-09-03T04:36:47.750343+00:00",
+    "last_sent": "2026-09-03T04:36:47.750343+00:00",
+    "content_hash": "a9dbc304f2d7c290f8ad03310cf6ec5a2ef8ff5ff6643bd233bc46439b691ca1",
+    "update": false
+  },
+  {
+    "id": "event-843f0605177a3876",
+    "canonical_url": "",
+    "cluster_id": "event-843f0605177a3876",
+    "title": "For the people and bots reading this without context: it is not necessarily good news that the best open model has been",
+    "first_seen": "2026-09-03T04:36:47.749332+00:00",
+    "last_seen": "2026-09-03T04:36:47.750424+00:00",
+    "last_sent": "2026-09-03T04:36:47.750424+00:00",
+    "content_hash": "71fbb30f7e8d630f826c74806f600e23ded4bf96f60523499d61a5627097b055",
+    "update": false
+  },
+  {
+    "id": "event-852e9bf3c283dcf8",
+    "canonical_url": "",
+    "cluster_id": "event-852e9bf3c283dcf8",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "first_seen": "2026-09-03T04:36:47.749359+00:00",
+    "last_seen": "2026-09-03T04:36:47.750452+00:00",
+    "last_sent": "2026-09-03T04:36:47.750452+00:00",
+    "content_hash": "80132b2ab9299a493c05f0b51bcc428780df5d24d68eed908d129ef8900ff944",
+    "update": false
+  },
+  {
+    "id": "event-d5fdbdb2561b5961",
+    "canonical_url": "",
+    "cluster_id": "event-d5fdbdb2561b5961",
+    "title": "Normalized Low-Rank Adaptation",
+    "first_seen": "2026-09-03T04:36:47.749505+00:00",
+    "last_seen": "2026-09-03T04:36:47.750484+00:00",
+    "last_sent": "2026-09-03T04:36:47.750484+00:00",
+    "content_hash": "6fed4f53fba4950ebff033d058168d037c4c398b6eb8b478d797c29b0d4f41e6",
+    "update": false
+  },
+  {
+    "id": "hn-49527573",
+    "canonical_url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence",
+    "cluster_id": "event-12eb025da346f913",
+    "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+    "first_seen": "2026-09-03T04:36:47.749724+00:00",
+    "last_seen": "2026-09-03T04:36:47.749724+00:00",
+    "last_sent": "2026-09-03T04:36:47.749724+00:00",
+    "content_hash": "dbca25ba88f2577a5a5553a2714c6463b9ea9546bbb41c7c02d455f5ce50638e",
+    "update": false
+  },
+  {
+    "id": "hn-49535586",
+    "canonical_url": "https://openteams.com/intelligence-vs-cost",
+    "cluster_id": "event-28964d20cc11c1ed",
+    "title": "LLMs: Intelligence vs. Cost",
+    "first_seen": "2026-09-03T04:36:47.749864+00:00",
+    "last_seen": "2026-09-03T04:36:47.749864+00:00",
+    "last_sent": "2026-09-03T04:36:47.749864+00:00",
+    "content_hash": "381c3c17e17d56a019eede47df73ee866e45dc5ed286d4626e06bc83a4abc949",
+    "update": false
+  },
+  {
+    "id": "697f162b1217e9396ed9",
+    "canonical_url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning",
+    "cluster_id": "event-046943c8ddbdabf1",
+    "title": "Mapping global methane emissions from space with deep learning",
+    "first_seen": "2026-09-03T04:36:47.750073+00:00",
+    "last_seen": "2026-09-03T04:36:47.750073+00:00",
+    "last_sent": "2026-09-03T04:36:47.750073+00:00",
+    "content_hash": "11538d2049a7934d4bd2804adfc8a55688df62d7ad34ac631b4aabb32ab7ef57",
+    "update": false
+  },
+  {
+    "id": "69a3f867078e620949e0",
+    "canonical_url": "https://openai.com/index/ai-native-company-workflows",
+    "cluster_id": "event-19ba81bf7a390670",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "first_seen": "2026-09-03T04:36:47.750090+00:00",
+    "last_seen": "2026-09-03T04:36:47.750090+00:00",
+    "last_sent": "2026-09-03T04:36:47.750090+00:00",
+    "content_hash": "0556ac2a91763b86287459a80ce8e2aadb61abb3cc44d5382f2020f7cab1f5e0",
+    "update": false
   }
 ]
