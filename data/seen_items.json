@@ -1021,5 +1021,60 @@
     "last_sent": "2026-09-03T04:36:47.750090+00:00",
     "content_hash": "0556ac2a91763b86287459a80ce8e2aadb61abb3cc44d5382f2020f7cab1f5e0",
     "update": false
+  },
+  {
+    "id": "event-3d469e61e7e0b897",
+    "canonical_url": "",
+    "cluster_id": "event-3d469e61e7e0b897",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "first_seen": "2026-09-04T04:39:13.777574+00:00",
+    "last_seen": "2026-09-04T04:39:13.778637+00:00",
+    "last_sent": "2026-09-04T04:39:13.778637+00:00",
+    "content_hash": "01f0570d521368d80b2087d8271febc26121303bbc59bffda5a710532c763299",
+    "update": false
+  },
+  {
+    "id": "event-2e45c4f616ff3ac0",
+    "canonical_url": "",
+    "cluster_id": "event-2e45c4f616ff3ac0",
+    "title": "The Hugging Face Incident showed you don’t even need a malicious attacker to cause a cascade, enough agents pressure sys",
+    "first_seen": "2026-09-04T04:39:13.777942+00:00",
+    "last_seen": "2026-09-04T04:39:13.778849+00:00",
+    "last_sent": "2026-09-04T04:39:13.778849+00:00",
+    "content_hash": "0fd99d917b0412c3508e637d4494bcfb2d42d064c84a92f9fc0be021f1714875",
+    "update": false
+  },
+  {
+    "id": "event-50748e1e4bb8e264",
+    "canonical_url": "",
+    "cluster_id": "event-50748e1e4bb8e264",
+    "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
+    "first_seen": "2026-09-04T04:39:13.778077+00:00",
+    "last_seen": "2026-09-04T04:39:13.778869+00:00",
+    "last_sent": "2026-09-04T04:39:13.778869+00:00",
+    "content_hash": "9a522fd3c7899c04bcf06b22b31243ddf03a48f78de3bf4ddff563199a7103c7",
+    "update": false
+  },
+  {
+    "id": "event-abbaf534d840c7b3",
+    "canonical_url": "",
+    "cluster_id": "event-abbaf534d840c7b3",
+    "title": "Safety overview: GPT-6 Astra",
+    "first_seen": "2026-09-04T04:39:13.778150+00:00",
+    "last_seen": "2026-09-04T04:39:13.778889+00:00",
+    "last_sent": "2026-09-04T04:39:13.778889+00:00",
+    "content_hash": "1fd570b5dab903107c9c843cc43202a8094fa1b1b2fee83a17c9165ba57b9fd5",
+    "update": false
+  },
+  {
+    "id": "event-843d8b4ec5cfc4f5",
+    "canonical_url": "",
+    "cluster_id": "event-843d8b4ec5cfc4f5",
+    "title": "Mamdani bans AI in NYC schools",
+    "first_seen": "2026-09-04T04:39:13.778260+00:00",
+    "last_seen": "2026-09-04T04:39:13.778909+00:00",
+    "last_sent": "2026-09-04T04:39:13.778909+00:00",
+    "content_hash": "0b3ee673370b5f0ddfedf479938901676f6c49865592d0e0eba47cf5b1332eea",
+    "update": false
   }
 ]
