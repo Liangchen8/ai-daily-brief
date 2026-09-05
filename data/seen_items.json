@@ -1076,5 +1076,93 @@
     "last_sent": "2026-09-04T04:39:13.778909+00:00",
     "content_hash": "0b3ee673370b5f0ddfedf479938901676f6c49865592d0e0eba47cf5b1332eea",
     "update": false
+  },
+  {
+    "id": "event-9d1f1717c9a072a2",
+    "canonical_url": "",
+    "cluster_id": "event-9d1f1717c9a072a2",
+    "title": "E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation",
+    "first_seen": "2026-09-05T04:31:50.183112+00:00",
+    "last_seen": "2026-09-05T04:31:50.184207+00:00",
+    "last_sent": "2026-09-05T04:31:50.184207+00:00",
+    "content_hash": "d0655851191d0c07c86e73b8c8d4c82fcad34c2159fd91d09eefe443756330f9",
+    "update": false
+  },
+  {
+    "id": "event-a7fe4f78e4b1d29e",
+    "canonical_url": "",
+    "cluster_id": "event-a7fe4f78e4b1d29e",
+    "title": "Multiplayer AI, where many people in an organization can use AI together to accomplish goals, remains one of the biggest",
+    "first_seen": "2026-09-05T04:31:50.183212+00:00",
+    "last_seen": "2026-09-05T04:31:50.184249+00:00",
+    "last_sent": "2026-09-05T04:31:50.184249+00:00",
+    "content_hash": "057f3d1703b1e108ef4d72fb58b934f6987f79ed7e458f69f3d40b5b3ab8ff7c",
+    "update": false
+  },
+  {
+    "id": "event-7b7c196b8a5a3a00",
+    "canonical_url": "",
+    "cluster_id": "event-7b7c196b8a5a3a00",
+    "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
+    "first_seen": "2026-09-05T04:31:50.183512+00:00",
+    "last_seen": "2026-09-05T04:31:50.184269+00:00",
+    "last_sent": "2026-09-05T04:31:50.184269+00:00",
+    "content_hash": "9533b869c67608cfb230d0942938444e59b75235f54b5409ede16dd145d03988",
+    "update": false
+  },
+  {
+    "id": "event-7d606d5bda070575",
+    "canonical_url": "",
+    "cluster_id": "event-7d606d5bda070575",
+    "title": "H3-World: Turning Language Understanding into World Control",
+    "first_seen": "2026-09-05T04:31:50.183553+00:00",
+    "last_seen": "2026-09-05T04:31:50.184285+00:00",
+    "last_sent": "2026-09-05T04:31:50.184285+00:00",
+    "content_hash": "cb3bfd25814492d94f22494d2d9dae1ff48401b6dcbcf60606af79a0b95096ed",
+    "update": false
+  },
+  {
+    "id": "event-b0250bd15177c588",
+    "canonical_url": "",
+    "cluster_id": "event-b0250bd15177c588",
+    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+    "first_seen": "2026-09-05T04:31:50.183882+00:00",
+    "last_seen": "2026-09-05T04:31:50.184301+00:00",
+    "last_sent": "2026-09-05T04:31:50.184301+00:00",
+    "content_hash": "9407f23ae1fa61f6fa28c349dde6a4baa03c274defd8820bb40ff39a45fe824c",
+    "update": false
+  },
+  {
+    "id": "hn-49560260",
+    "canonical_url": "https://agentconnect.md/blog/grep-beat-lsp-harness",
+    "cluster_id": "event-9d988b7ce6257c87",
+    "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+    "first_seen": "2026-09-05T04:31:50.183978+00:00",
+    "last_seen": "2026-09-05T04:31:50.183978+00:00",
+    "last_sent": "2026-09-05T04:31:50.183978+00:00",
+    "content_hash": "9d7c50f060255285b86b94c404cc7cf5fd875684f3ca2c64649030b2040efbc7",
+    "update": false
+  },
+  {
+    "id": "54e0dc0ba0389d401c5e",
+    "canonical_url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
+    "cluster_id": "event-afebb26bca4008bd",
+    "title": "Google’s Gemini Spark can now manage your Google Photos library",
+    "first_seen": "2026-09-05T04:31:50.184155+00:00",
+    "last_seen": "2026-09-05T04:31:50.184155+00:00",
+    "last_sent": "2026-09-05T04:31:50.184155+00:00",
+    "content_hash": "14fe981d44164f75d16d5ee5b77317ac42ef6785862204fd28bfe24ee6a4ce65",
+    "update": false
+  },
+  {
+    "id": "82a7c4dce1d87cb8b5b3",
+    "canonical_url": "https://theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "cluster_id": "event-ca60608b73f30a2e",
+    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "first_seen": "2026-09-05T04:31:50.184173+00:00",
+    "last_seen": "2026-09-05T04:31:50.184173+00:00",
+    "last_sent": "2026-09-05T04:31:50.184173+00:00",
+    "content_hash": "63d92a7b58e5c6733107dcb2cdf5b1eb8c48a17ec60735983a5b67ee7e0001e8",
+    "update": false
   }
 ]
