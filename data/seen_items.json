@@ -1164,5 +1164,49 @@
     "last_sent": "2026-09-05T04:31:50.184173+00:00",
     "content_hash": "63d92a7b58e5c6733107dcb2cdf5b1eb8c48a17ec60735983a5b67ee7e0001e8",
     "update": false
+  },
+  {
+    "id": "event-1935388640943086",
+    "canonical_url": "",
+    "cluster_id": "event-1935388640943086",
+    "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
+    "first_seen": "2026-09-06T04:44:17.423541+00:00",
+    "last_seen": "2026-09-06T04:44:17.424061+00:00",
+    "last_sent": "2026-09-06T04:44:17.424061+00:00",
+    "content_hash": "ab9f3bc85d51685f54895a554adedf47fe60238a3d8b3c2a6f84a7796f306bb7",
+    "update": false
+  },
+  {
+    "id": "event-7991ef8cb6844f55",
+    "canonical_url": "",
+    "cluster_id": "event-7991ef8cb6844f55",
+    "title": "Editable Visual Design",
+    "first_seen": "2026-09-06T04:44:17.423762+00:00",
+    "last_seen": "2026-09-06T04:44:17.424276+00:00",
+    "last_sent": "2026-09-06T04:44:17.424276+00:00",
+    "content_hash": "d46430b91c493ec9c0ffec2e22d0b0b50047df74ce448e2cf81dab3ad819498b",
+    "update": false
+  },
+  {
+    "id": "event-0b51533a46678b0d",
+    "canonical_url": "",
+    "cluster_id": "event-0b51533a46678b0d",
+    "title": "America's two largest school districts impose AI moratoriums",
+    "first_seen": "2026-09-06T04:44:17.423837+00:00",
+    "last_seen": "2026-09-06T04:44:17.424300+00:00",
+    "last_sent": "2026-09-06T04:44:17.424300+00:00",
+    "content_hash": "6a8ba1d437f6bd127da302cd929a8742ec5e703b395a7a698a2d1d79299f8e7d",
+    "update": false
+  },
+  {
+    "id": "event-d3025d2b744d7ca3",
+    "canonical_url": "",
+    "cluster_id": "event-d3025d2b744d7ca3",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "first_seen": "2026-09-06T04:44:17.423969+00:00",
+    "last_seen": "2026-09-06T04:44:17.424317+00:00",
+    "last_sent": "2026-09-06T04:44:17.424317+00:00",
+    "content_hash": "d859497f4eb4cc3b32336f4ce26b1ea392bf360f17e1d66f456eb870f9904c84",
+    "update": false
   }
 ]
