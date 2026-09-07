@@ -1208,5 +1208,49 @@
     "last_sent": "2026-09-06T04:44:17.424317+00:00",
     "content_hash": "d859497f4eb4cc3b32336f4ce26b1ea392bf360f17e1d66f456eb870f9904c84",
     "update": false
+  },
+  {
+    "id": "event-ca1a7d036227ac8f",
+    "canonical_url": "",
+    "cluster_id": "event-ca1a7d036227ac8f",
+    "title": "Research acceleration: The view inside OpenAI",
+    "first_seen": "2026-09-07T04:54:10.473270+00:00",
+    "last_seen": "2026-09-07T04:54:10.474621+00:00",
+    "last_sent": "2026-09-07T04:54:10.474621+00:00",
+    "content_hash": "1648bb67e3dab75b2148f5bd1f119b8b00c4d524a390d4ac95a82b3ae14b20d4",
+    "update": false
+  },
+  {
+    "id": "event-d979b25cf8a361d9",
+    "canonical_url": "",
+    "cluster_id": "event-d979b25cf8a361d9",
+    "title": "New TIL on using Blender with coding agents on macOS: til.simonwillison.net/llms/blender... \n\nGPT-6 Astra (medium):\n\n> U",
+    "first_seen": "2026-09-07T04:54:10.473460+00:00",
+    "last_seen": "2026-09-07T04:54:10.474829+00:00",
+    "last_sent": "2026-09-07T04:54:10.474829+00:00",
+    "content_hash": "fbc4d0c23068229c9ece6ad6e48f3c32fdddcb30b1ffa54af3fb536ddae9cebb",
+    "update": false
+  },
+  {
+    "id": "event-8337fba316bad7c2",
+    "canonical_url": "",
+    "cluster_id": "event-8337fba316bad7c2",
+    "title": "An Alien Mind",
+    "first_seen": "2026-09-07T04:54:10.474031+00:00",
+    "last_seen": "2026-09-07T04:54:10.474849+00:00",
+    "last_sent": "2026-09-07T04:54:10.474849+00:00",
+    "content_hash": "1fc905ce83fbb6d8d3c49e26bfc98224d2b7e6a8677ae1b679d490367bdf7693",
+    "update": false
+  },
+  {
+    "id": "event-dff00f70d8c771b2",
+    "canonical_url": "",
+    "cluster_id": "event-dff00f70d8c771b2",
+    "title": "Reflection-aware Generative Novel View Synthesis",
+    "first_seen": "2026-09-07T04:54:10.474198+00:00",
+    "last_seen": "2026-09-07T04:54:10.474865+00:00",
+    "last_sent": "2026-09-07T04:54:10.474865+00:00",
+    "content_hash": "5f91328533683897a7c809c5822ed3a10d81edb0493bc639b2ff90ea09850376",
+    "update": false
   }
 ]
