@@ -1252,5 +1252,104 @@
     "last_sent": "2026-09-07T04:54:10.474865+00:00",
     "content_hash": "5f91328533683897a7c809c5822ed3a10d81edb0493bc639b2ff90ea09850376",
     "update": false
+  },
+  {
+    "id": "event-35ec0bf326dcbdc7",
+    "canonical_url": "",
+    "cluster_id": "event-35ec0bf326dcbdc7",
+    "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
+    "first_seen": "2026-09-08T04:49:21.851393+00:00",
+    "last_seen": "2026-09-08T04:49:21.852091+00:00",
+    "last_sent": "2026-09-08T04:49:21.852091+00:00",
+    "content_hash": "6e15bdee91750a431d560f00909bf9c87657f856611a19b64d3774e52512b4c1",
+    "update": false
+  },
+  {
+    "id": "event-9fd77e02b05aaec1",
+    "canonical_url": "",
+    "cluster_id": "event-9fd77e02b05aaec1",
+    "title": "Iris: Climbing to the Search Frontier",
+    "first_seen": "2026-09-08T04:49:21.851535+00:00",
+    "last_seen": "2026-09-08T04:49:21.852226+00:00",
+    "last_sent": "2026-09-08T04:49:21.852226+00:00",
+    "content_hash": "333aece256604297c943870e66937f7a4b80ed6fb56d9e1c5cade98acdce215f",
+    "update": false
+  },
+  {
+    "id": "event-2b6206a636a856e1",
+    "canonical_url": "",
+    "cluster_id": "event-2b6206a636a856e1",
+    "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+    "first_seen": "2026-09-08T04:49:21.851587+00:00",
+    "last_seen": "2026-09-08T04:49:21.852237+00:00",
+    "last_sent": "2026-09-08T04:49:21.852237+00:00",
+    "content_hash": "1d5c833dcbcdc3fada53e164b31b7c54d4ca2d72c38f73c3b449ed7fac31c1b5",
+    "update": false
+  },
+  {
+    "id": "event-ce1e9f5d7f3e8273",
+    "canonical_url": "",
+    "cluster_id": "event-ce1e9f5d7f3e8273",
+    "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+    "first_seen": "2026-09-08T04:49:21.851600+00:00",
+    "last_seen": "2026-09-08T04:49:21.852248+00:00",
+    "last_sent": "2026-09-08T04:49:21.852248+00:00",
+    "content_hash": "b098318d7e8808fc95f51cf8b8aa0b62c0b311f312bda2f69beb28e66d4e88ef",
+    "update": false
+  },
+  {
+    "id": "event-21e8ff0ca73ca3da",
+    "canonical_url": "",
+    "cluster_id": "event-21e8ff0ca73ca3da",
+    "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+    "first_seen": "2026-09-08T04:49:21.851613+00:00",
+    "last_seen": "2026-09-08T04:49:21.852259+00:00",
+    "last_sent": "2026-09-08T04:49:21.852259+00:00",
+    "content_hash": "8703ade574c9aa9f1ed09e74e394f4cbd48fc88dbca90e958511d3a3262645ac",
+    "update": false
+  },
+  {
+    "id": "hn-49602258",
+    "canonical_url": "https://github.com/yayster/yayster.el",
+    "cluster_id": "event-33a7bcd9769688ae",
+    "title": "El Yayster – a resident LLM that inhabits Emacs",
+    "first_seen": "2026-09-08T04:49:21.851625+00:00",
+    "last_seen": "2026-09-08T04:49:21.851625+00:00",
+    "last_sent": "2026-09-08T04:49:21.851625+00:00",
+    "content_hash": "8a024b1820892b8c77e9e134febf8652d58c380c77fb9c08bd340cecd7f05480",
+    "update": false
+  },
+  {
+    "id": "hn-49604956",
+    "canonical_url": "https://bbc.com/news/articles/c0m39g7xzevo",
+    "cluster_id": "event-1ae0318fd90ea0d2",
+    "title": "AI cancer cures slowed by chip shortage, says Arm boss",
+    "first_seen": "2026-09-08T04:49:21.851662+00:00",
+    "last_seen": "2026-09-08T04:49:21.851662+00:00",
+    "last_sent": "2026-09-08T04:49:21.851662+00:00",
+    "content_hash": "8a2f6362c9c81e041058252e8d19f15b1f7c1b51d334358a7dd9935b0d1fc6ab",
+    "update": false
+  },
+  {
+    "id": "5352b568073e7e71d4d5",
+    "canonical_url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "cluster_id": "event-5e9935ab85c1f374",
+    "title": "Supporting independent journalism in Ukraine",
+    "first_seen": "2026-09-08T04:49:21.851673+00:00",
+    "last_seen": "2026-09-08T04:49:21.851673+00:00",
+    "last_sent": "2026-09-08T04:49:21.851673+00:00",
+    "content_hash": "db481ba2d5a7af8d6d14984a8289e329e45973ba89dba1235c4532a909878305",
+    "update": false
+  },
+  {
+    "id": "arxiv-751e8f8672293196",
+    "canonical_url": "http://arxiv.org/abs/2609.05309v1",
+    "cluster_id": "event-62ce17b05bac289a",
+    "title": "How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing",
+    "first_seen": "2026-09-08T04:49:21.851944+00:00",
+    "last_seen": "2026-09-08T04:49:21.851944+00:00",
+    "last_sent": "2026-09-08T04:49:21.851944+00:00",
+    "content_hash": "c83a22373f16cb4a6c9551e2d4b21cfeea5ab0206e82cb27997095d144a1c1a8",
+    "update": false
   }
 ]
