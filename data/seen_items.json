@@ -1351,5 +1351,148 @@
     "last_sent": "2026-09-08T04:49:21.851944+00:00",
     "content_hash": "c83a22373f16cb4a6c9551e2d4b21cfeea5ab0206e82cb27997095d144a1c1a8",
     "update": false
+  },
+  {
+    "id": "event-7990074d09433293",
+    "canonical_url": "",
+    "cluster_id": "event-7990074d09433293",
+    "title": "Funding grants for new research into AI and teen development",
+    "first_seen": "2026-09-09T04:48:36.216569+00:00",
+    "last_seen": "2026-09-09T04:48:36.217632+00:00",
+    "last_sent": "2026-09-09T04:48:36.217632+00:00",
+    "content_hash": "8afc5650180f4b0cf6257c659fa5e4593abe494f72f48d9dde5b73fb07d73293",
+    "update": false
+  },
+  {
+    "id": "event-63b814ed821fdb6a",
+    "canonical_url": "",
+    "cluster_id": "event-63b814ed821fdb6a",
+    "title": "When Victorian Becomes a Prompt: Literary Periodization as a Generative Constraint in 100 AI-Generated Novels",
+    "first_seen": "2026-09-09T04:48:36.216776+00:00",
+    "last_seen": "2026-09-09T04:48:36.217794+00:00",
+    "last_sent": "2026-09-09T04:48:36.217794+00:00",
+    "content_hash": "57aa6916f06cf76f507a6180bced00472a04c5f34d8e9acbfc1f2684aee6f2e8",
+    "update": false
+  },
+  {
+    "id": "event-b1eaff761224adb0",
+    "canonical_url": "",
+    "cluster_id": "event-b1eaff761224adb0",
+    "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+    "first_seen": "2026-09-09T04:48:36.216830+00:00",
+    "last_seen": "2026-09-09T04:48:36.217814+00:00",
+    "last_sent": "2026-09-09T04:48:36.217814+00:00",
+    "content_hash": "a275a85894dfa5b719e4b5ddf53d3d43cb8673d3e050d1ac46c5cb3b037c8346",
+    "update": false
+  },
+  {
+    "id": "event-67d1d00140afa89d",
+    "canonical_url": "",
+    "cluster_id": "event-67d1d00140afa89d",
+    "title": "ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation",
+    "first_seen": "2026-09-09T04:48:36.216901+00:00",
+    "last_seen": "2026-09-09T04:48:36.217831+00:00",
+    "last_sent": "2026-09-09T04:48:36.217831+00:00",
+    "content_hash": "be92e5711f018408491a79ee095fc1e234f6c36b6e253ea42a2328edf6c4df2c",
+    "update": false
+  },
+  {
+    "id": "event-af0a59267beaa163",
+    "canonical_url": "",
+    "cluster_id": "event-af0a59267beaa163",
+    "title": "LibreOffice breaks download records after declaring it has no AI features",
+    "first_seen": "2026-09-09T04:48:36.216967+00:00",
+    "last_seen": "2026-09-09T04:48:36.217848+00:00",
+    "last_sent": "2026-09-09T04:48:36.217848+00:00",
+    "content_hash": "0c4a8653141761d8c12ff4ea1731811bb8755c2d560a12535a91f1d7de36a5e0",
+    "update": false
+  },
+  {
+    "id": "hn-49613068",
+    "canonical_url": "https://ishamf.dev/p/llm-attention-visualizer",
+    "cluster_id": "event-5af66c791a677241",
+    "title": "Show HN: LLM Attention Visualization",
+    "first_seen": "2026-09-09T04:48:36.217044+00:00",
+    "last_seen": "2026-09-09T04:48:36.217044+00:00",
+    "last_sent": "2026-09-09T04:48:36.217044+00:00",
+    "content_hash": "c19738bf30987c754bdf89f81e887563b38ac93c14ad0ded06e3acf347d94562",
+    "update": false
+  },
+  {
+    "id": "45ce548ce8fe17994b4e",
+    "canonical_url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "cluster_id": "event-289f40a9cad175dd",
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "first_seen": "2026-09-09T04:48:36.217103+00:00",
+    "last_seen": "2026-09-09T04:48:36.217291+00:00",
+    "last_sent": "2026-09-09T04:48:36.217291+00:00",
+    "content_hash": "90597e30836b0cbf69f546a24b86437dba0e2942707c176894f806430e98c47c",
+    "update": false
+  },
+  {
+    "id": "9e066d8fc2a711463ae0",
+    "canonical_url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "cluster_id": "event-6b9602fc888453eb",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "first_seen": "2026-09-09T04:48:36.217310+00:00",
+    "last_seen": "2026-09-09T04:48:36.217310+00:00",
+    "last_sent": "2026-09-09T04:48:36.217310+00:00",
+    "content_hash": "74637a3d4aa0b96570f255940374bd4b9dc159b05ad370bcccef0cad0cd4c8ae",
+    "update": false
+  },
+  {
+    "id": "377bd8a33033d143c6c7",
+    "canonical_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "cluster_id": "event-636728b59fd76249",
+    "title": "Introducing ChatGPT Images 2.5",
+    "first_seen": "2026-09-09T04:48:36.217328+00:00",
+    "last_seen": "2026-09-09T04:48:36.217328+00:00",
+    "last_sent": "2026-09-09T04:48:36.217328+00:00",
+    "content_hash": "c101c639eeeb158d77780210fb32c526219f6a2b93481b909e6cc172f9caab66",
+    "update": false
+  },
+  {
+    "id": "5a75a30418f702c5be1b",
+    "canonical_url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers",
+    "cluster_id": "event-30b4545d877f91df",
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "first_seen": "2026-09-09T04:48:36.217347+00:00",
+    "last_seen": "2026-09-09T04:48:36.217347+00:00",
+    "last_sent": "2026-09-09T04:48:36.217347+00:00",
+    "content_hash": "f69e5b6664cd408456f7d9826aa0492a17922dd9801a0bb81da9b1bf4ecb0f98",
+    "update": false
+  },
+  {
+    "id": "113f02b14b88007d18d5",
+    "canonical_url": "https://openai.com/index/1password",
+    "cluster_id": "event-2b9e78dccd323306",
+    "title": "1Password increases engineering productivity 21% with Codex",
+    "first_seen": "2026-09-09T04:48:36.217365+00:00",
+    "last_seen": "2026-09-09T04:48:36.217365+00:00",
+    "last_sent": "2026-09-09T04:48:36.217365+00:00",
+    "content_hash": "46689ecf3f38e81a285685ecda96a7d4ddfb2e71fe934fa82901f6b02d2fb911",
+    "update": false
+  },
+  {
+    "id": "ed0f0b1e970b10766561",
+    "canonical_url": "https://theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+    "cluster_id": "event-2e3dd9b9a15833a4",
+    "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+    "first_seen": "2026-09-09T04:48:36.217384+00:00",
+    "last_seen": "2026-09-09T04:48:36.217384+00:00",
+    "last_sent": "2026-09-09T04:48:36.217384+00:00",
+    "content_hash": "1556d9d6a862c1733b3257a3213afff1887c95f39ac9d22c7cb6f72250be4ff8",
+    "update": false
+  },
+  {
+    "id": "arxiv-6dc845d9f214df8d",
+    "canonical_url": "http://arxiv.org/abs/2609.09157v1",
+    "cluster_id": "event-32d04f6c80c02740",
+    "title": "Learning Length-Extrapolatable Recurrent Models",
+    "first_seen": "2026-09-09T04:48:36.217424+00:00",
+    "last_seen": "2026-09-09T04:48:36.217424+00:00",
+    "last_sent": "2026-09-09T04:48:36.217424+00:00",
+    "content_hash": "6221ae25733cbc66b2f4d72d3c74d4197c23b716709a70eda70b9a5ceae1574c",
+    "update": false
   }
 ]
