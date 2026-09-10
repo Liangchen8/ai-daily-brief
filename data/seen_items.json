@@ -1441,15 +1441,15 @@
     "update": false
   },
   {
-    "id": "377bd8a33033d143c6c7",
+    "id": "hn-49614720",
     "canonical_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "cluster_id": "event-636728b59fd76249",
-    "title": "Introducing ChatGPT Images 2.5",
+    "cluster_id": "event-5949986dd9ae239a",
+    "title": "ChatGPT Images 2.5",
     "first_seen": "2026-09-09T04:48:36.217328+00:00",
-    "last_seen": "2026-09-09T04:48:36.217328+00:00",
-    "last_sent": "2026-09-09T04:48:36.217328+00:00",
-    "content_hash": "c101c639eeeb158d77780210fb32c526219f6a2b93481b909e6cc172f9caab66",
-    "update": false
+    "last_seen": "2026-09-10T05:10:47.793334+00:00",
+    "last_sent": "2026-09-10T05:10:47.793334+00:00",
+    "content_hash": "2b26916c9b620fefbe66ea7b05c7be8046d643ef5f9634e81224c6e34e9e1fc3",
+    "update": true
   },
   {
     "id": "5a75a30418f702c5be1b",
@@ -1493,6 +1493,72 @@
     "last_seen": "2026-09-09T04:48:36.217424+00:00",
     "last_sent": "2026-09-09T04:48:36.217424+00:00",
     "content_hash": "6221ae25733cbc66b2f4d72d3c74d4197c23b716709a70eda70b9a5ceae1574c",
+    "update": false
+  },
+  {
+    "id": "event-d0a5c1a5368a798d",
+    "canonical_url": "",
+    "cluster_id": "event-d0a5c1a5368a798d",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "first_seen": "2026-09-10T05:10:47.792594+00:00",
+    "last_seen": "2026-09-10T05:10:47.794172+00:00",
+    "last_sent": "2026-09-10T05:10:47.794172+00:00",
+    "content_hash": "85d3b7fb9e4002813db58deef274bd7ff2465bbe4f0f6262dcd37a3c4dc490ae",
+    "update": false
+  },
+  {
+    "id": "event-27e4793838a220e3",
+    "canonical_url": "",
+    "cluster_id": "event-27e4793838a220e3",
+    "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
+    "first_seen": "2026-09-10T05:10:47.792981+00:00",
+    "last_seen": "2026-09-10T05:10:47.794378+00:00",
+    "last_sent": "2026-09-10T05:10:47.794378+00:00",
+    "content_hash": "0a793cf6eed5ed7ef0cbbdb246ae63028a3d9eac2bb2c8ed4b493a0226bba6cf",
+    "update": false
+  },
+  {
+    "id": "event-40c3af4bc09c7224",
+    "canonical_url": "",
+    "cluster_id": "event-40c3af4bc09c7224",
+    "title": "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation",
+    "first_seen": "2026-09-10T05:10:47.793087+00:00",
+    "last_seen": "2026-09-10T05:10:47.794406+00:00",
+    "last_sent": "2026-09-10T05:10:47.794406+00:00",
+    "content_hash": "41aa4d0f149b7fd53b10015978e910b52f784d8ef1877cafd640f139993327fd",
+    "update": false
+  },
+  {
+    "id": "event-83d576db9dbfc81f",
+    "canonical_url": "",
+    "cluster_id": "event-83d576db9dbfc81f",
+    "title": "Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout",
+    "first_seen": "2026-09-10T05:10:47.793162+00:00",
+    "last_seen": "2026-09-10T05:10:47.794427+00:00",
+    "last_sent": "2026-09-10T05:10:47.794427+00:00",
+    "content_hash": "efd82002e7f01e3bf53786450b7eb1f5f099098a86e9968144479e82a490160b",
+    "update": false
+  },
+  {
+    "id": "event-b36a1688bcc244f0",
+    "canonical_url": "",
+    "cluster_id": "event-b36a1688bcc244f0",
+    "title": "Weakly General AI achieved (at least according to the criteria set in Metaculus in 2020) & a year before the most recent",
+    "first_seen": "2026-09-10T05:10:47.793310+00:00",
+    "last_seen": "2026-09-10T05:10:47.794451+00:00",
+    "last_sent": "2026-09-10T05:10:47.794451+00:00",
+    "content_hash": "196ceab017583bb0276da913c7a699b95312fad0e452a1cca87654cfd7498582",
+    "update": false
+  },
+  {
+    "id": "hn-49615537",
+    "canonical_url": "https://ai.meta.com/muse",
+    "cluster_id": "event-d0c2c588a3393e92",
+    "title": "Muse – Meta’s personal AI agent",
+    "first_seen": "2026-09-10T05:10:47.793568+00:00",
+    "last_seen": "2026-09-10T05:10:47.793568+00:00",
+    "last_sent": "2026-09-10T05:10:47.793568+00:00",
+    "content_hash": "22b8ca3a4901d1ebd41456021a460e459dd4c2dd2f408d9c8b4f5f3f8ca3331e",
     "update": false
   }
 ]
