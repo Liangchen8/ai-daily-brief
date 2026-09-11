@@ -1560,5 +1560,159 @@
     "last_sent": "2026-09-10T05:10:47.793568+00:00",
     "content_hash": "22b8ca3a4901d1ebd41456021a460e459dd4c2dd2f408d9c8b4f5f3f8ca3331e",
     "update": false
+  },
+  {
+    "id": "event-3a317d72239e97a4",
+    "canonical_url": "",
+    "cluster_id": "event-3a317d72239e97a4",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "first_seen": "2026-09-11T04:50:41.066784+00:00",
+    "last_seen": "2026-09-11T04:50:41.067824+00:00",
+    "last_sent": "2026-09-11T04:50:41.067824+00:00",
+    "content_hash": "35e15fbe299611b6e54dc74a697d815498d65d6729e93b9723db08e59f3f54bf",
+    "update": false
+  },
+  {
+    "id": "event-6123d3757bf7c3ed",
+    "canonical_url": "",
+    "cluster_id": "event-6123d3757bf7c3ed",
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "first_seen": "2026-09-11T04:50:41.066888+00:00",
+    "last_seen": "2026-09-11T04:50:41.067910+00:00",
+    "last_sent": "2026-09-11T04:50:41.067910+00:00",
+    "content_hash": "5d105518a4ac15bce361a3eb251125420e856299215f44976fdb603bd7776e65",
+    "update": false
+  },
+  {
+    "id": "event-a9252ccb45a35ca9",
+    "canonical_url": "",
+    "cluster_id": "event-a9252ccb45a35ca9",
+    "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+    "first_seen": "2026-09-11T04:50:41.066962+00:00",
+    "last_seen": "2026-09-11T04:50:41.068055+00:00",
+    "last_sent": "2026-09-11T04:50:41.068055+00:00",
+    "content_hash": "a49f295fd6d942700f675df5245cb6e8c3261c69167cf5e5228084415e5d50eb",
+    "update": false
+  },
+  {
+    "id": "event-ca324eebc076a41e",
+    "canonical_url": "",
+    "cluster_id": "event-ca324eebc076a41e",
+    "title": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
+    "first_seen": "2026-09-11T04:50:41.067022+00:00",
+    "last_seen": "2026-09-11T04:50:41.068073+00:00",
+    "last_sent": "2026-09-11T04:50:41.068073+00:00",
+    "content_hash": "1ddb6cd7afb630f303012c2d62927eeef1f7743d1bf9581b45a1f82dca0c67da",
+    "update": false
+  },
+  {
+    "id": "event-aabbe643bad0047d",
+    "canonical_url": "",
+    "cluster_id": "event-aabbe643bad0047d",
+    "title": "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation",
+    "first_seen": "2026-09-11T04:50:41.067222+00:00",
+    "last_seen": "2026-09-11T04:50:41.068091+00:00",
+    "last_sent": "2026-09-11T04:50:41.068091+00:00",
+    "content_hash": "a16810ea691cc0b471c27fd32912b8d4a1dc567be5fb1305be3807612ca8ad42",
+    "update": false
+  },
+  {
+    "id": "bsky-bafyreid5p6sec4chsccv7uxucx5knh42szqr7ltl3czsw7avk62ajnv5l4",
+    "canonical_url": "https://bsky.app/profile/emollick.bsky.social/post/3mv4bkykn2c24",
+    "cluster_id": "event-90b6d3ebd7ba3e1a",
+    "title": "Another incident of models escaping containment during a security test, this time Mythos 5.  Lots going on here from a q",
+    "first_seen": "2026-09-11T04:50:41.067337+00:00",
+    "last_seen": "2026-09-11T04:50:41.067397+00:00",
+    "last_sent": "2026-09-11T04:50:41.067397+00:00",
+    "content_hash": "c0e18244c7757b89741b22f7c5b875f27b74de7dba9cd9322915fa84e22fd1a3",
+    "update": false
+  },
+  {
+    "id": "hf-f196e96ac66705f1",
+    "canonical_url": "https://huggingface.co/papers/2609.09123",
+    "cluster_id": "event-95e30c50219a6ba1",
+    "title": "Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout",
+    "first_seen": "2026-09-11T04:50:41.067366+00:00",
+    "last_seen": "2026-09-11T04:50:41.067366+00:00",
+    "last_sent": "2026-09-11T04:50:41.067366+00:00",
+    "content_hash": "b8d9cfaa6b99e4893d555f27d43b7f97c41b98a2b5a16b553381baacc39d3249",
+    "update": false
+  },
+  {
+    "id": "hn-49649213",
+    "canonical_url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "cluster_id": "event-5775433ed078a24e",
+    "title": "OpenAI Agents API",
+    "first_seen": "2026-09-11T04:50:41.067382+00:00",
+    "last_seen": "2026-09-11T04:50:41.067382+00:00",
+    "last_sent": "2026-09-11T04:50:41.067382+00:00",
+    "content_hash": "b5a6f2256135fffb992e712a1a173831909ad16af92a9e50d59ab32bd2e11ca1",
+    "update": false
+  },
+  {
+    "id": "hn-49644047",
+    "canonical_url": "https://marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945",
+    "cluster_id": "event-48f9c9a3d7b68d7f",
+    "title": "Amazon pilots ad services in ChatGPT",
+    "first_seen": "2026-09-11T04:50:41.067426+00:00",
+    "last_seen": "2026-09-11T04:50:41.067426+00:00",
+    "last_sent": "2026-09-11T04:50:41.067426+00:00",
+    "content_hash": "b370b2d251ea687c1b162925c951d980314b2dac55990d1c0e00f610e772a132",
+    "update": false
+  },
+  {
+    "id": "bsky-bafyreiffc6v5qvbknd7uixgnwd5rhktpti73pzdhleoge46eqmeflyzeou",
+    "canonical_url": "https://bsky.app/profile/emollick.bsky.social/post/3mv3rfjk6f22z",
+    "cluster_id": "event-11db4c863f203cb6",
+    "title": "I have been thinking a lot about Wait Calculations. Especially in mathematics and biology, there is high likelihood that",
+    "first_seen": "2026-09-11T04:50:41.067440+00:00",
+    "last_seen": "2026-09-11T04:50:41.067440+00:00",
+    "last_sent": "2026-09-11T04:50:41.067440+00:00",
+    "content_hash": "d6ae0f319ea424e23e580cbeb353d67463ade43f60bba18c09a148ed6768fa95",
+    "update": false
+  },
+  {
+    "id": "hf-5979359b1e2acdb9",
+    "canonical_url": "https://huggingface.co/papers/2609.09155",
+    "cluster_id": "event-47213c6a415e087a",
+    "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
+    "first_seen": "2026-09-11T04:50:41.067470+00:00",
+    "last_seen": "2026-09-11T04:50:41.067470+00:00",
+    "last_sent": "2026-09-11T04:50:41.067470+00:00",
+    "content_hash": "e718e54e0ae77fa1200a61abe3e4974854f57310d5ed4e9cc51055e6313df871",
+    "update": false
+  },
+  {
+    "id": "hn-49651372",
+    "canonical_url": "https://system76.com/workstations/thelio-mira-ai",
+    "cluster_id": "event-2a1a73870328921b",
+    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+    "first_seen": "2026-09-11T04:50:41.067562+00:00",
+    "last_seen": "2026-09-11T04:50:41.067562+00:00",
+    "last_sent": "2026-09-11T04:50:41.067562+00:00",
+    "content_hash": "202e4e9b657a7814802863e0de335bb5bed162bd84e7c316ed161a1f50d7c914",
+    "update": false
+  },
+  {
+    "id": "hn-49630026",
+    "canonical_url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+    "cluster_id": "event-b00867dc4d69d8b0",
+    "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+    "first_seen": "2026-09-11T04:50:41.067591+00:00",
+    "last_seen": "2026-09-11T04:50:41.067591+00:00",
+    "last_sent": "2026-09-11T04:50:41.067591+00:00",
+    "content_hash": "0b6a3ba972c9fc6a830d40e7b2af5327bc9041efcbb8b65fe710283def40c2e0",
+    "update": false
+  },
+  {
+    "id": "hn-49638353",
+    "canonical_url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+    "cluster_id": "event-1760e03c08053130",
+    "title": "OpenAI might have stolen another major proof",
+    "first_seen": "2026-09-11T04:50:41.067694+00:00",
+    "last_seen": "2026-09-11T04:50:41.067694+00:00",
+    "last_sent": "2026-09-11T04:50:41.067694+00:00",
+    "content_hash": "3bb64c86e82343ffaae6a961135b45590899744a675158d78cd29dea5a4e0ccd",
+    "update": false
   }
 ]
