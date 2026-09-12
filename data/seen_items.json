@@ -1606,15 +1606,15 @@
     "update": false
   },
   {
-    "id": "event-aabbe643bad0047d",
-    "canonical_url": "",
+    "id": "hf-a72db82fd81ed0ea",
+    "canonical_url": "https://huggingface.co/papers/2609.08084",
     "cluster_id": "event-aabbe643bad0047d",
     "title": "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation",
     "first_seen": "2026-09-11T04:50:41.067222+00:00",
-    "last_seen": "2026-09-11T04:50:41.068091+00:00",
-    "last_sent": "2026-09-11T04:50:41.068091+00:00",
-    "content_hash": "a16810ea691cc0b471c27fd32912b8d4a1dc567be5fb1305be3807612ca8ad42",
-    "update": false
+    "last_seen": "2026-09-12T04:46:41.268733+00:00",
+    "last_sent": "2026-09-12T04:46:41.268733+00:00",
+    "content_hash": "41aa4d0f149b7fd53b10015978e910b52f784d8ef1877cafd640f139993327fd",
+    "update": true
   },
   {
     "id": "bsky-bafyreid5p6sec4chsccv7uxucx5knh42szqr7ltl3czsw7avk62ajnv5l4",
@@ -1713,6 +1713,138 @@
     "last_seen": "2026-09-11T04:50:41.067694+00:00",
     "last_sent": "2026-09-11T04:50:41.067694+00:00",
     "content_hash": "3bb64c86e82343ffaae6a961135b45590899744a675158d78cd29dea5a4e0ccd",
+    "update": false
+  },
+  {
+    "id": "event-6dbe28d2550ae627",
+    "canonical_url": "",
+    "cluster_id": "event-6dbe28d2550ae627",
+    "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
+    "first_seen": "2026-09-12T04:46:41.268131+00:00",
+    "last_seen": "2026-09-12T04:46:41.269842+00:00",
+    "last_sent": "2026-09-12T04:46:41.269842+00:00",
+    "content_hash": "f99a89513410a97a66c9bc642a65777295cea4647119fc21ed9abe9e039523a6",
+    "update": false
+  },
+  {
+    "id": "event-fa458cc87c871df6",
+    "canonical_url": "",
+    "cluster_id": "event-fa458cc87c871df6",
+    "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+    "first_seen": "2026-09-12T04:46:41.268581+00:00",
+    "last_seen": "2026-09-12T04:46:41.270063+00:00",
+    "last_sent": "2026-09-12T04:46:41.270063+00:00",
+    "content_hash": "a2670c5b787840e9dbc3b96297161313a0cb3c4996a13623eb7a3dfba087c1e2",
+    "update": false
+  },
+  {
+    "id": "event-26e2c2c7c90abbfa",
+    "canonical_url": "",
+    "cluster_id": "event-26e2c2c7c90abbfa",
+    "title": "Programmable World Model",
+    "first_seen": "2026-09-12T04:46:41.268619+00:00",
+    "last_seen": "2026-09-12T04:46:41.270089+00:00",
+    "last_sent": "2026-09-12T04:46:41.270089+00:00",
+    "content_hash": "f88c0ea81b2f710abc4e6fdee655fa471586c69d4ecbd9aa38e4ca73f0d0eb46",
+    "update": false
+  },
+  {
+    "id": "event-5a490e36edb122c1",
+    "canonical_url": "",
+    "cluster_id": "event-5a490e36edb122c1",
+    "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
+    "first_seen": "2026-09-12T04:46:41.268770+00:00",
+    "last_seen": "2026-09-12T04:46:41.270112+00:00",
+    "last_sent": "2026-09-12T04:46:41.270112+00:00",
+    "content_hash": "ad9ae759e0ef74e7f6f23d5790505f126fca2b03591f254c69a1a1bbc7cb99ea",
+    "update": false
+  },
+  {
+    "id": "event-fbcabbe01d92f74c",
+    "canonical_url": "",
+    "cluster_id": "event-fbcabbe01d92f74c",
+    "title": "Independent of policy debates about existential risk, it is worth noting that even if AI development stopped today with",
+    "first_seen": "2026-09-12T04:46:41.268975+00:00",
+    "last_seen": "2026-09-12T04:46:41.270137+00:00",
+    "last_sent": "2026-09-12T04:46:41.270137+00:00",
+    "content_hash": "a8d1245e131f4a1f7bc8df420f58438cf72fb684cfad122081a9625f6cab91f0",
+    "update": false
+  },
+  {
+    "id": "hf-435c18aef93e3acd",
+    "canonical_url": "https://huggingface.co/papers/2609.09113",
+    "cluster_id": "event-9b4b8bb997f1b3c4",
+    "title": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
+    "first_seen": "2026-09-12T04:46:41.269036+00:00",
+    "last_seen": "2026-09-12T04:46:41.269036+00:00",
+    "last_sent": "2026-09-12T04:46:41.269036+00:00",
+    "content_hash": "da2abb3454842602682da2890418cac52b645e1a754cfa09bb52615bb0c7cf48",
+    "update": false
+  },
+  {
+    "id": "hn-49646988",
+    "canonical_url": "https://nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+    "cluster_id": "event-569cdf6f2a5deff9",
+    "title": "Anthropic says it blocked possible efforts to build biological weapons",
+    "first_seen": "2026-09-12T04:46:41.269068+00:00",
+    "last_seen": "2026-09-12T04:46:41.269373+00:00",
+    "last_sent": "2026-09-12T04:46:41.269373+00:00",
+    "content_hash": "1983f9502bd2bddf47c84f97f11f389caf6d8e3b12db7a3ee4c2defc6518e57a",
+    "update": false
+  },
+  {
+    "id": "hn-49650326",
+    "canonical_url": "https://johndcook.com/blog/2026/09/09/formal-method-revolution",
+    "cluster_id": "event-46d84f6db06fd4ac",
+    "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+    "first_seen": "2026-09-12T04:46:41.269128+00:00",
+    "last_seen": "2026-09-12T04:46:41.269128+00:00",
+    "last_sent": "2026-09-12T04:46:41.269128+00:00",
+    "content_hash": "f4b580c11933d4defa4fe51e0d8408fa9e1c152bfc5781baa113c06cec3e9754",
+    "update": false
+  },
+  {
+    "id": "814f57b489f34760105a",
+    "canonical_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "cluster_id": "event-ec3f3aa20922e395",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "first_seen": "2026-09-12T04:46:41.269585+00:00",
+    "last_seen": "2026-09-12T04:46:41.269585+00:00",
+    "last_sent": "2026-09-12T04:46:41.269585+00:00",
+    "content_hash": "35a8a196793085af357f6c39c389cb7a5240e728941721c105f588248b698f12",
+    "update": false
+  },
+  {
+    "id": "c048350d72590de54e41",
+    "canonical_url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "cluster_id": "event-2079851dcdcc3264",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "first_seen": "2026-09-12T04:46:41.269616+00:00",
+    "last_seen": "2026-09-12T04:46:41.269616+00:00",
+    "last_sent": "2026-09-12T04:46:41.269616+00:00",
+    "content_hash": "e8797582dac42d08717f69102b0f73246d7bfd16369e8729f92511f70d7cdbe6",
+    "update": false
+  },
+  {
+    "id": "484698462ebde6e3e990",
+    "canonical_url": "https://theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "cluster_id": "event-8e8b81af19116bde",
+    "title": "Anthropic spent this week in hot water over cybersecurity",
+    "first_seen": "2026-09-12T04:46:41.269647+00:00",
+    "last_seen": "2026-09-12T04:46:41.269647+00:00",
+    "last_sent": "2026-09-12T04:46:41.269647+00:00",
+    "content_hash": "553a887e4c2455d38a16f3b5a96f76c66994c1920694d02253c14d9a0479ddf7",
+    "update": false
+  },
+  {
+    "id": "89b5817d3d5e34f684e6",
+    "canonical_url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year",
+    "cluster_id": "event-2cd49b2eb0d628f4",
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "first_seen": "2026-09-12T04:46:41.269678+00:00",
+    "last_seen": "2026-09-12T04:46:41.269678+00:00",
+    "last_sent": "2026-09-12T04:46:41.269678+00:00",
+    "content_hash": "0c6dff065c0a933c87c68b32c435c2753e4425a6352bca604cfaf84cd0b6736f",
     "update": false
   }
 ]
