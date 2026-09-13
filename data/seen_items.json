@@ -1507,15 +1507,15 @@
     "update": false
   },
   {
-    "id": "event-27e4793838a220e3",
-    "canonical_url": "",
+    "id": "hf-93845788f016f1c2",
+    "canonical_url": "https://huggingface.co/papers/2609.08368",
     "cluster_id": "event-27e4793838a220e3",
-    "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
+    "title": "Miles v0.1: Production-Level Post-Training",
     "first_seen": "2026-09-10T05:10:47.792981+00:00",
-    "last_seen": "2026-09-10T05:10:47.794378+00:00",
-    "last_sent": "2026-09-10T05:10:47.794378+00:00",
-    "content_hash": "0a793cf6eed5ed7ef0cbbdb246ae63028a3d9eac2bb2c8ed4b493a0226bba6cf",
-    "update": false
+    "last_seen": "2026-09-13T05:14:25.414517+00:00",
+    "last_sent": "2026-09-13T05:14:25.414517+00:00",
+    "content_hash": "8751b9ad9e0a187e8a08aa97dcb318806c79757009c21f7b7f90c9801c6b8f12",
+    "update": true
   },
   {
     "id": "event-40c3af4bc09c7224",
@@ -1845,6 +1845,116 @@
     "last_seen": "2026-09-12T04:46:41.269678+00:00",
     "last_sent": "2026-09-12T04:46:41.269678+00:00",
     "content_hash": "0c6dff065c0a933c87c68b32c435c2753e4425a6352bca604cfaf84cd0b6736f",
+    "update": false
+  },
+  {
+    "id": "event-5aef69e5e5f72140",
+    "canonical_url": "",
+    "cluster_id": "event-5aef69e5e5f72140",
+    "title": "This week brought some of the clearest statements we've heard from both Anthropic & OpenAI that some form of recursive s",
+    "first_seen": "2026-09-13T05:14:25.413901+00:00",
+    "last_seen": "2026-09-13T05:14:25.415321+00:00",
+    "last_sent": "2026-09-13T05:14:25.415321+00:00",
+    "content_hash": "ae9b744cbe8d811f53525e980fef01107b0a64cf0d765b77c44426da7b74fd93",
+    "update": false
+  },
+  {
+    "id": "event-344f0dfd82a32049",
+    "canonical_url": "",
+    "cluster_id": "event-344f0dfd82a32049",
+    "title": "Here's a automated forecasting system to estimate catastrophic risk from some major experts on forecasting.\n\nThe models",
+    "first_seen": "2026-09-13T05:14:25.414218+00:00",
+    "last_seen": "2026-09-13T05:14:25.415350+00:00",
+    "last_sent": "2026-09-13T05:14:25.415350+00:00",
+    "content_hash": "69158b92d46e4b197edeb2c9c90417d6b711066cc0022e5f1a8ef8b7e1022c7c",
+    "update": false
+  },
+  {
+    "id": "event-004a5e73f818cbd9",
+    "canonical_url": "",
+    "cluster_id": "event-004a5e73f818cbd9",
+    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+    "first_seen": "2026-09-13T05:14:25.414272+00:00",
+    "last_seen": "2026-09-13T05:14:25.415374+00:00",
+    "last_sent": "2026-09-13T05:14:25.415374+00:00",
+    "content_hash": "22f27390c5ed575b03f70dc6a3cf2ea3858da400a32cbd252777b309d1705389",
+    "update": false
+  },
+  {
+    "id": "event-6873294eaa2d9391",
+    "canonical_url": "",
+    "cluster_id": "event-6873294eaa2d9391",
+    "title": "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining",
+    "first_seen": "2026-09-13T05:14:25.414379+00:00",
+    "last_seen": "2026-09-13T05:14:25.415399+00:00",
+    "last_sent": "2026-09-13T05:14:25.415399+00:00",
+    "content_hash": "8cc654516b9652e9cc5f9887d7216e3e9b0cce287ed49b872c2dd2787ada2b83",
+    "update": false
+  },
+  {
+    "id": "event-95b7cf6a071d99d7",
+    "canonical_url": "",
+    "cluster_id": "event-95b7cf6a071d99d7",
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "first_seen": "2026-09-13T05:14:25.414807+00:00",
+    "last_seen": "2026-09-13T05:14:25.415431+00:00",
+    "last_sent": "2026-09-13T05:14:25.415431+00:00",
+    "content_hash": "2239185f51b334014345a218e00d93e8ff559d77ee1f6ee784056dc3dd45c04a",
+    "update": false
+  },
+  {
+    "id": "5453706f722c21b4b250",
+    "canonical_url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating",
+    "cluster_id": "event-3b12c83b560a1088",
+    "title": "OpenAI’s feud with mathematicians is only escalating",
+    "first_seen": "2026-09-13T05:14:25.414834+00:00",
+    "last_seen": "2026-09-13T05:14:25.415258+00:00",
+    "last_sent": "2026-09-13T05:14:25.415258+00:00",
+    "content_hash": "157d577e8761aa669d5e0193535e5ce94b6d8dd2a1d44e1a309aef321bd78a79",
+    "update": false
+  },
+  {
+    "id": "hn-49662767",
+    "canonical_url": "https://github.com/kennethwolters/litelm",
+    "cluster_id": "event-972e8d1137f2a77e",
+    "title": "Litelm: LiteLLM Without the Bloat",
+    "first_seen": "2026-09-13T05:14:25.414995+00:00",
+    "last_seen": "2026-09-13T05:14:25.414995+00:00",
+    "last_sent": "2026-09-13T05:14:25.414995+00:00",
+    "content_hash": "fb18fff158429a6302e2821d342c2c4f089ff288aad126aebf638b74c4b8228c",
+    "update": false
+  },
+  {
+    "id": "hn-49666425",
+    "canonical_url": "https://washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says",
+    "cluster_id": "event-93a7b6b78f86ddfc",
+    "title": "Houthis used Anthropic to develop guided weapons",
+    "first_seen": "2026-09-13T05:14:25.415154+00:00",
+    "last_seen": "2026-09-13T05:14:25.415154+00:00",
+    "last_sent": "2026-09-13T05:14:25.415154+00:00",
+    "content_hash": "f051e0a671aaa18f244220545560fb25471369cf8e1e925695cdba13938c0314",
+    "update": false
+  },
+  {
+    "id": "hn-49674280",
+    "canonical_url": "https://tokendelivery.ai/",
+    "cluster_id": "event-edbe5f941c49397f",
+    "title": "Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
+    "first_seen": "2026-09-13T05:14:25.415232+00:00",
+    "last_seen": "2026-09-13T05:14:25.415232+00:00",
+    "last_sent": "2026-09-13T05:14:25.415232+00:00",
+    "content_hash": "9d09aa21ef5420e9c408c7d6907159cb9efd364b2629fbd0ea22962dfcfdcf6a",
+    "update": false
+  },
+  {
+    "id": "4ffd030c17903df10d5e",
+    "canonical_url": "https://technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all",
+    "cluster_id": "event-371c80d62a775130",
+    "title": "Roundtables: Could AI really kill us all?",
+    "first_seen": "2026-09-13T05:14:25.415286+00:00",
+    "last_seen": "2026-09-13T05:14:25.415286+00:00",
+    "last_sent": "2026-09-13T05:14:25.415286+00:00",
+    "content_hash": "cc31b77d4980c17a69670fcbac1fe6e7d522d1190e2c66a586e8173f9369aa5e",
     "update": false
   }
 ]
