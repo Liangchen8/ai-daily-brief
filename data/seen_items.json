@@ -1507,14 +1507,14 @@
     "update": false
   },
   {
-    "id": "hf-93845788f016f1c2",
-    "canonical_url": "https://huggingface.co/papers/2609.08368",
+    "id": "event-27e4793838a220e3",
+    "canonical_url": "",
     "cluster_id": "event-27e4793838a220e3",
-    "title": "Miles v0.1: Production-Level Post-Training",
+    "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
     "first_seen": "2026-09-10T05:10:47.792981+00:00",
-    "last_seen": "2026-09-13T05:14:25.414517+00:00",
-    "last_sent": "2026-09-13T05:14:25.414517+00:00",
-    "content_hash": "8751b9ad9e0a187e8a08aa97dcb318806c79757009c21f7b7f90c9801c6b8f12",
+    "last_seen": "2026-09-14T05:02:00.888188+00:00",
+    "last_sent": "2026-09-14T05:02:00.888188+00:00",
+    "content_hash": "0a793cf6eed5ed7ef0cbbdb246ae63028a3d9eac2bb2c8ed4b493a0226bba6cf",
     "update": true
   },
   {
@@ -1955,6 +1955,61 @@
     "last_seen": "2026-09-13T05:14:25.415286+00:00",
     "last_sent": "2026-09-13T05:14:25.415286+00:00",
     "content_hash": "cc31b77d4980c17a69670fcbac1fe6e7d522d1190e2c66a586e8173f9369aa5e",
+    "update": false
+  },
+  {
+    "id": "event-3c8a02d5c69e4702",
+    "canonical_url": "",
+    "cluster_id": "event-3c8a02d5c69e4702",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "first_seen": "2026-09-14T05:02:00.887068+00:00",
+    "last_seen": "2026-09-14T05:02:00.888140+00:00",
+    "last_sent": "2026-09-14T05:02:00.888140+00:00",
+    "content_hash": "44cf546119bdb8462467f6d36e733e3e3b8943099d6c3aab87a2aa9d938eee5c",
+    "update": false
+  },
+  {
+    "id": "event-08441ef928a40652",
+    "canonical_url": "",
+    "cluster_id": "event-08441ef928a40652",
+    "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
+    "first_seen": "2026-09-14T05:02:00.887571+00:00",
+    "last_seen": "2026-09-14T05:02:00.888167+00:00",
+    "last_sent": "2026-09-14T05:02:00.888167+00:00",
+    "content_hash": "fb1e8ca936f65c9c9169c8a1e915531f57e50c5afd4f76ae6e6a6e6d26b6a88e",
+    "update": false
+  },
+  {
+    "id": "event-dfe85ba5b05a0872",
+    "canonical_url": "",
+    "cluster_id": "event-dfe85ba5b05a0872",
+    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "first_seen": "2026-09-14T05:02:00.887905+00:00",
+    "last_seen": "2026-09-14T05:02:00.888204+00:00",
+    "last_sent": "2026-09-14T05:02:00.888204+00:00",
+    "content_hash": "f186829dfba980ac0d5fcd5e9a89935fb4b19031ab4dec84ad0eba1a62814a00",
+    "update": false
+  },
+  {
+    "id": "event-b03507484e61c687",
+    "canonical_url": "",
+    "cluster_id": "event-b03507484e61c687",
+    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "first_seen": "2026-09-14T05:02:00.887945+00:00",
+    "last_seen": "2026-09-14T05:02:00.888221+00:00",
+    "last_sent": "2026-09-14T05:02:00.888221+00:00",
+    "content_hash": "73439b8982932206c2b3819fc826f9871ebce9e0b89127fd9dae9cb504c84103",
+    "update": false
+  },
+  {
+    "id": "hn-49690627",
+    "canonical_url": "https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct",
+    "cluster_id": "event-154d37975769ee16",
+    "title": "Opportunistic AI detects colorectal cancer using routine, noncontrast CT",
+    "first_seen": "2026-09-14T05:02:00.888112+00:00",
+    "last_seen": "2026-09-14T05:02:00.888112+00:00",
+    "last_sent": "2026-09-14T05:02:00.888112+00:00",
+    "content_hash": "cf101747c4eefca9bb85ca81bf1671aba826573bb13f919c700e18b901a5137b",
     "update": false
   }
 ]
