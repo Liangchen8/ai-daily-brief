@@ -2011,5 +2011,82 @@
     "last_sent": "2026-09-14T05:02:00.888112+00:00",
     "content_hash": "cf101747c4eefca9bb85ca81bf1671aba826573bb13f919c700e18b901a5137b",
     "update": false
+  },
+  {
+    "id": "event-a128606f8ffbf345",
+    "canonical_url": "",
+    "cluster_id": "event-a128606f8ffbf345",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "first_seen": "2026-09-15T05:01:30.219878+00:00",
+    "last_seen": "2026-09-15T05:01:30.220777+00:00",
+    "last_sent": "2026-09-15T05:01:30.220777+00:00",
+    "content_hash": "af6ec7fee480c02c1fd0cbdf8a46adbbf8001d15b7b0db2585cbed71b1df8395",
+    "update": false
+  },
+  {
+    "id": "event-c687bc91fa7641e6",
+    "canonical_url": "",
+    "cluster_id": "event-c687bc91fa7641e6",
+    "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+    "first_seen": "2026-09-15T05:01:30.220332+00:00",
+    "last_seen": "2026-09-15T05:01:30.220808+00:00",
+    "last_sent": "2026-09-15T05:01:30.220808+00:00",
+    "content_hash": "9d12a685bfb13e8170db70215dfbc0a1033bca455e811e7318fd4b58c04580db",
+    "update": false
+  },
+  {
+    "id": "event-1df4ca08dddec10c",
+    "canonical_url": "",
+    "cluster_id": "event-1df4ca08dddec10c",
+    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+    "first_seen": "2026-09-15T05:01:30.220455+00:00",
+    "last_seen": "2026-09-15T05:01:30.220825+00:00",
+    "last_sent": "2026-09-15T05:01:30.220825+00:00",
+    "content_hash": "b026b2ab9f175be19961919a2d2ad51c079bb986cecbcc89b7b230e51e0097d7",
+    "update": false
+  },
+  {
+    "id": "event-cd38300db37264c1",
+    "canonical_url": "",
+    "cluster_id": "event-cd38300db37264c1",
+    "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+    "first_seen": "2026-09-15T05:01:30.220660+00:00",
+    "last_seen": "2026-09-15T05:01:30.220841+00:00",
+    "last_sent": "2026-09-15T05:01:30.220841+00:00",
+    "content_hash": "7b9ecd50147e4b0b0ccdc1365764821f36810a8d834132060b08e359f49b0d32",
+    "update": false
+  },
+  {
+    "id": "event-11385ef2913ade88",
+    "canonical_url": "",
+    "cluster_id": "event-11385ef2913ade88",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "first_seen": "2026-09-15T05:01:30.220700+00:00",
+    "last_seen": "2026-09-15T05:01:30.220857+00:00",
+    "last_sent": "2026-09-15T05:01:30.220857+00:00",
+    "content_hash": "151ee61246b88d1d348f4bad9305056e7192c5c85e4acf67194deb8ac412f1a6",
+    "update": false
+  },
+  {
+    "id": "c2074bfb5763fc012bf0",
+    "canonical_url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again",
+    "cluster_id": "event-45ed5bb57be6d590",
+    "title": "With iOS 27, I’m actually using Siri again",
+    "first_seen": "2026-09-15T05:01:30.220719+00:00",
+    "last_seen": "2026-09-15T05:01:30.220719+00:00",
+    "last_sent": "2026-09-15T05:01:30.220719+00:00",
+    "content_hash": "955a4c7fa5c3c0cf3f794be5fde5e78b5f65930cac3d762ffbd85541b0f5f9dd",
+    "update": false
+  },
+  {
+    "id": "ac0c698bb9e96aee65b0",
+    "canonical_url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work",
+    "cluster_id": "event-0a3ab4d813f567f7",
+    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+    "first_seen": "2026-09-15T05:01:30.220740+00:00",
+    "last_seen": "2026-09-15T05:01:30.220740+00:00",
+    "last_sent": "2026-09-15T05:01:30.220740+00:00",
+    "content_hash": "d2ab6a13f843fb20be3eb73555dc8c6b844f5ce4d2573bba52507d15433fc7e3",
+    "update": false
   }
 ]
