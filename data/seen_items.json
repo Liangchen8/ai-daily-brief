@@ -1947,14 +1947,14 @@
     "update": false
   },
   {
-    "id": "4ffd030c17903df10d5e",
-    "canonical_url": "https://technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all",
-    "cluster_id": "event-371c80d62a775130",
-    "title": "Roundtables: Could AI really kill us all?",
+    "id": "event-8057a8d1c8b86a27",
+    "canonical_url": "",
+    "cluster_id": "event-8057a8d1c8b86a27",
+    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
     "first_seen": "2026-09-13T05:14:25.415286+00:00",
-    "last_seen": "2026-09-13T05:14:25.415286+00:00",
-    "last_sent": "2026-09-13T05:14:25.415286+00:00",
-    "content_hash": "cc31b77d4980c17a69670fcbac1fe6e7d522d1190e2c66a586e8173f9369aa5e",
+    "last_seen": "2026-09-16T04:54:49.218517+00:00",
+    "last_sent": "2026-09-16T04:54:49.218517+00:00",
+    "content_hash": "777eacb725be14a0fe7d17f93f6dc80f5047ea5a7de2e1d3c714eefc695d48c2",
     "update": false
   },
   {
@@ -2087,6 +2087,83 @@
     "last_seen": "2026-09-15T05:01:30.220740+00:00",
     "last_sent": "2026-09-15T05:01:30.220740+00:00",
     "content_hash": "d2ab6a13f843fb20be3eb73555dc8c6b844f5ce4d2573bba52507d15433fc7e3",
+    "update": false
+  },
+  {
+    "id": "a9553848eb646cf1752a",
+    "canonical_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
+    "cluster_id": "event-8057a8d1c8b86a27",
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "first_seen": "2026-09-16T04:54:49.216278+00:00",
+    "last_seen": "2026-09-16T04:54:49.217757+00:00",
+    "last_sent": "2026-09-16T04:54:49.217757+00:00",
+    "content_hash": "4075e24e3e8ebfe63fc9ac4a6d2b36ea12e64af0c5c15d784fce2ce3bd276730",
+    "update": false
+  },
+  {
+    "id": "event-1a5c1f483e933a16",
+    "canonical_url": "",
+    "cluster_id": "event-1a5c1f483e933a16",
+    "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
+    "first_seen": "2026-09-16T04:54:49.216890+00:00",
+    "last_seen": "2026-09-16T04:54:49.218722+00:00",
+    "last_sent": "2026-09-16T04:54:49.218722+00:00",
+    "content_hash": "19e5b6794c080443d35602182f58499ef8c3898a4b2d716098829ffeb032077b",
+    "update": false
+  },
+  {
+    "id": "event-3abddce31ce188ff",
+    "canonical_url": "",
+    "cluster_id": "event-3abddce31ce188ff",
+    "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
+    "first_seen": "2026-09-16T04:54:49.216963+00:00",
+    "last_seen": "2026-09-16T04:54:49.218764+00:00",
+    "last_sent": "2026-09-16T04:54:49.218764+00:00",
+    "content_hash": "b6cf5513db4cf78d10b40f1b0fd417ed9c20d8215c65a51688e2c927de0139d6",
+    "update": false
+  },
+  {
+    "id": "event-584dae45270f89ac",
+    "canonical_url": "",
+    "cluster_id": "event-584dae45270f89ac",
+    "title": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
+    "first_seen": "2026-09-16T04:54:49.217074+00:00",
+    "last_seen": "2026-09-16T04:54:49.218796+00:00",
+    "last_sent": "2026-09-16T04:54:49.218796+00:00",
+    "content_hash": "d421619eddbc0a1d5e3bbb133a05027a85f0e4b385287c26095ac43def440856",
+    "update": false
+  },
+  {
+    "id": "event-61f4522721104d10",
+    "canonical_url": "",
+    "cluster_id": "event-61f4522721104d10",
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "first_seen": "2026-09-16T04:54:49.217184+00:00",
+    "last_seen": "2026-09-16T04:54:49.218828+00:00",
+    "last_sent": "2026-09-16T04:54:49.218828+00:00",
+    "content_hash": "2e740c74b354f98c302976bcb081ffd58067fc5799d4fdb44926cfc1e29872e3",
+    "update": false
+  },
+  {
+    "id": "hn-49715927",
+    "canonical_url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+    "cluster_id": "event-9e4c3be9c95f21cb",
+    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+    "first_seen": "2026-09-16T04:54:49.217355+00:00",
+    "last_seen": "2026-09-16T04:54:49.217355+00:00",
+    "last_sent": "2026-09-16T04:54:49.217355+00:00",
+    "content_hash": "7016262fc8060ed67e627c6fc34a310c44a66ec526c3eb57287a5a02cac5f98f",
+    "update": false
+  },
+  {
+    "id": "hf-8549a0786888a00c",
+    "canonical_url": "https://huggingface.co/papers/2609.15659",
+    "cluster_id": "event-58c6731bec350f00",
+    "title": "Kaininja: Extending Native 3D Generators to the Part Level",
+    "first_seen": "2026-09-16T04:54:49.217433+00:00",
+    "last_seen": "2026-09-16T04:54:49.217433+00:00",
+    "last_sent": "2026-09-16T04:54:49.217433+00:00",
+    "content_hash": "d6299170111e7b6eed259befac89f7bca8e52b4495638ade45e2ad7d31d09476",
     "update": false
   }
 ]
