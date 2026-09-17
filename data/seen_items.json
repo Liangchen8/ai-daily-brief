@@ -2165,5 +2165,82 @@
     "last_sent": "2026-09-16T04:54:49.217433+00:00",
     "content_hash": "d6299170111e7b6eed259befac89f7bca8e52b4495638ade45e2ad7d31d09476",
     "update": false
+  },
+  {
+    "id": "event-9bb0288f362ac56b",
+    "canonical_url": "",
+    "cluster_id": "event-9bb0288f362ac56b",
+    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+    "first_seen": "2026-09-17T05:23:14.531038+00:00",
+    "last_seen": "2026-09-17T05:23:14.532875+00:00",
+    "last_sent": "2026-09-17T05:23:14.532875+00:00",
+    "content_hash": "971f1ea8d0039b1c99b682aa2af832a6dbaec52ed41512ae3b9303d4235b9ad0",
+    "update": false
+  },
+  {
+    "id": "event-df91efb29d90a11c",
+    "canonical_url": "",
+    "cluster_id": "event-df91efb29d90a11c",
+    "title": "How workers are unlocking new ways of working",
+    "first_seen": "2026-09-17T05:23:14.531170+00:00",
+    "last_seen": "2026-09-17T05:23:14.532669+00:00",
+    "last_sent": "2026-09-17T05:23:14.532669+00:00",
+    "content_hash": "6df256ef41d211bd3a08091c19d187059a4b819b194395a5dfd457f9b01f62fc",
+    "update": false
+  },
+  {
+    "id": "event-4356377a0fd58a85",
+    "canonical_url": "",
+    "cluster_id": "event-4356377a0fd58a85",
+    "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
+    "first_seen": "2026-09-17T05:23:14.531516+00:00",
+    "last_seen": "2026-09-17T05:23:14.532925+00:00",
+    "last_sent": "2026-09-17T05:23:14.532925+00:00",
+    "content_hash": "111c9c6db39a99c630ff76398cee8c877cfc67395b85f75a4f11f3d7edf567e6",
+    "update": false
+  },
+  {
+    "id": "event-e0c5b6ef079aa6d2",
+    "canonical_url": "",
+    "cluster_id": "event-e0c5b6ef079aa6d2",
+    "title": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
+    "first_seen": "2026-09-17T05:23:14.531549+00:00",
+    "last_seen": "2026-09-17T05:23:14.532958+00:00",
+    "last_sent": "2026-09-17T05:23:14.532958+00:00",
+    "content_hash": "7fb42d5eb47d83bbfcf435c0ce182d79411b50ee6fef8e2c9982c21dd0659269",
+    "update": false
+  },
+  {
+    "id": "event-88ba39a409b767bf",
+    "canonical_url": "",
+    "cluster_id": "event-88ba39a409b767bf",
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "first_seen": "2026-09-17T05:23:14.531743+00:00",
+    "last_seen": "2026-09-17T05:23:14.532991+00:00",
+    "last_sent": "2026-09-17T05:23:14.532991+00:00",
+    "content_hash": "4b3057e4d145be1830e5c37b81351a5da524993f4fc78b4fa1b55767d02d830d",
+    "update": false
+  },
+  {
+    "id": "hn-49723408",
+    "canonical_url": "https://mistral.ai/news/mistral-x-mozilla",
+    "cluster_id": "event-28cfe9b0fd40393e",
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "first_seen": "2026-09-17T05:23:14.531808+00:00",
+    "last_seen": "2026-09-17T05:23:14.531808+00:00",
+    "last_sent": "2026-09-17T05:23:14.531808+00:00",
+    "content_hash": "b2b344d4dc1e9950c876c082d5816b74f413e66ede7b5b81e35dedee7d973ec4",
+    "update": false
+  },
+  {
+    "id": "hn-49716241",
+    "canonical_url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
+    "cluster_id": "event-b6f545cf3bfc1bea",
+    "title": "Hugging Face is billing OpenAI $100M for hacking it",
+    "first_seen": "2026-09-17T05:23:14.532547+00:00",
+    "last_seen": "2026-09-17T05:23:14.532547+00:00",
+    "last_sent": "2026-09-17T05:23:14.532547+00:00",
+    "content_hash": "63d7a8c5911852a46b87cdd19d5755b76d7510ba8ea598aa2c3e230c46ea5730",
+    "update": false
   }
 ]
