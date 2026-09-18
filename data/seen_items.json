@@ -2242,5 +2242,104 @@
     "last_sent": "2026-09-17T05:23:14.532547+00:00",
     "content_hash": "63d7a8c5911852a46b87cdd19d5755b76d7510ba8ea598aa2c3e230c46ea5730",
     "update": false
+  },
+  {
+    "id": "event-a1eab8c70f2b27b8",
+    "canonical_url": "",
+    "cluster_id": "event-a1eab8c70f2b27b8",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "first_seen": "2026-09-18T04:47:40.597521+00:00",
+    "last_seen": "2026-09-18T04:47:40.599416+00:00",
+    "last_sent": "2026-09-18T04:47:40.599416+00:00",
+    "content_hash": "b2f08cb9ca5b6f9592c50b0f4e1ae74043e8752c12f839fb79c0e75d6aa96b9c",
+    "update": false
+  },
+  {
+    "id": "event-8da7dd4ce51705b1",
+    "canonical_url": "",
+    "cluster_id": "event-8da7dd4ce51705b1",
+    "title": "Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening",
+    "first_seen": "2026-09-18T04:47:40.598001+00:00",
+    "last_seen": "2026-09-18T04:47:40.599629+00:00",
+    "last_sent": "2026-09-18T04:47:40.599629+00:00",
+    "content_hash": "f8fdb3d9ebb153db1ed61bd8602a7a2425abd77c2f06d055d8ec95adc5e09b81",
+    "update": false
+  },
+  {
+    "id": "event-26ce3d2a9643b1fb",
+    "canonical_url": "",
+    "cluster_id": "event-26ce3d2a9643b1fb",
+    "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+    "first_seen": "2026-09-18T04:47:40.598036+00:00",
+    "last_seen": "2026-09-18T04:47:40.599680+00:00",
+    "last_sent": "2026-09-18T04:47:40.599680+00:00",
+    "content_hash": "946dcad61d896268078a03e1303103d9e9e01dc223d024dcde41b32929a0d42d",
+    "update": false
+  },
+  {
+    "id": "event-3cbcd0cab7e1735c",
+    "canonical_url": "",
+    "cluster_id": "event-3cbcd0cab7e1735c",
+    "title": "Agora: Git as Shared Memory for Collective AutoResearch",
+    "first_seen": "2026-09-18T04:47:40.598192+00:00",
+    "last_seen": "2026-09-18T04:47:40.599710+00:00",
+    "last_sent": "2026-09-18T04:47:40.599710+00:00",
+    "content_hash": "a93b4fb3a56431ceb2a2fb34631c61e8f8deb2236ac14b9b4035710259a13463",
+    "update": false
+  },
+  {
+    "id": "event-1e02d31fcc2fb0b0",
+    "canonical_url": "",
+    "cluster_id": "event-1e02d31fcc2fb0b0",
+    "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
+    "first_seen": "2026-09-18T04:47:40.598476+00:00",
+    "last_seen": "2026-09-18T04:47:40.599743+00:00",
+    "last_sent": "2026-09-18T04:47:40.599743+00:00",
+    "content_hash": "5c74c75c38889c2e002a67d1eb86bb98b4104862419096fa784811527a000928",
+    "update": false
+  },
+  {
+    "id": "hn-49737922",
+    "canonical_url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "cluster_id": "event-e7504510531a5478",
+    "title": "How GLM built its own inference infrastructure",
+    "first_seen": "2026-09-18T04:47:40.598569+00:00",
+    "last_seen": "2026-09-18T04:47:40.598569+00:00",
+    "last_sent": "2026-09-18T04:47:40.598569+00:00",
+    "content_hash": "939dfaff38b39d48397d3775ed2fc63bb5e9ffe03237b98ad1b8ee3152d6a169",
+    "update": false
+  },
+  {
+    "id": "hn-49749656",
+    "canonical_url": "https://hacktron.ai/blog/hacking-openai",
+    "cluster_id": "event-290eb0c81ec0b82e",
+    "title": "Hacking OpenAI",
+    "first_seen": "2026-09-18T04:47:40.598600+00:00",
+    "last_seen": "2026-09-18T04:47:40.598600+00:00",
+    "last_sent": "2026-09-18T04:47:40.598600+00:00",
+    "content_hash": "341e7fa8763fded0a63b7cfd0bb105c90b585b0b95ae323db2d2a931080b398e",
+    "update": false
+  },
+  {
+    "id": "hn-49742437",
+    "canonical_url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction",
+    "cluster_id": "event-ba6a7940bbeb3990",
+    "title": "LLM Classification Is Feature Engineering",
+    "first_seen": "2026-09-18T04:47:40.599179+00:00",
+    "last_seen": "2026-09-18T04:47:40.599179+00:00",
+    "last_sent": "2026-09-18T04:47:40.599179+00:00",
+    "content_hash": "3a5d9cf4b916cd661b6ec6df61a95f122f70b5e83087251ff749f359354f1519",
+    "update": false
+  },
+  {
+    "id": "hn-49732931",
+    "canonical_url": "https://arxiv.org/abs/2609.16338",
+    "cluster_id": "event-c466cccac68b2c6a",
+    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "first_seen": "2026-09-18T04:47:40.599210+00:00",
+    "last_seen": "2026-09-18T04:47:40.599210+00:00",
+    "last_sent": "2026-09-18T04:47:40.599210+00:00",
+    "content_hash": "685d10355235ac9f84be066368aec2a30cf285b6f737c6947f228efa2bca4ec1",
+    "update": false
   }
 ]
