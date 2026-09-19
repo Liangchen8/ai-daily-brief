@@ -2310,14 +2310,14 @@
     "update": false
   },
   {
-    "id": "hn-49749656",
-    "canonical_url": "https://hacktron.ai/blog/hacking-openai",
-    "cluster_id": "event-290eb0c81ec0b82e",
-    "title": "Hacking OpenAI",
+    "id": "event-972a2395cdbdf7b4",
+    "canonical_url": "",
+    "cluster_id": "event-972a2395cdbdf7b4",
+    "title": "AI for Games in the Foundation Model Era",
     "first_seen": "2026-09-18T04:47:40.598600+00:00",
-    "last_seen": "2026-09-18T04:47:40.598600+00:00",
-    "last_sent": "2026-09-18T04:47:40.598600+00:00",
-    "content_hash": "341e7fa8763fded0a63b7cfd0bb105c90b585b0b95ae323db2d2a931080b398e",
+    "last_seen": "2026-09-19T04:44:38.093708+00:00",
+    "last_sent": "2026-09-19T04:44:38.093708+00:00",
+    "content_hash": "6aeb0587e88066c2c19c169eebf20c7d1f5e893917bf8f917073ced84559de79",
     "update": false
   },
   {
@@ -2340,6 +2340,83 @@
     "last_seen": "2026-09-18T04:47:40.599210+00:00",
     "last_sent": "2026-09-18T04:47:40.599210+00:00",
     "content_hash": "685d10355235ac9f84be066368aec2a30cf285b6f737c6947f228efa2bca4ec1",
+    "update": false
+  },
+  {
+    "id": "hn-49753878",
+    "canonical_url": "https://arxiv.org/abs/2609.20804",
+    "cluster_id": "event-972a2395cdbdf7b4",
+    "title": "An empirical study of harness design for coding agents",
+    "first_seen": "2026-09-19T04:44:38.091761+00:00",
+    "last_seen": "2026-09-19T04:44:38.092019+00:00",
+    "last_sent": "2026-09-19T04:44:38.092019+00:00",
+    "content_hash": "6e101ecb1f51de3e043987ecae91f1738ee608197a75e663a8d6c605e5e9ab16",
+    "update": false
+  },
+  {
+    "id": "event-e2b4e8eaafce2b6c",
+    "canonical_url": "",
+    "cluster_id": "event-e2b4e8eaafce2b6c",
+    "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+    "first_seen": "2026-09-19T04:44:38.092345+00:00",
+    "last_seen": "2026-09-19T04:44:38.093949+00:00",
+    "last_sent": "2026-09-19T04:44:38.093949+00:00",
+    "content_hash": "d3da8e1315232380a0c8992dc7d32b3a9cbfdeff84d616c21a948e6d392a011b",
+    "update": false
+  },
+  {
+    "id": "event-b18960f3746ce4c0",
+    "canonical_url": "",
+    "cluster_id": "event-b18960f3746ce4c0",
+    "title": "Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening",
+    "first_seen": "2026-09-19T04:44:38.092452+00:00",
+    "last_seen": "2026-09-19T04:44:38.093982+00:00",
+    "last_sent": "2026-09-19T04:44:38.093982+00:00",
+    "content_hash": "2c0450a893f2b813cd73f26b102809c0937f7263d76b34c6f27497e7f07aa74b",
+    "update": false
+  },
+  {
+    "id": "event-b6d9c0e971e0683e",
+    "canonical_url": "",
+    "cluster_id": "event-b6d9c0e971e0683e",
+    "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
+    "first_seen": "2026-09-19T04:44:38.092781+00:00",
+    "last_seen": "2026-09-19T04:44:38.094014+00:00",
+    "last_sent": "2026-09-19T04:44:38.094014+00:00",
+    "content_hash": "c5bca8ab52a6b847d395701008eef9f8d78f1aab1ddf0982d8c0e86cfc895590",
+    "update": false
+  },
+  {
+    "id": "event-a720c4b6cdd6a2b1",
+    "canonical_url": "",
+    "cluster_id": "event-a720c4b6cdd6a2b1",
+    "title": "VABench: Measuring Embodied Spatial Intelligence through Visual Demonstrations, Active Perception, and Metric Control",
+    "first_seen": "2026-09-19T04:44:38.092853+00:00",
+    "last_seen": "2026-09-19T04:44:38.094045+00:00",
+    "last_sent": "2026-09-19T04:44:38.094045+00:00",
+    "content_hash": "5b1bf9469d17c058497d2d6e277088adf5f9028cb86fc91751737654e751b7e2",
+    "update": false
+  },
+  {
+    "id": "hf-c8e819436a6c5ec4",
+    "canonical_url": "https://huggingface.co/papers/2609.18063",
+    "cluster_id": "event-2a36995b82707b48",
+    "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+    "first_seen": "2026-09-19T04:44:38.092904+00:00",
+    "last_seen": "2026-09-19T04:44:38.092904+00:00",
+    "last_sent": "2026-09-19T04:44:38.092904+00:00",
+    "content_hash": "3e1aafadc75ae97660be527d6fa99c2fb1ce71e64b5ee75d90e7be7177a5ab17",
+    "update": false
+  },
+  {
+    "id": "hn-49754250",
+    "canonical_url": "https://science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+    "cluster_id": "event-330bc7e626fe3c3b",
+    "title": "AI chatbots are becoming experts at changing people's minds",
+    "first_seen": "2026-09-19T04:44:38.093012+00:00",
+    "last_seen": "2026-09-19T04:44:38.093012+00:00",
+    "last_sent": "2026-09-19T04:44:38.093012+00:00",
+    "content_hash": "039a1333b1bea61fadeac4ac7025987aa4277c9b32b085107a38865e3d2261a6",
     "update": false
   }
 ]
