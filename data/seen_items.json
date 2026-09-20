@@ -2376,15 +2376,15 @@
     "update": false
   },
   {
-    "id": "event-b6d9c0e971e0683e",
-    "canonical_url": "",
+    "id": "hf-24f4cedcb0aec45e",
+    "canonical_url": "https://huggingface.co/papers/2609.20423",
     "cluster_id": "event-b6d9c0e971e0683e",
     "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
     "first_seen": "2026-09-19T04:44:38.092781+00:00",
-    "last_seen": "2026-09-19T04:44:38.094014+00:00",
-    "last_sent": "2026-09-19T04:44:38.094014+00:00",
-    "content_hash": "c5bca8ab52a6b847d395701008eef9f8d78f1aab1ddf0982d8c0e86cfc895590",
-    "update": false
+    "last_seen": "2026-09-20T04:59:27.335644+00:00",
+    "last_sent": "2026-09-20T04:59:27.335644+00:00",
+    "content_hash": "03b90b07ec456bc5d78269a632019963c8864a3efbe0d6dfb2ccac19d4a3c4d1",
+    "update": true
   },
   {
     "id": "event-a720c4b6cdd6a2b1",
@@ -2417,6 +2417,50 @@
     "last_seen": "2026-09-19T04:44:38.093012+00:00",
     "last_sent": "2026-09-19T04:44:38.093012+00:00",
     "content_hash": "039a1333b1bea61fadeac4ac7025987aa4277c9b32b085107a38865e3d2261a6",
+    "update": false
+  },
+  {
+    "id": "event-3c568fd0e6f8e9ed",
+    "canonical_url": "",
+    "cluster_id": "event-3c568fd0e6f8e9ed",
+    "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+    "first_seen": "2026-09-20T04:59:27.335165+00:00",
+    "last_seen": "2026-09-20T04:59:27.336275+00:00",
+    "last_sent": "2026-09-20T04:59:27.336275+00:00",
+    "content_hash": "a40c45d5374c8bb9d0b23449d0b8b55bb7bca4786457857cde7f6f8a984e2598",
+    "update": false
+  },
+  {
+    "id": "event-0fa2103f649f3fb4",
+    "canonical_url": "",
+    "cluster_id": "event-0fa2103f649f3fb4",
+    "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+    "first_seen": "2026-09-20T04:59:27.335468+00:00",
+    "last_seen": "2026-09-20T04:59:27.336432+00:00",
+    "last_sent": "2026-09-20T04:59:27.336432+00:00",
+    "content_hash": "3bb4d73b947bb6730f3a8b72e07673308896de60e0d4aa0d429f45e638f8334b",
+    "update": false
+  },
+  {
+    "id": "event-98b925d975532eba",
+    "canonical_url": "",
+    "cluster_id": "event-98b925d975532eba",
+    "title": "In-Context Robot Learning with VLM Agents",
+    "first_seen": "2026-09-20T04:59:27.335528+00:00",
+    "last_seen": "2026-09-20T04:59:27.336465+00:00",
+    "last_sent": "2026-09-20T04:59:27.336465+00:00",
+    "content_hash": "d22e3d42c69e293c207984d6dbc10157764d07782d04fbf2d8b9e92fb8cc3744",
+    "update": false
+  },
+  {
+    "id": "event-e4306e365916aca6",
+    "canonical_url": "",
+    "cluster_id": "event-e4306e365916aca6",
+    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+    "first_seen": "2026-09-20T04:59:27.335764+00:00",
+    "last_seen": "2026-09-20T04:59:27.336502+00:00",
+    "last_sent": "2026-09-20T04:59:27.336502+00:00",
+    "content_hash": "e4d2b3b98b9872b33059a22521da56bbe96afd7f6f4f0f7d529ee8d23a609639",
     "update": false
   }
 ]
