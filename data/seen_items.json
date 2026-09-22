@@ -2495,5 +2495,93 @@
     "last_sent": "2026-09-21T05:08:46.424783+00:00",
     "content_hash": "79c5c33ec3e05b5c61f1339bed9a5dc4fe9ef75964b1b734bd08a4b21e14cf5b",
     "update": false
+  },
+  {
+    "id": "event-3f7f4921ad1ec459",
+    "canonical_url": "",
+    "cluster_id": "event-3f7f4921ad1ec459",
+    "title": "Building standards for the next phase of AI",
+    "first_seen": "2026-09-22T04:59:39.853455+00:00",
+    "last_seen": "2026-09-22T04:59:39.854972+00:00",
+    "last_sent": "2026-09-22T04:59:39.854972+00:00",
+    "content_hash": "8526008de5cf2f0b510421bd738963c75c6f6d3f75fc6201c23a53b11a0df572",
+    "update": false
+  },
+  {
+    "id": "event-504273c843699863",
+    "canonical_url": "",
+    "cluster_id": "event-504273c843699863",
+    "title": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents",
+    "first_seen": "2026-09-22T04:59:39.853852+00:00",
+    "last_seen": "2026-09-22T04:59:39.855167+00:00",
+    "last_sent": "2026-09-22T04:59:39.855167+00:00",
+    "content_hash": "be57a05ebd28700739d454259b19e2e0e22b1c950b2d5a1f2e25ef976335e827",
+    "update": false
+  },
+  {
+    "id": "event-df6d3c4342db5d1e",
+    "canonical_url": "",
+    "cluster_id": "event-df6d3c4342db5d1e",
+    "title": "In-Context Robot Learning with VLM Agents",
+    "first_seen": "2026-09-22T04:59:39.854079+00:00",
+    "last_seen": "2026-09-22T04:59:39.855233+00:00",
+    "last_sent": "2026-09-22T04:59:39.855233+00:00",
+    "content_hash": "8dba39260da5eb6f6c0b32d38f17094a0b622768975b1ba63c2746d99c152a1d",
+    "update": false
+  },
+  {
+    "id": "event-4c3f466fc2a3e8fb",
+    "canonical_url": "",
+    "cluster_id": "event-4c3f466fc2a3e8fb",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "first_seen": "2026-09-22T04:59:39.854115+00:00",
+    "last_seen": "2026-09-22T04:59:39.855269+00:00",
+    "last_sent": "2026-09-22T04:59:39.855269+00:00",
+    "content_hash": "8bc79e8cc568bcf421bd6e00b954b390487d9910141c5ee3e00e9b2010dc5d19",
+    "update": false
+  },
+  {
+    "id": "hn-49791647",
+    "canonical_url": "https://timdettmers.com/2026/09/21/dlab-open-source-week",
+    "cluster_id": "event-4235704ff6682f86",
+    "title": "Frontier AI on Your Own Hardware",
+    "first_seen": "2026-09-22T04:59:39.854220+00:00",
+    "last_seen": "2026-09-22T04:59:39.854220+00:00",
+    "last_sent": "2026-09-22T04:59:39.854220+00:00",
+    "content_hash": "0ba6b57d425706be06b55ce746c0923ba2ccb2a4d85099f5f8a638a0f55152a2",
+    "update": false
+  },
+  {
+    "id": "event-6ec6d44414ed94d8",
+    "canonical_url": "",
+    "cluster_id": "event-6ec6d44414ed94d8",
+    "title": "Yes, I have voice. md files. Yes, I have agents doing final passes as a reader. Yes, I have other agents specifically lo",
+    "first_seen": "2026-09-22T04:59:39.854570+00:00",
+    "last_seen": "2026-09-22T04:59:39.855202+00:00",
+    "last_sent": "2026-09-22T04:59:39.855202+00:00",
+    "content_hash": "cc130e393970fefd4bdc5ff21f8fe936abe7a563c9c8ce7562f97d1ba97d3786",
+    "update": false
+  },
+  {
+    "id": "a1581f4958c49200d668",
+    "canonical_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "cluster_id": "event-75650c0286d9c0d3",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "first_seen": "2026-09-22T04:59:39.854605+00:00",
+    "last_seen": "2026-09-22T04:59:39.854605+00:00",
+    "last_sent": "2026-09-22T04:59:39.854605+00:00",
+    "content_hash": "cb209f7ba1b3c219a38b022c4f8b2df4865ef6cda9a0483da09257d5a6120f9c",
+    "update": false
+  },
+  {
+    "id": "3aa58d2217c8de0ba94b",
+    "canonical_url": "https://openai.com/index/v7",
+    "cluster_id": "event-37acc37e28a53798",
+    "title": "How V7 gives AI agents institutional memory",
+    "first_seen": "2026-09-22T04:59:39.854640+00:00",
+    "last_seen": "2026-09-22T04:59:39.854640+00:00",
+    "last_sent": "2026-09-22T04:59:39.854640+00:00",
+    "content_hash": "02c4fbc6615eed0a08ca7f5833dc0e01288aa998d04b1bb7f80dc1bfb71475df",
+    "update": false
   }
 ]
