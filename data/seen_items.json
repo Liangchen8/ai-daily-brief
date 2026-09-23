@@ -1,159 +1,5 @@
 [
   {
-    "id": "event-d4ddf1d60be14655",
-    "canonical_url": "",
-    "cluster_id": "event-d4ddf1d60be14655",
-    "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design",
-    "first_seen": "2026-08-23T17:47:58.711179+00:00",
-    "last_seen": "2026-08-23T17:47:58.711807+00:00",
-    "last_sent": "2026-08-23T17:47:58.711807+00:00",
-    "content_hash": "eefdb43e326545d1f7413a6d204a3f37f5d7810e50a539d3e0cc1867cb475e06",
-    "update": false
-  },
-  {
-    "id": "event-834a54d3c7435665",
-    "canonical_url": "",
-    "cluster_id": "event-834a54d3c7435665",
-    "title": "New MCP Roadmap",
-    "first_seen": "2026-08-23T17:47:58.711352+00:00",
-    "last_seen": "2026-08-23T17:47:58.712018+00:00",
-    "last_sent": "2026-08-23T17:47:58.712018+00:00",
-    "content_hash": "0abd5852aa55c427f600ca0bd818890136e4665dffbc3dfa93a8fb1b8e3e6e2c",
-    "update": false
-  },
-  {
-    "id": "event-aa97c67e3a2cb53d",
-    "canonical_url": "",
-    "cluster_id": "event-aa97c67e3a2cb53d",
-    "title": "NanoGPT Speedrun Frontier",
-    "first_seen": "2026-08-23T17:47:58.711378+00:00",
-    "last_seen": "2026-08-23T17:47:58.712028+00:00",
-    "last_sent": "2026-08-23T17:47:58.712028+00:00",
-    "content_hash": "16c503096636783b192c06aab5aa2124d380b8583a42109a4a9d4180f8619ef1",
-    "update": false
-  },
-  {
-    "id": "arxiv-4dd4a671039b64af",
-    "canonical_url": "http://arxiv.org/abs/2608.20290v1",
-    "cluster_id": "event-8d668e461467e451",
-    "title": "Phantom Gains: Auditing Self-Improvement Against a Measured Null",
-    "first_seen": "2026-08-23T17:47:58.711505+00:00",
-    "last_seen": "2026-08-23T17:54:15.916108+00:00",
-    "last_sent": "2026-08-23T17:54:15.916108+00:00",
-    "content_hash": "c2be28bef35aa33892cda0be51004a1abe56211478d5245b80957fc3edc87aa9",
-    "update": true
-  },
-  {
-    "id": "arxiv-3ffe7d1215c42ab2",
-    "canonical_url": "http://arxiv.org/abs/2608.20220v1",
-    "cluster_id": "event-631d7cc0f5b080f6",
-    "title": "InsufficiencyBench: Evaluating LLM legal advice on underspecified user queries",
-    "first_seen": "2026-08-23T17:47:58.711573+00:00",
-    "last_seen": "2026-08-23T17:54:15.916176+00:00",
-    "last_sent": "2026-08-23T17:54:15.916176+00:00",
-    "content_hash": "f70cecba9ee080f1305c8d7d295ead3de10f2adfd0a241488509b21c2ad364d2",
-    "update": true
-  },
-  {
-    "id": "event-0e2facc28272a90c",
-    "canonical_url": "",
-    "cluster_id": "event-0e2facc28272a90c",
-    "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design",
-    "first_seen": "2026-08-23T17:54:15.915788+00:00",
-    "last_seen": "2026-08-23T17:54:15.916342+00:00",
-    "last_sent": "2026-08-23T17:54:15.916342+00:00",
-    "content_hash": "5cd3dbbe2e4e4d29c767369fd9389dfa3d5a7fc91bf09799919b03b8b3286f5f",
-    "update": false
-  },
-  {
-    "id": "event-35ccf8d10724673d",
-    "canonical_url": "",
-    "cluster_id": "event-35ccf8d10724673d",
-    "title": "VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation",
-    "first_seen": "2026-08-24T01:50:56.458933+00:00",
-    "last_seen": "2026-08-24T01:50:56.459094+00:00",
-    "last_sent": "2026-08-24T01:50:56.459094+00:00",
-    "content_hash": "80d5f2ea29b9b23c67735959c14267a5a854f6eec3668cddd40c799dfce89be8",
-    "update": false
-  },
-  {
-    "id": "event-7ac1121c30d9cff3",
-    "canonical_url": "",
-    "cluster_id": "event-7ac1121c30d9cff3",
-    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-    "first_seen": "2026-08-24T01:50:56.459013+00:00",
-    "last_seen": "2026-08-24T01:50:56.459110+00:00",
-    "last_sent": "2026-08-24T01:50:56.459110+00:00",
-    "content_hash": "935a38d864ce98e471db3983c0d3bd690c9eaa8fb9b7238dffa147b14a6e369f",
-    "update": false
-  },
-  {
-    "id": "event-8964fd3843984180",
-    "canonical_url": "",
-    "cluster_id": "event-8964fd3843984180",
-    "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
-    "first_seen": "2026-08-24T01:50:56.459019+00:00",
-    "last_seen": "2026-08-24T01:50:56.459117+00:00",
-    "last_sent": "2026-08-24T01:50:56.459117+00:00",
-    "content_hash": "a1ca8eff9e03f3d153468deb867f5f07e36c91e6f62e8d75900ab9fd96c20ba3",
-    "update": false
-  },
-  {
-    "id": "event-172a7e0d32d9c4fb",
-    "canonical_url": "",
-    "cluster_id": "event-172a7e0d32d9c4fb",
-    "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
-    "first_seen": "2026-08-24T01:50:56.459027+00:00",
-    "last_seen": "2026-08-24T01:50:56.459123+00:00",
-    "last_sent": "2026-08-24T01:50:56.459123+00:00",
-    "content_hash": "d7d197d748a5d89ee396cc4fcf64da74d137d6b5139091229f94319e28cde5e6",
-    "update": false
-  },
-  {
-    "id": "hf-ee82fc065ac890d9",
-    "canonical_url": "https://huggingface.co/papers/2608.17271",
-    "cluster_id": "event-707f44a77871589c",
-    "title": "ASI-Bench: At the Dawn of Artificial Superintelligence",
-    "first_seen": "2026-08-24T01:50:56.459033+00:00",
-    "last_seen": "2026-08-24T01:50:56.459033+00:00",
-    "last_sent": "2026-08-24T01:50:56.459033+00:00",
-    "content_hash": "c965d4bae73c7847b29ea32f81833119ae2da1c9e5c6ced27021ef12297e51f3",
-    "update": false
-  },
-  {
-    "id": "hf-6005a7fb0cba59fe",
-    "canonical_url": "https://huggingface.co/papers/2608.17310",
-    "cluster_id": "event-75c7c54b895d03e3",
-    "title": "Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements",
-    "first_seen": "2026-08-24T01:50:56.459039+00:00",
-    "last_seen": "2026-08-24T01:50:56.459039+00:00",
-    "last_sent": "2026-08-24T01:50:56.459039+00:00",
-    "content_hash": "6394fe0d3b847486dad64f802d000762cae48d2f2f624b281a8ebe5ad177e7c6",
-    "update": false
-  },
-  {
-    "id": "event-34c10f8d732ea96e",
-    "canonical_url": "",
-    "cluster_id": "event-34c10f8d732ea96e",
-    "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
-    "first_seen": "2026-08-24T01:50:56.459047+00:00",
-    "last_seen": "2026-08-24T01:50:56.459147+00:00",
-    "last_sent": "2026-08-24T01:50:56.459147+00:00",
-    "content_hash": "fb2b846e90ccda144e0fb2fd62e09eb38f5272d0cf2584aeb84ddb7368524a34",
-    "update": false
-  },
-  {
-    "id": "ce1740f74201a56a22f7",
-    "canonical_url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
-    "cluster_id": "event-d7ad9383331e2821",
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "first_seen": "2026-08-24T01:50:56.459073+00:00",
-    "last_seen": "2026-08-24T01:50:56.459073+00:00",
-    "last_sent": "2026-08-24T01:50:56.459073+00:00",
-    "content_hash": "2f324aba2ff98e560ac38fb2466e133aea6e9b79dedbcf8eeffe2adc43f984b5",
-    "update": false
-  },
-  {
     "id": "event-28bb74b5160b0061",
     "canonical_url": "",
     "cluster_id": "event-28bb74b5160b0061",
@@ -2582,6 +2428,61 @@
     "last_seen": "2026-09-22T04:59:39.854640+00:00",
     "last_sent": "2026-09-22T04:59:39.854640+00:00",
     "content_hash": "02c4fbc6615eed0a08ca7f5833dc0e01288aa998d04b1bb7f80dc1bfb71475df",
+    "update": false
+  },
+  {
+    "id": "event-38fac5847de6e7e8",
+    "canonical_url": "",
+    "cluster_id": "event-38fac5847de6e7e8",
+    "title": "Better prompt caching for GPT-6",
+    "first_seen": "2026-09-23T04:49:22.440464+00:00",
+    "last_seen": "2026-09-23T04:49:22.441648+00:00",
+    "last_sent": "2026-09-23T04:49:22.441648+00:00",
+    "content_hash": "7373862a822a2827c878040adf5ad316dc08454d4fc29230bdab55aad436c04d",
+    "update": false
+  },
+  {
+    "id": "event-db764e89dc213a9a",
+    "canonical_url": "",
+    "cluster_id": "event-db764e89dc213a9a",
+    "title": "Priorities and principles for effective third party assessments",
+    "first_seen": "2026-09-23T04:49:22.440623+00:00",
+    "last_seen": "2026-09-23T04:49:22.441847+00:00",
+    "last_sent": "2026-09-23T04:49:22.441847+00:00",
+    "content_hash": "7eeb57d28aa8b5d17801a0e4c8e664dd14ca101e596f9767b1c113b086d2a9fb",
+    "update": false
+  },
+  {
+    "id": "event-2daac532555ce3ce",
+    "canonical_url": "",
+    "cluster_id": "event-2daac532555ce3ce",
+    "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+    "first_seen": "2026-09-23T04:49:22.440695+00:00",
+    "last_seen": "2026-09-23T04:49:22.441907+00:00",
+    "last_sent": "2026-09-23T04:49:22.441907+00:00",
+    "content_hash": "5b28494033f30bc703e325c475c566aaff497c0f1917a0590bbc63af2637766e",
+    "update": false
+  },
+  {
+    "id": "event-99d0dd3f79ac39dd",
+    "canonical_url": "",
+    "cluster_id": "event-99d0dd3f79ac39dd",
+    "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
+    "first_seen": "2026-09-23T04:49:22.440999+00:00",
+    "last_seen": "2026-09-23T04:49:22.441934+00:00",
+    "last_sent": "2026-09-23T04:49:22.441934+00:00",
+    "content_hash": "ec0b92c41bdc6fce1138b93a028c34dd9b7cac955b56fe566a9cdb5966859732",
+    "update": false
+  },
+  {
+    "id": "event-fd423654aed05405",
+    "canonical_url": "",
+    "cluster_id": "event-fd423654aed05405",
+    "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+    "first_seen": "2026-09-23T04:49:22.441523+00:00",
+    "last_seen": "2026-09-23T04:49:22.441955+00:00",
+    "last_sent": "2026-09-23T04:49:22.441955+00:00",
+    "content_hash": "19cd8e92bf0ea6df53d02b63318f52e268b5e19605672a8756986d2596d31ce7",
     "update": false
   }
 ]
