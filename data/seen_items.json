@@ -2484,5 +2484,104 @@
     "last_sent": "2026-09-23T04:49:22.441955+00:00",
     "content_hash": "19cd8e92bf0ea6df53d02b63318f52e268b5e19605672a8756986d2596d31ce7",
     "update": false
+  },
+  {
+    "id": "event-fd3f820375075fce",
+    "canonical_url": "",
+    "cluster_id": "event-fd3f820375075fce",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "first_seen": "2026-09-24T04:54:52.550722+00:00",
+    "last_seen": "2026-09-24T04:54:52.552662+00:00",
+    "last_sent": "2026-09-24T04:54:52.552662+00:00",
+    "content_hash": "dc288eac1adbf35405784b3055da582748136c69f401a4053090ebf47cd35fb6",
+    "update": false
+  },
+  {
+    "id": "event-9180b2370d89901b",
+    "canonical_url": "",
+    "cluster_id": "event-9180b2370d89901b",
+    "title": "OpenAI hacked Australian Medicare portal",
+    "first_seen": "2026-09-24T04:54:52.551118+00:00",
+    "last_seen": "2026-09-24T04:54:52.552861+00:00",
+    "last_sent": "2026-09-24T04:54:52.552861+00:00",
+    "content_hash": "8d380315a4425742dfd234cf1669dea0aef7fa521d48a10ca612361d8b317f9a",
+    "update": false
+  },
+  {
+    "id": "event-7f5edebff0755b3e",
+    "canonical_url": "",
+    "cluster_id": "event-7f5edebff0755b3e",
+    "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+    "first_seen": "2026-09-24T04:54:52.551195+00:00",
+    "last_seen": "2026-09-24T04:54:52.552892+00:00",
+    "last_sent": "2026-09-24T04:54:52.552892+00:00",
+    "content_hash": "d57978fd668382697d73c8bdbffee70ddd2929bf3ccc4ce80bde16136bd8bfd6",
+    "update": false
+  },
+  {
+    "id": "event-992e47a5ab5d989d",
+    "canonical_url": "",
+    "cluster_id": "event-992e47a5ab5d989d",
+    "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+    "first_seen": "2026-09-24T04:54:52.551235+00:00",
+    "last_seen": "2026-09-24T04:54:52.552921+00:00",
+    "last_sent": "2026-09-24T04:54:52.552921+00:00",
+    "content_hash": "ae3ed96ffa9a89a8f4f7e6f61f92b55a50a09f7d4a0b8f9fc060668137bf4b82",
+    "update": false
+  },
+  {
+    "id": "event-049e65f5498f3d04",
+    "canonical_url": "",
+    "cluster_id": "event-049e65f5498f3d04",
+    "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+    "first_seen": "2026-09-24T04:54:52.551275+00:00",
+    "last_seen": "2026-09-24T04:54:52.552948+00:00",
+    "last_sent": "2026-09-24T04:54:52.552948+00:00",
+    "content_hash": "426721fdf5d7db6c753eadef540d6c5ea57c31a71492912b4810fddeab885ef7",
+    "update": false
+  },
+  {
+    "id": "hf-e4e7259182e1529f",
+    "canonical_url": "https://huggingface.co/papers/2609.23796",
+    "cluster_id": "event-a95b929b4d466470",
+    "title": "Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene",
+    "first_seen": "2026-09-24T04:54:52.551441+00:00",
+    "last_seen": "2026-09-24T04:54:52.552056+00:00",
+    "last_sent": "2026-09-24T04:54:52.552056+00:00",
+    "content_hash": "6edd5449ff9bafed56de4d2aed336d8c49e4231d65d6978811140fcba8f0e6d0",
+    "update": false
+  },
+  {
+    "id": "hn-49806430",
+    "canonical_url": "https://bloomberg.com/graphics/2026-iran-school-attack",
+    "cluster_id": "event-86057afc84c9a02b",
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "first_seen": "2026-09-24T04:54:52.551635+00:00",
+    "last_seen": "2026-09-24T04:54:52.551635+00:00",
+    "last_sent": "2026-09-24T04:54:52.551635+00:00",
+    "content_hash": "68f7f802ecacbdee69e86a6b91b168d8cb8a5e9d2f08fd643a1d0ca3283a899f",
+    "update": false
+  },
+  {
+    "id": "hf-a54baaf9f52fa036",
+    "canonical_url": "https://huggingface.co/papers/2609.25199",
+    "cluster_id": "event-f93454f10b3cf5fe",
+    "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
+    "first_seen": "2026-09-24T04:54:52.551734+00:00",
+    "last_seen": "2026-09-24T04:54:52.551734+00:00",
+    "last_sent": "2026-09-24T04:54:52.551734+00:00",
+    "content_hash": "b0d3aa3be50492432ee88835fa2a062124a00531c8b099c586bd4f82781ecb0c",
+    "update": false
+  },
+  {
+    "id": "hn-49823348",
+    "canonical_url": "https://artificialanalysis.ai/models/mercury-2-5",
+    "cluster_id": "event-a7712dc2df998220",
+    "title": "Mercury 2.5 LLM hits 770 tokens per second",
+    "first_seen": "2026-09-24T04:54:52.551991+00:00",
+    "last_seen": "2026-09-24T04:54:52.551991+00:00",
+    "last_sent": "2026-09-24T04:54:52.551991+00:00",
+    "content_hash": "ffe6dfad86e81c447e589f62717c9cef3b672fe495e944f7b7f00e0a6774289a",
+    "update": false
   }
 ]
