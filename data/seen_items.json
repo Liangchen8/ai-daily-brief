@@ -2409,15 +2409,15 @@
     "update": false
   },
   {
-    "id": "hf-e4e7259182e1529f",
-    "canonical_url": "https://huggingface.co/papers/2609.23796",
+    "id": "event-a95b929b4d466470",
+    "canonical_url": "",
     "cluster_id": "event-a95b929b4d466470",
     "title": "Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene",
     "first_seen": "2026-09-24T04:54:52.551441+00:00",
-    "last_seen": "2026-09-24T04:54:52.552056+00:00",
-    "last_sent": "2026-09-24T04:54:52.552056+00:00",
-    "content_hash": "6edd5449ff9bafed56de4d2aed336d8c49e4231d65d6978811140fcba8f0e6d0",
-    "update": false
+    "last_seen": "2026-09-26T05:08:02.022664+00:00",
+    "last_sent": "2026-09-26T05:08:02.022664+00:00",
+    "content_hash": "b61cfcbc49a21fbabf6d5c2180944cb7f9e38b49bf4dcf66ae1c120b2f904594",
+    "update": true
   },
   {
     "id": "hn-49806430",
@@ -2516,6 +2516,105 @@
     "last_seen": "2026-09-25T05:01:52.756322+00:00",
     "last_sent": "2026-09-25T05:01:52.756322+00:00",
     "content_hash": "803a6b20a3fa7c6bc19a4ead1287056f0cd808c43508211d30705086ead80bef",
+    "update": false
+  },
+  {
+    "id": "event-af93f5bcfd6aa489",
+    "canonical_url": "",
+    "cluster_id": "event-af93f5bcfd6aa489",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "first_seen": "2026-09-26T05:08:02.020402+00:00",
+    "last_seen": "2026-09-26T05:08:02.022459+00:00",
+    "last_sent": "2026-09-26T05:08:02.022459+00:00",
+    "content_hash": "fc284385f0d78df4d7d4eb6d269abd6bcee37f5245e5afa2225cd7c025127b39",
+    "update": false
+  },
+  {
+    "id": "event-23d9462081fc2aef",
+    "canonical_url": "",
+    "cluster_id": "event-23d9462081fc2aef",
+    "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+    "first_seen": "2026-09-26T05:08:02.021053+00:00",
+    "last_seen": "2026-09-26T05:08:02.022701+00:00",
+    "last_sent": "2026-09-26T05:08:02.022701+00:00",
+    "content_hash": "d82ba151ab57aa01ccf415b446d682917e50a093252de010ce48e5ed0b10b7e5",
+    "update": false
+  },
+  {
+    "id": "event-78dd3e9af541b0a3",
+    "canonical_url": "",
+    "cluster_id": "event-78dd3e9af541b0a3",
+    "title": "Muse will apparently let you download its entire filesystem",
+    "first_seen": "2026-09-26T05:08:02.022026+00:00",
+    "last_seen": "2026-09-26T05:08:02.022730+00:00",
+    "last_sent": "2026-09-26T05:08:02.022730+00:00",
+    "content_hash": "f8f7394c1917d8b4e730d4b7178ff172acfe48d70a511e8455bedf1ee094a8ae",
+    "update": false
+  },
+  {
+    "id": "event-9316b335bdaabd79",
+    "canonical_url": "",
+    "cluster_id": "event-9316b335bdaabd79",
+    "title": "Sony and UMG are suing Suno again",
+    "first_seen": "2026-09-26T05:08:02.022093+00:00",
+    "last_seen": "2026-09-26T05:08:02.022758+00:00",
+    "last_sent": "2026-09-26T05:08:02.022758+00:00",
+    "content_hash": "f8f422e0123cfe7687533317ecd050afbc8689270a7e2dc4590b789c66926477",
+    "update": false
+  },
+  {
+    "id": "b0a8b97049da496c5052",
+    "canonical_url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses",
+    "cluster_id": "event-1506e4ba923f7dc4",
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "first_seen": "2026-09-26T05:08:02.022126+00:00",
+    "last_seen": "2026-09-26T05:08:02.022126+00:00",
+    "last_sent": "2026-09-26T05:08:02.022126+00:00",
+    "content_hash": "8ab6541b0725b55fe1fbc692eee4916ed4f889a69526ea8f32ff13e8e99d601f",
+    "update": false
+  },
+  {
+    "id": "arxiv-0c32180cf418c9b4",
+    "canonical_url": "http://arxiv.org/abs/2609.30266v1",
+    "cluster_id": "event-aa6c3c5cae25fc44",
+    "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+    "first_seen": "2026-09-26T05:08:02.022159+00:00",
+    "last_seen": "2026-09-26T05:08:02.022159+00:00",
+    "last_sent": "2026-09-26T05:08:02.022159+00:00",
+    "content_hash": "960d2c859f9e912c2f2b7a2055db730c2dbcbe14e2211745a870920dc54b1b9f",
+    "update": false
+  },
+  {
+    "id": "arxiv-a46df2b63a70f367",
+    "canonical_url": "http://arxiv.org/abs/2609.30250v1",
+    "cluster_id": "event-71dd9b3d51383cfc",
+    "title": "Agentic Detection of Online Conspiracies",
+    "first_seen": "2026-09-26T05:08:02.022262+00:00",
+    "last_seen": "2026-09-26T05:08:02.022262+00:00",
+    "last_sent": "2026-09-26T05:08:02.022262+00:00",
+    "content_hash": "c460d6d286e6ade531c9cef4be0b5ea4378da752298b8aab5263c3487e150f85",
+    "update": false
+  },
+  {
+    "id": "arxiv-62f9d1c24c3a5722",
+    "canonical_url": "http://arxiv.org/abs/2609.30249v1",
+    "cluster_id": "event-50f1127c458142cb",
+    "title": "RAPID: Robot Agentic Programming from Demonstrations",
+    "first_seen": "2026-09-26T05:08:02.022296+00:00",
+    "last_seen": "2026-09-26T05:08:02.022296+00:00",
+    "last_sent": "2026-09-26T05:08:02.022296+00:00",
+    "content_hash": "7aaf232c5bc73622b8b9632385ab59b3476b430179840c7b50edfe11129563e9",
+    "update": false
+  },
+  {
+    "id": "arxiv-97d5242aefe12b66",
+    "canonical_url": "http://arxiv.org/abs/2609.30243v1",
+    "cluster_id": "event-934d3745e5c9d710",
+    "title": "JevOut: Natural Context Can Flip Decision Models",
+    "first_seen": "2026-09-26T05:08:02.022364+00:00",
+    "last_seen": "2026-09-26T05:08:02.022364+00:00",
+    "last_sent": "2026-09-26T05:08:02.022364+00:00",
+    "content_hash": "4857cd1f9d934f3e5decf5c6297ba16acff472ee3dfb9e858dfc696b71e352b0",
     "update": false
   }
 ]
