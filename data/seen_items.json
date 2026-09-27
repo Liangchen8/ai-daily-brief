@@ -1,137 +1,5 @@
 [
   {
-    "id": "event-a6ab9acba9998675",
-    "canonical_url": "",
-    "cluster_id": "event-a6ab9acba9998675",
-    "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
-    "first_seen": "2026-08-27T09:58:11.318100+00:00",
-    "last_seen": "2026-08-27T09:58:11.318721+00:00",
-    "last_sent": "2026-08-27T09:58:11.318721+00:00",
-    "content_hash": "9f37dcefb8f702697174d1e7f3bbd1b8d4a8f5df793b0fe51ccee3a8f6b1a52c",
-    "update": false
-  },
-  {
-    "id": "event-e2f60235dc69294b",
-    "canonical_url": "",
-    "cluster_id": "event-e2f60235dc69294b",
-    "title": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
-    "first_seen": "2026-08-27T09:58:11.318175+00:00",
-    "last_seen": "2026-08-27T09:58:11.318990+00:00",
-    "last_sent": "2026-08-27T09:58:11.318990+00:00",
-    "content_hash": "3622e56d8f2d4aa805f163d68adbab45e22bb18a5af072b935941a11f966cf9a",
-    "update": false
-  },
-  {
-    "id": "event-b55d5e2456ce453c",
-    "canonical_url": "",
-    "cluster_id": "event-b55d5e2456ce453c",
-    "title": "Prime Agent: A Self-Improving RLM Harness",
-    "first_seen": "2026-08-27T09:58:11.318186+00:00",
-    "last_seen": "2026-08-27T09:58:11.319020+00:00",
-    "last_sent": "2026-08-27T09:58:11.319020+00:00",
-    "content_hash": "1f657783ef5df99a420317de0351feed75e39aca49d2c0fbc82f6090a0b3358c",
-    "update": false
-  },
-  {
-    "id": "event-d9d9b1977e2cf3e3",
-    "canonical_url": "",
-    "cluster_id": "event-d9d9b1977e2cf3e3",
-    "title": "WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report",
-    "first_seen": "2026-08-27T09:58:11.318198+00:00",
-    "last_seen": "2026-08-27T09:58:11.319065+00:00",
-    "last_sent": "2026-08-27T09:58:11.319065+00:00",
-    "content_hash": "7d9c75589d3aba88193288be9830d017f047218a598203749365165b6dd97f65",
-    "update": false
-  },
-  {
-    "id": "event-ba33eadbf6f0a528",
-    "canonical_url": "",
-    "cluster_id": "event-ba33eadbf6f0a528",
-    "title": "On-Policy Self-Distillation in Diffusion Models",
-    "first_seen": "2026-08-27T09:58:11.318210+00:00",
-    "last_seen": "2026-08-27T09:58:11.319076+00:00",
-    "last_sent": "2026-08-27T09:58:11.319076+00:00",
-    "content_hash": "389414c660ffaf73f92464a949b2e1c4536810aef4c8ba0f14814bea56669be7",
-    "update": false
-  },
-  {
-    "id": "hn-49446422",
-    "canonical_url": "https://bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-    "cluster_id": "event-7ac04a984d865756",
-    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-    "first_seen": "2026-08-27T09:58:11.318269+00:00",
-    "last_seen": "2026-08-27T09:58:11.318269+00:00",
-    "last_sent": "2026-08-27T09:58:11.318269+00:00",
-    "content_hash": "62d4762ffa72f37f834fe2a5c41ce9281fe5a452d8881594852a170ff420e952",
-    "update": false
-  },
-  {
-    "id": "hf-b03455da644a4893",
-    "canonical_url": "https://huggingface.co/papers/2608.23565",
-    "cluster_id": "event-24eb8fc06087161f",
-    "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
-    "first_seen": "2026-08-27T09:58:11.318280+00:00",
-    "last_seen": "2026-08-27T09:58:11.318315+00:00",
-    "last_sent": "2026-08-27T09:58:11.318315+00:00",
-    "content_hash": "b7b294d814af25255b170504b7718ed4aca2eac343baffb1b608f602982c655b",
-    "update": false
-  },
-  {
-    "id": "hn-49455713",
-    "canonical_url": "https://openai.com/webmcp-challenge",
-    "cluster_id": "event-5677145c86d35140",
-    "title": "WebMCP Challenge – OpenAI",
-    "first_seen": "2026-08-27T09:58:11.318531+00:00",
-    "last_seen": "2026-08-27T09:58:11.318531+00:00",
-    "last_sent": "2026-08-27T09:58:11.318531+00:00",
-    "content_hash": "8b6db046df8faaef4fbe3648de84eee1ee941796da67345494974d52df580cac",
-    "update": false
-  },
-  {
-    "id": "d824946b21f283d03e44",
-    "canonical_url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues",
-    "cluster_id": "event-fe0e6c92adb78012",
-    "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-    "first_seen": "2026-08-27T09:58:11.318562+00:00",
-    "last_seen": "2026-08-27T09:58:11.318562+00:00",
-    "last_sent": "2026-08-27T09:58:11.318562+00:00",
-    "content_hash": "96a6828c563ca6ef65961307dd1ee7a2cbed9c491b66fcc52c8cc43ad4342c65",
-    "update": false
-  },
-  {
-    "id": "c362098902815ae44f61",
-    "canonical_url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "cluster_id": "event-0ebb51356df51dea",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "first_seen": "2026-08-27T09:58:11.318574+00:00",
-    "last_seen": "2026-08-27T09:58:11.318574+00:00",
-    "last_sent": "2026-08-27T09:58:11.318574+00:00",
-    "content_hash": "8b2bd68f699ac4b2cbe9b711ef181c9a1b7841693512f85427f94f1a496b4667",
-    "update": false
-  },
-  {
-    "id": "56a8ca62f540230ea177",
-    "canonical_url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-    "cluster_id": "event-efe8d5b2c0bce5cb",
-    "title": "The Hugging Face incident and the road ahead",
-    "first_seen": "2026-08-27T09:58:11.318585+00:00",
-    "last_seen": "2026-08-27T09:58:11.318585+00:00",
-    "last_sent": "2026-08-27T09:58:11.318585+00:00",
-    "content_hash": "15fb28ad4bb16084e3a82c41088007c12223917272b57a999397ac4311b65176",
-    "update": false
-  },
-  {
-    "id": "arxiv-bb5b979f5dd23b2f",
-    "canonical_url": "http://arxiv.org/abs/2608.26094v1",
-    "cluster_id": "event-1f1f7985185c08a9",
-    "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
-    "first_seen": "2026-08-27T09:58:11.318619+00:00",
-    "last_seen": "2026-08-27T09:58:11.318619+00:00",
-    "last_sent": "2026-08-27T09:58:11.318619+00:00",
-    "content_hash": "bfbc2f71b6defa8abe077b8acaf53b2ec93a28612ca0e719b0f21eba8990abd7",
-    "update": false
-  },
-  {
     "id": "event-58a35a97de1bb61d",
     "canonical_url": "",
     "cluster_id": "event-58a35a97de1bb61d",
@@ -2615,6 +2483,94 @@
     "last_seen": "2026-09-26T05:08:02.022364+00:00",
     "last_sent": "2026-09-26T05:08:02.022364+00:00",
     "content_hash": "4857cd1f9d934f3e5decf5c6297ba16acff472ee3dfb9e858dfc696b71e352b0",
+    "update": false
+  },
+  {
+    "id": "event-0a445745f3928d9d",
+    "canonical_url": "",
+    "cluster_id": "event-0a445745f3928d9d",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "first_seen": "2026-09-27T05:27:09.180878+00:00",
+    "last_seen": "2026-09-27T05:27:09.182692+00:00",
+    "last_sent": "2026-09-27T05:27:09.182692+00:00",
+    "content_hash": "c440fd9413674dc9b186ab9e2029c3f1a4f59026334e329009167079e7a05014",
+    "update": false
+  },
+  {
+    "id": "event-615d0bd1531e20a9",
+    "canonical_url": "",
+    "cluster_id": "event-615d0bd1531e20a9",
+    "title": "Training Object Permanence in World Models",
+    "first_seen": "2026-09-27T05:27:09.181312+00:00",
+    "last_seen": "2026-09-27T05:27:09.182986+00:00",
+    "last_sent": "2026-09-27T05:27:09.182986+00:00",
+    "content_hash": "6182bdb97b599e46c8d8904cc04712c637ae1d8eacb0baeb29f78902519d2bda",
+    "update": false
+  },
+  {
+    "id": "event-225f1f8d783812f6",
+    "canonical_url": "",
+    "cluster_id": "event-225f1f8d783812f6",
+    "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+    "first_seen": "2026-09-27T05:27:09.181582+00:00",
+    "last_seen": "2026-09-27T05:27:09.183020+00:00",
+    "last_sent": "2026-09-27T05:27:09.183020+00:00",
+    "content_hash": "8999624450df7a228d2a8ae7aad8f0a6882096df49f5639c569a607d1e1ade8c",
+    "update": false
+  },
+  {
+    "id": "event-a5319a15ab5bcac6",
+    "canonical_url": "",
+    "cluster_id": "event-a5319a15ab5bcac6",
+    "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
+    "first_seen": "2026-09-27T05:27:09.181621+00:00",
+    "last_seen": "2026-09-27T05:27:09.182791+00:00",
+    "last_sent": "2026-09-27T05:27:09.182791+00:00",
+    "content_hash": "0fa32f250f7aab1ef15f62b453334e2e98914cdf5fe85a19973952e17f82d593",
+    "update": false
+  },
+  {
+    "id": "event-a76d2813982c50c2",
+    "canonical_url": "",
+    "cluster_id": "event-a76d2813982c50c2",
+    "title": "Top AI companies probing security incidents",
+    "first_seen": "2026-09-27T05:27:09.182131+00:00",
+    "last_seen": "2026-09-27T05:27:09.183051+00:00",
+    "last_sent": "2026-09-27T05:27:09.183051+00:00",
+    "content_hash": "70af25d181fa2b489abd333b36496734022abf03d367dc6a47b426fd4efbbcf2",
+    "update": false
+  },
+  {
+    "id": "1127522b7ffffc1a7667",
+    "canonical_url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test",
+    "cluster_id": "event-b8b7c337ce30a21e",
+    "title": "Astra and Opus just passed Turing’s other test",
+    "first_seen": "2026-09-27T05:27:09.182169+00:00",
+    "last_seen": "2026-09-27T05:27:09.182169+00:00",
+    "last_sent": "2026-09-27T05:27:09.182169+00:00",
+    "content_hash": "8fd8fd1675626deb620fbf4d6ba13392023988a55118b9b01cb871b711cbb2c4",
+    "update": false
+  },
+  {
+    "id": "arxiv-335fc9e057fb36e2",
+    "canonical_url": "http://arxiv.org/abs/2609.30226v1",
+    "cluster_id": "event-5f65cbd7820490e4",
+    "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+    "first_seen": "2026-09-27T05:27:09.182403+00:00",
+    "last_seen": "2026-09-27T05:27:09.182403+00:00",
+    "last_sent": "2026-09-27T05:27:09.182403+00:00",
+    "content_hash": "3204c8600fd9870fccac22ea886b91b8f75deb8075b240e3e3d6067d896e072c",
+    "update": false
+  },
+  {
+    "id": "arxiv-de63caeb990d2e06",
+    "canonical_url": "http://arxiv.org/abs/2609.30217v1",
+    "cluster_id": "event-16cded58d6184450",
+    "title": "Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure",
+    "first_seen": "2026-09-27T05:27:09.182519+00:00",
+    "last_seen": "2026-09-27T05:27:09.182519+00:00",
+    "last_sent": "2026-09-27T05:27:09.182519+00:00",
+    "content_hash": "f783de46d6815a0eaeaf41aef6aaeb9a80577c67128a65a2541ad3be7387a3c8",
     "update": false
   }
 ]
