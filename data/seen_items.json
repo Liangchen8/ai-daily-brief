@@ -1,148 +1,5 @@
 [
   {
-    "id": "event-17e55d24bc87b29e",
-    "canonical_url": "",
-    "cluster_id": "event-17e55d24bc87b29e",
-    "title": "Supporting Thailand’s next generation of AI startups",
-    "first_seen": "2026-08-29T07:06:32.579694+00:00",
-    "last_seen": "2026-08-29T07:06:32.580477+00:00",
-    "last_sent": "2026-08-29T07:06:32.580477+00:00",
-    "content_hash": "11e49d89e53b97549350fc3e8bd189783dd5ce1b1b427854baf4196a9a58fb97",
-    "update": false
-  },
-  {
-    "id": "event-27a1ab9e342c7fdc",
-    "canonical_url": "",
-    "cluster_id": "event-27a1ab9e342c7fdc",
-    "title": "GameWAM: A World Action Model for Video Games",
-    "first_seen": "2026-08-29T07:06:32.579829+00:00",
-    "last_seen": "2026-08-29T07:06:32.580639+00:00",
-    "last_sent": "2026-08-29T07:06:32.580639+00:00",
-    "content_hash": "8cd7139bdd08766d67de6a445231f6119f85149485125da7f72f26fa5ec4e884",
-    "update": false
-  },
-  {
-    "id": "event-b259b9b60e711af3",
-    "canonical_url": "",
-    "cluster_id": "event-b259b9b60e711af3",
-    "title": "TTPO: Test-Time Policy Optimization",
-    "first_seen": "2026-08-29T07:06:32.579855+00:00",
-    "last_seen": "2026-08-29T07:06:32.580724+00:00",
-    "last_sent": "2026-08-29T07:06:32.580724+00:00",
-    "content_hash": "65f882b8755a302b7c6fcfd061c2c73f69b2da2f21ebb909d4263784b04652bc",
-    "update": false
-  },
-  {
-    "id": "event-a574994b8c3a7ccb",
-    "canonical_url": "",
-    "cluster_id": "event-a574994b8c3a7ccb",
-    "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
-    "first_seen": "2026-08-29T07:06:32.579918+00:00",
-    "last_seen": "2026-08-29T07:06:32.580740+00:00",
-    "last_sent": "2026-08-29T07:06:32.580740+00:00",
-    "content_hash": "f0c065752ae36c6a36db5239b9f38187bb325cdb2a0e6c4f4321387e261109a5",
-    "update": false
-  },
-  {
-    "id": "event-f24f3b3e25f28916",
-    "canonical_url": "",
-    "cluster_id": "event-f24f3b3e25f28916",
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "first_seen": "2026-08-29T07:06:32.579962+00:00",
-    "last_seen": "2026-08-29T07:06:32.580767+00:00",
-    "last_sent": "2026-08-29T07:06:32.580767+00:00",
-    "content_hash": "6053e8ad7218b7a2901f3b204504f32d7c8e894c12bf1b1bbec174d1708fb75f",
-    "update": false
-  },
-  {
-    "id": "bsky-bafyreiacowv7otiocog37yjp2hdpzbbk6csvuv33jcpvz5qvdqyx276fqq",
-    "canonical_url": "https://bsky.app/profile/emollick.bsky.social/post/3mu35oijits2v",
-    "cluster_id": "event-962810f3ca5ef16f",
-    "title": "🚨Our new research examines agentic shopping: can you consistently predict (or, using marketing, influence) what an agent",
-    "first_seen": "2026-08-29T07:06:32.580069+00:00",
-    "last_seen": "2026-08-29T07:06:32.580069+00:00",
-    "last_sent": "2026-08-29T07:06:32.580069+00:00",
-    "content_hash": "ae811cc5d12d93ea5fcefa87df653ab2829b8e5595f9fd17127589fe5f152351",
-    "update": false
-  },
-  {
-    "id": "hf-9d26c46bc8c0a49f",
-    "canonical_url": "https://huggingface.co/papers/2608.26238",
-    "cluster_id": "event-767ed6261f966133",
-    "title": "Procedura: Agentic 3D Modeling with Procedural Control",
-    "first_seen": "2026-08-29T07:06:32.580084+00:00",
-    "last_seen": "2026-08-29T07:06:32.580084+00:00",
-    "last_sent": "2026-08-29T07:06:32.580084+00:00",
-    "content_hash": "bfec0d54066609aaf9df47fe1c6b0c113cdd068737d227b0ff0cb60dcc9a1297",
-    "update": false
-  },
-  {
-    "id": "hn-49477311",
-    "canonical_url": "https://infernalcode.com/posts/your-ai-agent-has-root",
-    "cluster_id": "event-559ff07e4bdee7fd",
-    "title": "AI Agent Has Root",
-    "first_seen": "2026-08-29T07:06:32.580165+00:00",
-    "last_seen": "2026-08-29T07:06:32.580165+00:00",
-    "last_sent": "2026-08-29T07:06:32.580165+00:00",
-    "content_hash": "ae4605fe21b6e9e83b18aca4f052ae86dd280433eb2c4646293a12ea2d53a6a5",
-    "update": false
-  },
-  {
-    "id": "arxiv-a4d39c7d11ec3434",
-    "canonical_url": "http://arxiv.org/abs/2608.27395v1",
-    "cluster_id": "event-0a5ab45f9671660c",
-    "title": "LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics",
-    "first_seen": "2026-08-29T07:06:32.580383+00:00",
-    "last_seen": "2026-08-29T07:06:32.580383+00:00",
-    "last_sent": "2026-08-29T07:06:32.580383+00:00",
-    "content_hash": "e16bae1b6997cf943b496bdeb66d136224353a5e602cb1328037ba5c1e7caf82",
-    "update": false
-  },
-  {
-    "id": "arxiv-dcabefdc7f6f937b",
-    "canonical_url": "http://arxiv.org/abs/2608.27382v1",
-    "cluster_id": "event-cf075978230c1fb7",
-    "title": "Token-Level Advertising",
-    "first_seen": "2026-08-29T07:06:32.580425+00:00",
-    "last_seen": "2026-08-29T07:06:32.580425+00:00",
-    "last_sent": "2026-08-29T07:06:32.580425+00:00",
-    "content_hash": "2ca45c3e5ecd8c390670eac46f763509cba89d4ad03d173d39f7206c62bbdd7f",
-    "update": false
-  },
-  {
-    "id": "event-1a2a1aad65b628a1",
-    "canonical_url": "",
-    "cluster_id": "event-1a2a1aad65b628a1",
-    "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
-    "first_seen": "2026-08-30T05:29:20.080572+00:00",
-    "last_seen": "2026-08-30T05:29:20.081290+00:00",
-    "last_sent": "2026-08-30T05:29:20.081290+00:00",
-    "content_hash": "c0382ac508841ba21212d8ca7548f248d8484cac751d81b8d33cf0a6bd0507f6",
-    "update": false
-  },
-  {
-    "id": "event-f8139db5b9255892",
-    "canonical_url": "",
-    "cluster_id": "event-f8139db5b9255892",
-    "title": "JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution",
-    "first_seen": "2026-08-30T05:29:20.080754+00:00",
-    "last_seen": "2026-08-30T05:29:20.081452+00:00",
-    "last_sent": "2026-08-30T05:29:20.081452+00:00",
-    "content_hash": "2cdea3fdf7dd5edd0c55fa25efe1c009a9b40621c49224d2190030994f4fb712",
-    "update": false
-  },
-  {
-    "id": "event-e38dd4894d497cfd",
-    "canonical_url": "",
-    "cluster_id": "event-e38dd4894d497cfd",
-    "title": "vLLM v0.28.0",
-    "first_seen": "2026-08-30T05:29:20.080828+00:00",
-    "last_seen": "2026-08-30T05:29:20.081468+00:00",
-    "last_sent": "2026-08-30T05:29:20.081468+00:00",
-    "content_hash": "1fa952a89982789597eff2710f94b9c06344cdd8baab8d441d59f6acaa15b972",
-    "update": false
-  },
-  {
     "id": "event-bdb126f949464f4e",
     "canonical_url": "",
     "cluster_id": "event-bdb126f949464f4e",
@@ -152,28 +9,6 @@
     "last_sent": "2026-08-31T05:37:22.594680+00:00",
     "content_hash": "86b1ecd3c1aabfbe47f2e52c486d24490d852a4989c981b43c56794e0a625613",
     "update": true
-  },
-  {
-    "id": "event-d55a5477f3a6cf2c",
-    "canonical_url": "",
-    "cluster_id": "event-d55a5477f3a6cf2c",
-    "title": "Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090",
-    "first_seen": "2026-08-30T05:29:20.081154+00:00",
-    "last_seen": "2026-08-30T05:29:20.081492+00:00",
-    "last_sent": "2026-08-30T05:29:20.081492+00:00",
-    "content_hash": "f035967e53a97a4d3d5a397076e0355f6f5b54b4f1b828f948f1e8ee6e981fe7",
-    "update": false
-  },
-  {
-    "id": "arxiv-c618dcf5061e45fe",
-    "canonical_url": "http://arxiv.org/abs/2608.27365v1",
-    "cluster_id": "event-7a4f66020f1fd1d0",
-    "title": "KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations",
-    "first_seen": "2026-08-30T05:29:20.081169+00:00",
-    "last_seen": "2026-08-30T05:29:20.081169+00:00",
-    "last_sent": "2026-08-30T05:29:20.081169+00:00",
-    "content_hash": "6522be0a3e9644be5c673cb582ba83ff9f652ba80892f4cc7dc20cd2352d9d65",
-    "update": false
   },
   {
     "id": "event-3416065ad20a64e4",
@@ -2560,6 +2395,94 @@
     "last_seen": "2026-09-28T05:37:07.085620+00:00",
     "last_sent": "2026-09-28T05:37:07.085620+00:00",
     "content_hash": "7582f6cf3b5578d25a58b77b7ec710a2bbd0d594916f72752fd4d2c4a7dbd7ca",
+    "update": false
+  },
+  {
+    "id": "event-e6e548ac903e1988",
+    "canonical_url": "",
+    "cluster_id": "event-e6e548ac903e1988",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "first_seen": "2026-09-29T05:48:21.483486+00:00",
+    "last_seen": "2026-09-29T05:48:21.485700+00:00",
+    "last_sent": "2026-09-29T05:48:21.485700+00:00",
+    "content_hash": "b5c1fa5a6058c9fbc385907b6af79730496c14d3d4b8b3e9a5824917b5c0df2e",
+    "update": false
+  },
+  {
+    "id": "event-371e9ac206ee0da6",
+    "canonical_url": "",
+    "cluster_id": "event-371e9ac206ee0da6",
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "first_seen": "2026-09-29T05:48:21.483679+00:00",
+    "last_seen": "2026-09-29T05:48:21.485877+00:00",
+    "last_sent": "2026-09-29T05:48:21.485877+00:00",
+    "content_hash": "38087cba7149b80e3d874ec003cd5772d200934af9bd68ee9e17c3dec726f7d9",
+    "update": false
+  },
+  {
+    "id": "event-90f7961ecf04f5d9",
+    "canonical_url": "",
+    "cluster_id": "event-90f7961ecf04f5d9",
+    "title": "ARISE: Adapting to Evolving Capability Gaps in Agentic Reinforcement Learning",
+    "first_seen": "2026-09-29T05:48:21.483732+00:00",
+    "last_seen": "2026-09-29T05:48:21.485951+00:00",
+    "last_sent": "2026-09-29T05:48:21.485951+00:00",
+    "content_hash": "a2b875105fae78ebbeecf12b77cbc2d660a991654b7c812270c566aa2a0b980b",
+    "update": false
+  },
+  {
+    "id": "event-29df254888272322",
+    "canonical_url": "",
+    "cluster_id": "event-29df254888272322",
+    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+    "first_seen": "2026-09-29T05:48:21.483921+00:00",
+    "last_seen": "2026-09-29T05:48:21.485987+00:00",
+    "last_sent": "2026-09-29T05:48:21.485987+00:00",
+    "content_hash": "e4412639d578423d32e50160fabc14e7136ac116d23d75e3f5e9d673277ba717",
+    "update": false
+  },
+  {
+    "id": "event-2e6eca46ff737280",
+    "canonical_url": "",
+    "cluster_id": "event-2e6eca46ff737280",
+    "title": "EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics",
+    "first_seen": "2026-09-29T05:48:21.485055+00:00",
+    "last_seen": "2026-09-29T05:48:21.486019+00:00",
+    "last_sent": "2026-09-29T05:48:21.486019+00:00",
+    "content_hash": "d45d1dfcdad55b0d400c48e861931efe7bb0fe0ee44a7f4a23782eed8a44263f",
+    "update": false
+  },
+  {
+    "id": "bb343222226816d531a9",
+    "canonical_url": "https://theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+    "cluster_id": "event-4a060209903f5db0",
+    "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+    "first_seen": "2026-09-29T05:48:21.485093+00:00",
+    "last_seen": "2026-09-29T05:48:21.485237+00:00",
+    "last_sent": "2026-09-29T05:48:21.485237+00:00",
+    "content_hash": "6686137734470080f2a9a2e0f77382b7f07814befecf49c8302a9679082f7660",
+    "update": false
+  },
+  {
+    "id": "hn-49881505",
+    "canonical_url": "https://vespper.com/blog/launching-vespper-docx-mcp",
+    "cluster_id": "event-bfd0f833945fd22d",
+    "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+    "first_seen": "2026-09-29T05:48:21.485275+00:00",
+    "last_seen": "2026-09-29T05:48:21.485275+00:00",
+    "last_sent": "2026-09-29T05:48:21.485275+00:00",
+    "content_hash": "27f61f485cd87dfd480fbe877b2d7abc6ed60f6f52565597c64690399f634570",
+    "update": false
+  },
+  {
+    "id": "fd3ffcfb21a83dc18a44",
+    "canonical_url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite",
+    "cluster_id": "event-db5b90404c97bfd9",
+    "title": "Modulate raises $25M for its voice models and analysis suite",
+    "first_seen": "2026-09-29T05:48:21.485575+00:00",
+    "last_seen": "2026-09-29T05:48:21.485575+00:00",
+    "last_sent": "2026-09-29T05:48:21.485575+00:00",
+    "content_hash": "9807ceafa6c757ee04e99cf013588867052b36871445c3bbd5fc77bd910d4014",
     "update": false
   }
 ]
