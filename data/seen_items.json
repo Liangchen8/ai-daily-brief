@@ -2484,5 +2484,93 @@
     "last_sent": "2026-09-29T05:48:21.485575+00:00",
     "content_hash": "9807ceafa6c757ee04e99cf013588867052b36871445c3bbd5fc77bd910d4014",
     "update": false
+  },
+  {
+    "id": "event-71c539d362f4001d",
+    "canonical_url": "",
+    "cluster_id": "event-71c539d362f4001d",
+    "title": "How Diffusion Controller unifies and simplifies AI image generation",
+    "first_seen": "2026-09-30T05:41:47.812949+00:00",
+    "last_seen": "2026-09-30T05:41:47.814870+00:00",
+    "last_sent": "2026-09-30T05:41:47.814870+00:00",
+    "content_hash": "1245d8f68a2f85245c367e422d00cdb10baf79a65a92d33b71207786bad3dd69",
+    "update": false
+  },
+  {
+    "id": "event-8b4ccf878569e4a1",
+    "canonical_url": "",
+    "cluster_id": "event-8b4ccf878569e4a1",
+    "title": "Introducing GPT-6.1 Sol",
+    "first_seen": "2026-09-30T05:41:47.813103+00:00",
+    "last_seen": "2026-09-30T05:41:47.815107+00:00",
+    "last_sent": "2026-09-30T05:41:47.815107+00:00",
+    "content_hash": "7cff9b031a2449cc6936af8f2e2280ec572f60645c03c273d2cd6173937a5338",
+    "update": false
+  },
+  {
+    "id": "event-6811d737bef2c576",
+    "canonical_url": "",
+    "cluster_id": "event-6811d737bef2c576",
+    "title": "Geometry as Address: Routing Attention to Visual Memory for Long-Horizon Camera-Controlled Video Generation",
+    "first_seen": "2026-09-30T05:41:47.813222+00:00",
+    "last_seen": "2026-09-30T05:41:47.815199+00:00",
+    "last_sent": "2026-09-30T05:41:47.815199+00:00",
+    "content_hash": "95e2b2dece8c5e4816acd44e26467bb3fb8a3b07bd4d467aeca675096fdac4de",
+    "update": false
+  },
+  {
+    "id": "event-6a4c2b4373345859",
+    "canonical_url": "",
+    "cluster_id": "event-6a4c2b4373345859",
+    "title": "Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence",
+    "first_seen": "2026-09-30T05:41:47.813358+00:00",
+    "last_seen": "2026-09-30T05:41:47.815248+00:00",
+    "last_sent": "2026-09-30T05:41:47.815248+00:00",
+    "content_hash": "7a3f1542125f7fd7f529b353e5552d46faf6dd43c02a47a479375b0b075daa13",
+    "update": false
+  },
+  {
+    "id": "event-b009aa8f07cc617a",
+    "canonical_url": "",
+    "cluster_id": "event-b009aa8f07cc617a",
+    "title": "Precise Editing and Flexible Referencing for Interactable Worlds",
+    "first_seen": "2026-09-30T05:41:47.813792+00:00",
+    "last_seen": "2026-09-30T05:41:47.815287+00:00",
+    "last_sent": "2026-09-30T05:41:47.815287+00:00",
+    "content_hash": "290cc2f3ff51396cb018f826891a0092874999586ab92d5353a91946c5d13b05",
+    "update": false
+  },
+  {
+    "id": "hn-49896975",
+    "canonical_url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+    "cluster_id": "event-0f29c52674af0c35",
+    "title": "ChatGPT Pro 500",
+    "first_seen": "2026-09-30T05:41:47.813936+00:00",
+    "last_seen": "2026-09-30T05:41:47.813936+00:00",
+    "last_sent": "2026-09-30T05:41:47.813936+00:00",
+    "content_hash": "62e4d3db147d3ad77ee42c5ee0d3c8efa203d3695a246ed71eb47c8ea673416a",
+    "update": false
+  },
+  {
+    "id": "hn-49891290",
+    "canonical_url": "https://github.com/PostHog/jeeves",
+    "cluster_id": "event-0a5f97612345b0a6",
+    "title": "Jeeves. Reasoning improves Jev-like decision models",
+    "first_seen": "2026-09-30T05:41:47.813976+00:00",
+    "last_seen": "2026-09-30T05:41:47.813976+00:00",
+    "last_sent": "2026-09-30T05:41:47.813976+00:00",
+    "content_hash": "cef2d3dabb9811dbd98f15608469d27d5c3587b7dc427c1f1b5f0fac91b4cabb",
+    "update": false
+  },
+  {
+    "id": "hn-49882781",
+    "canonical_url": "https://stateofutopia.com/experiments/microllmlab",
+    "cluster_id": "event-ef10cff51059bb41",
+    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+    "first_seen": "2026-09-30T05:41:47.814369+00:00",
+    "last_seen": "2026-09-30T05:41:47.814369+00:00",
+    "last_sent": "2026-09-30T05:41:47.814369+00:00",
+    "content_hash": "dc0c4d0cb43bcfda431288801dcd83df9ae2ade4cd7583a04a55ccc13722aeca",
+    "update": false
   }
 ]
