@@ -1,148 +1,5 @@
 [
   {
-    "id": "event-bdb126f949464f4e",
-    "canonical_url": "",
-    "cluster_id": "event-bdb126f949464f4e",
-    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-    "first_seen": "2026-08-30T05:29:20.080939+00:00",
-    "last_seen": "2026-08-31T05:37:22.594680+00:00",
-    "last_sent": "2026-08-31T05:37:22.594680+00:00",
-    "content_hash": "86b1ecd3c1aabfbe47f2e52c486d24490d852a4989c981b43c56794e0a625613",
-    "update": true
-  },
-  {
-    "id": "event-3416065ad20a64e4",
-    "canonical_url": "",
-    "cluster_id": "event-3416065ad20a64e4",
-    "title": "GameWAM: A World Action Model for Video Games",
-    "first_seen": "2026-08-31T05:37:22.593697+00:00",
-    "last_seen": "2026-08-31T05:37:22.594416+00:00",
-    "last_sent": "2026-08-31T05:37:22.594416+00:00",
-    "content_hash": "de758013685d5adeed0b9a9e079e41291efba2ec2c92a9fc9c3d4cb1b4180234",
-    "update": false
-  },
-  {
-    "id": "event-4f93cdce419518bd",
-    "canonical_url": "",
-    "cluster_id": "event-4f93cdce419518bd",
-    "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
-    "first_seen": "2026-08-31T05:37:22.593857+00:00",
-    "last_seen": "2026-08-31T05:37:22.594635+00:00",
-    "last_sent": "2026-08-31T05:37:22.594635+00:00",
-    "content_hash": "3e44a2dae0940816da073bc16a95567404a81a04c7925a7c6f9cd4e87b298ba5",
-    "update": false
-  },
-  {
-    "id": "event-59ddeecd5ed82d54",
-    "canonical_url": "",
-    "cluster_id": "event-59ddeecd5ed82d54",
-    "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-    "first_seen": "2026-08-31T05:37:22.593993+00:00",
-    "last_seen": "2026-08-31T05:37:22.594654+00:00",
-    "last_sent": "2026-08-31T05:37:22.594654+00:00",
-    "content_hash": "f034a81ba83a064e2a51e9bb585052a6c6a97903a2fe94c5803beb08a5d37083",
-    "update": false
-  },
-  {
-    "id": "event-ebaafaf019e44fc4",
-    "canonical_url": "",
-    "cluster_id": "event-ebaafaf019e44fc4",
-    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-    "first_seen": "2026-08-31T05:37:22.594037+00:00",
-    "last_seen": "2026-08-31T05:37:22.594667+00:00",
-    "last_sent": "2026-08-31T05:37:22.594667+00:00",
-    "content_hash": "8b750417b494e6821b81f08fdb301406cfb4c9fcc0e6549f235584ec783a9904",
-    "update": false
-  },
-  {
-    "id": "arxiv-66e3202a873cc520",
-    "canonical_url": "http://arxiv.org/abs/2608.28557v1",
-    "cluster_id": "event-a2862cab3d3c3493",
-    "title": "Blog: Survey of Optimizers",
-    "first_seen": "2026-08-31T05:37:22.594098+00:00",
-    "last_seen": "2026-08-31T05:37:22.594098+00:00",
-    "last_sent": "2026-08-31T05:37:22.594098+00:00",
-    "content_hash": "c663acafa1e629203bf06a9acf41d9d14ee84ef8bbf3dc6d95d1294ae7951c36",
-    "update": false
-  },
-  {
-    "id": "event-6c32473b8aa748a1",
-    "canonical_url": "",
-    "cluster_id": "event-6c32473b8aa748a1",
-    "title": "A milestone in expanding access to AI",
-    "first_seen": "2026-09-01T05:13:37.726488+00:00",
-    "last_seen": "2026-09-01T05:13:37.727017+00:00",
-    "last_sent": "2026-09-01T05:13:37.727017+00:00",
-    "content_hash": "9e7a912a3e7aa20497120556d074d1b97eaa28e6ab4ec57dce7ddcb2e16c98f7",
-    "update": false
-  },
-  {
-    "id": "event-06f26bf1d5d4ae10",
-    "canonical_url": "",
-    "cluster_id": "event-06f26bf1d5d4ae10",
-    "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
-    "first_seen": "2026-09-01T05:13:37.726645+00:00",
-    "last_seen": "2026-09-01T05:13:37.727168+00:00",
-    "last_sent": "2026-09-01T05:13:37.727168+00:00",
-    "content_hash": "61dbcacaf2dc7397321a29fc66e8f0d204f7c32210deaabadca947aa1256371f",
-    "update": false
-  },
-  {
-    "id": "event-4c4c9fb3b230dfdf",
-    "canonical_url": "",
-    "cluster_id": "event-4c4c9fb3b230dfdf",
-    "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
-    "first_seen": "2026-09-01T05:13:37.726657+00:00",
-    "last_seen": "2026-09-01T05:13:37.727183+00:00",
-    "last_sent": "2026-09-01T05:13:37.727183+00:00",
-    "content_hash": "b30687d256316a597ab4431fa9ed81ac9b885bcd71c0007a08964c2da6f84b26",
-    "update": false
-  },
-  {
-    "id": "event-4100d60e0e2f1d96",
-    "canonical_url": "",
-    "cluster_id": "event-4100d60e0e2f1d96",
-    "title": "JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution",
-    "first_seen": "2026-09-01T05:13:37.726666+00:00",
-    "last_seen": "2026-09-01T05:13:37.727193+00:00",
-    "last_sent": "2026-09-01T05:13:37.727193+00:00",
-    "content_hash": "72f7ef0b9ec84ac8172c84a7bdc46fc73f7d3d02e26c85db3d66e6409509f464",
-    "update": false
-  },
-  {
-    "id": "event-21b07bbe51ad75d7",
-    "canonical_url": "",
-    "cluster_id": "event-21b07bbe51ad75d7",
-    "title": "Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090",
-    "first_seen": "2026-09-01T05:13:37.726723+00:00",
-    "last_seen": "2026-09-01T05:13:37.727202+00:00",
-    "last_sent": "2026-09-01T05:13:37.727202+00:00",
-    "content_hash": "9a4a2409a29a0affb2ce63434e3915a93034e22e0a022e39a870222c291c15f3",
-    "update": false
-  },
-  {
-    "id": "hn-49508317",
-    "canonical_url": "https://calpaterson.com/memoryfields.html",
-    "cluster_id": "event-b5655b997bbb8b95",
-    "title": "Agent memory as a file format",
-    "first_seen": "2026-09-01T05:13:37.726777+00:00",
-    "last_seen": "2026-09-01T05:13:37.726777+00:00",
-    "last_sent": "2026-09-01T05:13:37.726777+00:00",
-    "content_hash": "e5799792f02060a81784160e2e1bcc720538f09a92227f7a8b10b8af1d02cade",
-    "update": false
-  },
-  {
-    "id": "hn-49517537",
-    "canonical_url": "https://antigravity.google/docs/boost",
-    "cluster_id": "event-6af64929facad8f1",
-    "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
-    "first_seen": "2026-09-01T05:13:37.726785+00:00",
-    "last_seen": "2026-09-01T05:13:37.726785+00:00",
-    "last_sent": "2026-09-01T05:13:37.726785+00:00",
-    "content_hash": "707c3a1b097a6adb7501d7dcbf5d1345b77051466c591855ca1c69067dd81c9b",
-    "update": false
-  },
-  {
     "id": "event-c5e9144681cfceef",
     "canonical_url": "",
     "cluster_id": "event-c5e9144681cfceef",
@@ -2571,6 +2428,94 @@
     "last_seen": "2026-09-30T05:41:47.814369+00:00",
     "last_sent": "2026-09-30T05:41:47.814369+00:00",
     "content_hash": "dc0c4d0cb43bcfda431288801dcd83df9ae2ade4cd7583a04a55ccc13722aeca",
+    "update": false
+  },
+  {
+    "id": "event-80bc42c5ec07b484",
+    "canonical_url": "",
+    "cluster_id": "event-80bc42c5ec07b484",
+    "title": "What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling",
+    "first_seen": "2026-10-01T05:56:32.336728+00:00",
+    "last_seen": "2026-10-01T05:56:32.338744+00:00",
+    "last_sent": "2026-10-01T05:56:32.338744+00:00",
+    "content_hash": "2b6c3254277fc5a71d3638925042da0c6d5bbbc652111ddca9e66675c3da0852",
+    "update": false
+  },
+  {
+    "id": "event-55334a713eb57dee",
+    "canonical_url": "",
+    "cluster_id": "event-55334a713eb57dee",
+    "title": "Context Language Models",
+    "first_seen": "2026-10-01T05:56:32.336891+00:00",
+    "last_seen": "2026-10-01T05:56:32.338895+00:00",
+    "last_sent": "2026-10-01T05:56:32.338895+00:00",
+    "content_hash": "2562be6ba2807576cff6e026fac6e7046f3c8f708317e19c5aee9d7c972c9bb6",
+    "update": false
+  },
+  {
+    "id": "event-94e4484d7776688c",
+    "canonical_url": "",
+    "cluster_id": "event-94e4484d7776688c",
+    "title": "Helping small businesses put AI to work",
+    "first_seen": "2026-10-01T05:56:32.336954+00:00",
+    "last_seen": "2026-10-01T05:56:32.339000+00:00",
+    "last_sent": "2026-10-01T05:56:32.339000+00:00",
+    "content_hash": "eaabfb2d6ac6897e07ed206e87eec9d2a196718782bae3cf71207750926c7ce3",
+    "update": false
+  },
+  {
+    "id": "event-1bbe6db30f0da0e3",
+    "canonical_url": "",
+    "cluster_id": "event-1bbe6db30f0da0e3",
+    "title": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
+    "first_seen": "2026-10-01T05:56:32.337042+00:00",
+    "last_seen": "2026-10-01T05:56:32.338647+00:00",
+    "last_sent": "2026-10-01T05:56:32.338647+00:00",
+    "content_hash": "14bd0fb221da39489ebc822434c473e628964d48d6514ae7cda53fb98a1a5760",
+    "update": false
+  },
+  {
+    "id": "event-7bdda1dc424f8e83",
+    "canonical_url": "",
+    "cluster_id": "event-7bdda1dc424f8e83",
+    "title": "Think Before You Score: Thinking Reward Model for Visual Generation",
+    "first_seen": "2026-10-01T05:56:32.337127+00:00",
+    "last_seen": "2026-10-01T05:56:32.339044+00:00",
+    "last_sent": "2026-10-01T05:56:32.339044+00:00",
+    "content_hash": "472fc7e3dcbfd20ed6842f13b35182098bdea3ac2f1f5ab4e096ca27fbe8372d",
+    "update": false
+  },
+  {
+    "id": "hf-73884cedb09a0627",
+    "canonical_url": "https://huggingface.co/papers/2609.38008",
+    "cluster_id": "event-660004a8f1ba733a",
+    "title": "HybridCUA: Learning to Orchestrate GUI and CLI for Computer-Use Agents",
+    "first_seen": "2026-10-01T05:56:32.337501+00:00",
+    "last_seen": "2026-10-01T05:56:32.337501+00:00",
+    "last_sent": "2026-10-01T05:56:32.337501+00:00",
+    "content_hash": "e7e5f30c741bc10d81f73561d7f846b8602e7477c1041f646633886ef3fee9ea",
+    "update": false
+  },
+  {
+    "id": "hf-2cc5ac41e69743cf",
+    "canonical_url": "https://huggingface.co/papers/2609.37402",
+    "cluster_id": "event-6fb648f2aea523a1",
+    "title": "Routing Should Pay for Itself: Sparse Supervision for Economical LLM Routing",
+    "first_seen": "2026-10-01T05:56:32.337711+00:00",
+    "last_seen": "2026-10-01T05:56:32.337711+00:00",
+    "last_sent": "2026-10-01T05:56:32.337711+00:00",
+    "content_hash": "512dcf051533480d2b21d5f8aebb19400aa1c575c6b916a0489660553cc4be24",
+    "update": false
+  },
+  {
+    "id": "hn-49906669",
+    "canonical_url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+    "cluster_id": "event-ecd6aa38fb4ca063",
+    "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+    "first_seen": "2026-10-01T05:56:32.337884+00:00",
+    "last_seen": "2026-10-01T05:56:32.337884+00:00",
+    "last_sent": "2026-10-01T05:56:32.337884+00:00",
+    "content_hash": "d2dd4c341f562e13fb42f2e5db16486a25709a4e6314791c15ae5f2a3b7343fd",
     "update": false
   }
 ]
