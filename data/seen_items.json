@@ -1,104 +1,5 @@
 [
   {
-    "id": "event-8b1017bdb7966f45",
-    "canonical_url": "",
-    "cluster_id": "event-8b1017bdb7966f45",
-    "title": "CogEvol: Towards Efficient and Reliable Learning Environment Generation",
-    "first_seen": "2026-09-03T04:36:47.749138+00:00",
-    "last_seen": "2026-09-03T04:36:47.750165+00:00",
-    "last_sent": "2026-09-03T04:36:47.750165+00:00",
-    "content_hash": "fca795364d906359f8a1e80b9a8f01cd532e7bc74b1f765aeb9d9d32c9bd62cf",
-    "update": false
-  },
-  {
-    "id": "event-5fc1c84c62f0512e",
-    "canonical_url": "",
-    "cluster_id": "event-5fc1c84c62f0512e",
-    "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
-    "first_seen": "2026-09-03T04:36:47.749271+00:00",
-    "last_seen": "2026-09-03T04:36:47.750343+00:00",
-    "last_sent": "2026-09-03T04:36:47.750343+00:00",
-    "content_hash": "a9dbc304f2d7c290f8ad03310cf6ec5a2ef8ff5ff6643bd233bc46439b691ca1",
-    "update": false
-  },
-  {
-    "id": "event-843f0605177a3876",
-    "canonical_url": "",
-    "cluster_id": "event-843f0605177a3876",
-    "title": "For the people and bots reading this without context: it is not necessarily good news that the best open model has been",
-    "first_seen": "2026-09-03T04:36:47.749332+00:00",
-    "last_seen": "2026-09-03T04:36:47.750424+00:00",
-    "last_sent": "2026-09-03T04:36:47.750424+00:00",
-    "content_hash": "71fbb30f7e8d630f826c74806f600e23ded4bf96f60523499d61a5627097b055",
-    "update": false
-  },
-  {
-    "id": "event-852e9bf3c283dcf8",
-    "canonical_url": "",
-    "cluster_id": "event-852e9bf3c283dcf8",
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "first_seen": "2026-09-03T04:36:47.749359+00:00",
-    "last_seen": "2026-09-03T04:36:47.750452+00:00",
-    "last_sent": "2026-09-03T04:36:47.750452+00:00",
-    "content_hash": "80132b2ab9299a493c05f0b51bcc428780df5d24d68eed908d129ef8900ff944",
-    "update": false
-  },
-  {
-    "id": "event-d5fdbdb2561b5961",
-    "canonical_url": "",
-    "cluster_id": "event-d5fdbdb2561b5961",
-    "title": "Normalized Low-Rank Adaptation",
-    "first_seen": "2026-09-03T04:36:47.749505+00:00",
-    "last_seen": "2026-09-03T04:36:47.750484+00:00",
-    "last_sent": "2026-09-03T04:36:47.750484+00:00",
-    "content_hash": "6fed4f53fba4950ebff033d058168d037c4c398b6eb8b478d797c29b0d4f41e6",
-    "update": false
-  },
-  {
-    "id": "hn-49527573",
-    "canonical_url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence",
-    "cluster_id": "event-12eb025da346f913",
-    "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-    "first_seen": "2026-09-03T04:36:47.749724+00:00",
-    "last_seen": "2026-09-03T04:36:47.749724+00:00",
-    "last_sent": "2026-09-03T04:36:47.749724+00:00",
-    "content_hash": "dbca25ba88f2577a5a5553a2714c6463b9ea9546bbb41c7c02d455f5ce50638e",
-    "update": false
-  },
-  {
-    "id": "hn-49535586",
-    "canonical_url": "https://openteams.com/intelligence-vs-cost",
-    "cluster_id": "event-28964d20cc11c1ed",
-    "title": "LLMs: Intelligence vs. Cost",
-    "first_seen": "2026-09-03T04:36:47.749864+00:00",
-    "last_seen": "2026-09-03T04:36:47.749864+00:00",
-    "last_sent": "2026-09-03T04:36:47.749864+00:00",
-    "content_hash": "381c3c17e17d56a019eede47df73ee866e45dc5ed286d4626e06bc83a4abc949",
-    "update": false
-  },
-  {
-    "id": "697f162b1217e9396ed9",
-    "canonical_url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning",
-    "cluster_id": "event-046943c8ddbdabf1",
-    "title": "Mapping global methane emissions from space with deep learning",
-    "first_seen": "2026-09-03T04:36:47.750073+00:00",
-    "last_seen": "2026-09-03T04:36:47.750073+00:00",
-    "last_sent": "2026-09-03T04:36:47.750073+00:00",
-    "content_hash": "11538d2049a7934d4bd2804adfc8a55688df62d7ad34ac631b4aabb32ab7ef57",
-    "update": false
-  },
-  {
-    "id": "69a3f867078e620949e0",
-    "canonical_url": "https://openai.com/index/ai-native-company-workflows",
-    "cluster_id": "event-19ba81bf7a390670",
-    "title": "How AI-native companies turn workflows into operating capability",
-    "first_seen": "2026-09-03T04:36:47.750090+00:00",
-    "last_seen": "2026-09-03T04:36:47.750090+00:00",
-    "last_sent": "2026-09-03T04:36:47.750090+00:00",
-    "content_hash": "0556ac2a91763b86287459a80ce8e2aadb61abb3cc44d5382f2020f7cab1f5e0",
-    "update": false
-  },
-  {
     "id": "event-3d469e61e7e0b897",
     "canonical_url": "",
     "cluster_id": "event-3d469e61e7e0b897",
@@ -2417,6 +2318,116 @@
     "last_seen": "2026-10-01T05:56:32.337884+00:00",
     "last_sent": "2026-10-01T05:56:32.337884+00:00",
     "content_hash": "d2dd4c341f562e13fb42f2e5db16486a25709a4e6314791c15ae5f2a3b7343fd",
+    "update": false
+  },
+  {
+    "id": "event-582f57c5883cc068",
+    "canonical_url": "",
+    "cluster_id": "event-582f57c5883cc068",
+    "title": "A model guide for the GPT-6 family",
+    "first_seen": "2026-10-03T05:25:41.147708+00:00",
+    "last_seen": "2026-10-03T05:25:41.150064+00:00",
+    "last_sent": "2026-10-03T05:25:41.150064+00:00",
+    "content_hash": "1ef3eb126125291e7a92a0cc2c8c23c55e8a93a9afe92143220cd9770f5da66d",
+    "update": false
+  },
+  {
+    "id": "event-c963d808eaa24374",
+    "canonical_url": "",
+    "cluster_id": "event-c963d808eaa24374",
+    "title": "Hierarchical Continuous Diffusion Language Models",
+    "first_seen": "2026-10-03T05:25:41.148074+00:00",
+    "last_seen": "2026-10-03T05:25:41.150318+00:00",
+    "last_sent": "2026-10-03T05:25:41.150318+00:00",
+    "content_hash": "7969e0ac5908ec1b289d9e5c073783a27037a3e0fbc5822d21392f0253662fcf",
+    "update": false
+  },
+  {
+    "id": "event-4e6edf18b9956809",
+    "canonical_url": "",
+    "cluster_id": "event-4e6edf18b9956809",
+    "title": "Sharpening Tax in Post-Training",
+    "first_seen": "2026-10-03T05:25:41.148111+00:00",
+    "last_seen": "2026-10-03T05:25:41.150360+00:00",
+    "last_sent": "2026-10-03T05:25:41.150360+00:00",
+    "content_hash": "f7d375fa69e476ac16b8583a45649a015dce822649643d23e0ff07a95a595ea1",
+    "update": false
+  },
+  {
+    "id": "event-d20dfed660b6b645",
+    "canonical_url": "",
+    "cluster_id": "event-d20dfed660b6b645",
+    "title": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
+    "first_seen": "2026-10-03T05:25:41.148149+00:00",
+    "last_seen": "2026-10-03T05:25:41.150398+00:00",
+    "last_sent": "2026-10-03T05:25:41.150398+00:00",
+    "content_hash": "60698798a0b159eb5bca01026bbe04e687da78ec3f58fab1d99579b3bd67969c",
+    "update": false
+  },
+  {
+    "id": "event-bf63466da90dddc2",
+    "canonical_url": "",
+    "cluster_id": "event-bf63466da90dddc2",
+    "title": "World Observer: Joint Actor-Observer Generation for Persistent World Modeling",
+    "first_seen": "2026-10-03T05:25:41.148186+00:00",
+    "last_seen": "2026-10-03T05:25:41.150427+00:00",
+    "last_sent": "2026-10-03T05:25:41.150427+00:00",
+    "content_hash": "6575c5bfd144ee8f4a7eb8245580c348f080a692731e3c7f0a790d2d1d1e3a07",
+    "update": false
+  },
+  {
+    "id": "hn-49927747",
+    "canonical_url": "https://chatgpt.com/features/sites",
+    "cluster_id": "event-7f85cc0778de3e80",
+    "title": "Sites in ChatGPT",
+    "first_seen": "2026-10-03T05:25:41.148516+00:00",
+    "last_seen": "2026-10-03T05:25:41.148516+00:00",
+    "last_sent": "2026-10-03T05:25:41.148516+00:00",
+    "content_hash": "c9f909708b65dbf21264a15483d70428e81333a55890c4be753a0f9b2fc8d1ac",
+    "update": false
+  },
+  {
+    "id": "hn-49939513",
+    "canonical_url": "https://inference.debian.net/",
+    "cluster_id": "event-9bf859b0d32dc700",
+    "title": "Debian Inference Portal",
+    "first_seen": "2026-10-03T05:25:41.149366+00:00",
+    "last_seen": "2026-10-03T05:25:41.149366+00:00",
+    "last_sent": "2026-10-03T05:25:41.149366+00:00",
+    "content_hash": "5f68d90e4bf155ff4727b591752cc8a026d5152daf7fee7e1ea333308947ea9e",
+    "update": false
+  },
+  {
+    "id": "bf57e14778052417827d",
+    "canonical_url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
+    "cluster_id": "event-b2c2a31d7bec7ff6",
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "first_seen": "2026-10-03T05:25:41.149498+00:00",
+    "last_seen": "2026-10-03T05:25:41.149543+00:00",
+    "last_sent": "2026-10-03T05:25:41.149543+00:00",
+    "content_hash": "5260ea2d2e9208cf7a56b0cbfeba0f9cc2afeebab8a5ef676416849030a6e8bb",
+    "update": false
+  },
+  {
+    "id": "0f27a1ab267922957732",
+    "canonical_url": "https://theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+    "cluster_id": "event-1474e7d9103a3db5",
+    "title": "Amazon writes scary blog warning communities not to block data centers",
+    "first_seen": "2026-10-03T05:25:41.149577+00:00",
+    "last_seen": "2026-10-03T05:25:41.149577+00:00",
+    "last_sent": "2026-10-03T05:25:41.149577+00:00",
+    "content_hash": "89e84c109ca7ae0f39b929bc4c9f92365158576ca43759b624fdb6a13ea51d17",
+    "update": false
+  },
+  {
+    "id": "arxiv-a753af83810582d4",
+    "canonical_url": "http://arxiv.org/abs/2610.02203v1",
+    "cluster_id": "event-9a305b4a545f5fe5",
+    "title": "Embedding Prediction Helps Image Generation",
+    "first_seen": "2026-10-03T05:25:41.149849+00:00",
+    "last_seen": "2026-10-03T05:25:41.149849+00:00",
+    "last_sent": "2026-10-03T05:25:41.149849+00:00",
+    "content_hash": "a762167d675c894248c986e25119cc91824dc618c6087bc6d2e85723cd56adec",
     "update": false
   }
 ]
