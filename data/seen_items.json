@@ -1,60 +1,5 @@
 [
   {
-    "id": "event-3d469e61e7e0b897",
-    "canonical_url": "",
-    "cluster_id": "event-3d469e61e7e0b897",
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "first_seen": "2026-09-04T04:39:13.777574+00:00",
-    "last_seen": "2026-09-04T04:39:13.778637+00:00",
-    "last_sent": "2026-09-04T04:39:13.778637+00:00",
-    "content_hash": "01f0570d521368d80b2087d8271febc26121303bbc59bffda5a710532c763299",
-    "update": false
-  },
-  {
-    "id": "event-2e45c4f616ff3ac0",
-    "canonical_url": "",
-    "cluster_id": "event-2e45c4f616ff3ac0",
-    "title": "The Hugging Face Incident showed you don’t even need a malicious attacker to cause a cascade, enough agents pressure sys",
-    "first_seen": "2026-09-04T04:39:13.777942+00:00",
-    "last_seen": "2026-09-04T04:39:13.778849+00:00",
-    "last_sent": "2026-09-04T04:39:13.778849+00:00",
-    "content_hash": "0fd99d917b0412c3508e637d4494bcfb2d42d064c84a92f9fc0be021f1714875",
-    "update": false
-  },
-  {
-    "id": "event-50748e1e4bb8e264",
-    "canonical_url": "",
-    "cluster_id": "event-50748e1e4bb8e264",
-    "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
-    "first_seen": "2026-09-04T04:39:13.778077+00:00",
-    "last_seen": "2026-09-04T04:39:13.778869+00:00",
-    "last_sent": "2026-09-04T04:39:13.778869+00:00",
-    "content_hash": "9a522fd3c7899c04bcf06b22b31243ddf03a48f78de3bf4ddff563199a7103c7",
-    "update": false
-  },
-  {
-    "id": "event-abbaf534d840c7b3",
-    "canonical_url": "",
-    "cluster_id": "event-abbaf534d840c7b3",
-    "title": "Safety overview: GPT-6 Astra",
-    "first_seen": "2026-09-04T04:39:13.778150+00:00",
-    "last_seen": "2026-09-04T04:39:13.778889+00:00",
-    "last_sent": "2026-09-04T04:39:13.778889+00:00",
-    "content_hash": "1fd570b5dab903107c9c843cc43202a8094fa1b1b2fee83a17c9165ba57b9fd5",
-    "update": false
-  },
-  {
-    "id": "event-843d8b4ec5cfc4f5",
-    "canonical_url": "",
-    "cluster_id": "event-843d8b4ec5cfc4f5",
-    "title": "Mamdani bans AI in NYC schools",
-    "first_seen": "2026-09-04T04:39:13.778260+00:00",
-    "last_seen": "2026-09-04T04:39:13.778909+00:00",
-    "last_sent": "2026-09-04T04:39:13.778909+00:00",
-    "content_hash": "0b3ee673370b5f0ddfedf479938901676f6c49865592d0e0eba47cf5b1332eea",
-    "update": false
-  },
-  {
     "id": "event-9d1f1717c9a072a2",
     "canonical_url": "",
     "cluster_id": "event-9d1f1717c9a072a2",
@@ -2332,37 +2277,37 @@
     "update": false
   },
   {
-    "id": "event-c963d808eaa24374",
-    "canonical_url": "",
+    "id": "hf-c9b244625ff40034",
+    "canonical_url": "https://huggingface.co/papers/2610.02193",
     "cluster_id": "event-c963d808eaa24374",
     "title": "Hierarchical Continuous Diffusion Language Models",
     "first_seen": "2026-10-03T05:25:41.148074+00:00",
-    "last_seen": "2026-10-03T05:25:41.150318+00:00",
-    "last_sent": "2026-10-03T05:25:41.150318+00:00",
-    "content_hash": "7969e0ac5908ec1b289d9e5c073783a27037a3e0fbc5822d21392f0253662fcf",
-    "update": false
+    "last_seen": "2026-10-04T05:57:40.970590+00:00",
+    "last_sent": "2026-10-04T05:57:40.970590+00:00",
+    "content_hash": "200fc66961cdfdc2d7645d1e33a8f65bb9e15f1295251ab131058c771fa3730e",
+    "update": true
   },
   {
-    "id": "event-4e6edf18b9956809",
-    "canonical_url": "",
+    "id": "hf-361f6c7888faebea",
+    "canonical_url": "https://huggingface.co/papers/2610.01509",
     "cluster_id": "event-4e6edf18b9956809",
     "title": "Sharpening Tax in Post-Training",
     "first_seen": "2026-10-03T05:25:41.148111+00:00",
-    "last_seen": "2026-10-03T05:25:41.150360+00:00",
-    "last_sent": "2026-10-03T05:25:41.150360+00:00",
-    "content_hash": "f7d375fa69e476ac16b8583a45649a015dce822649643d23e0ff07a95a595ea1",
-    "update": false
+    "last_seen": "2026-10-04T05:57:40.970639+00:00",
+    "last_sent": "2026-10-04T05:57:40.970639+00:00",
+    "content_hash": "6a40f23194e0deeb2b8c8e8566419939c740e9212d11c7189bcf194237ba9b77",
+    "update": true
   },
   {
-    "id": "event-d20dfed660b6b645",
-    "canonical_url": "",
+    "id": "hf-eedfbe1741ab3038",
+    "canonical_url": "https://huggingface.co/papers/2610.01939",
     "cluster_id": "event-d20dfed660b6b645",
     "title": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
     "first_seen": "2026-10-03T05:25:41.148149+00:00",
-    "last_seen": "2026-10-03T05:25:41.150398+00:00",
-    "last_sent": "2026-10-03T05:25:41.150398+00:00",
-    "content_hash": "60698798a0b159eb5bca01026bbe04e687da78ec3f58fab1d99579b3bd67969c",
-    "update": false
+    "last_seen": "2026-10-04T05:57:40.970833+00:00",
+    "last_sent": "2026-10-04T05:57:40.970833+00:00",
+    "content_hash": "45c2eb62a3af28ee2b2afc299e98c3ac61a28ef6a74eebda4165d1f3b9ff51f3",
+    "update": true
   },
   {
     "id": "event-bf63466da90dddc2",
@@ -2428,6 +2373,83 @@
     "last_seen": "2026-10-03T05:25:41.149849+00:00",
     "last_sent": "2026-10-03T05:25:41.149849+00:00",
     "content_hash": "a762167d675c894248c986e25119cc91824dc618c6087bc6d2e85723cd56adec",
+    "update": false
+  },
+  {
+    "id": "event-5f07b77ed531cc79",
+    "canonical_url": "",
+    "cluster_id": "event-5f07b77ed531cc79",
+    "title": "RSIGame: Autonomous Agentic Game Development with Recursive Self-improvement",
+    "first_seen": "2026-10-04T05:57:40.969892+00:00",
+    "last_seen": "2026-10-04T05:57:40.972147+00:00",
+    "last_sent": "2026-10-04T05:57:40.972147+00:00",
+    "content_hash": "1019238516edf9f1c9f9cd5cb7edf07ea28973b197b25c3b0987752f08cbf82e",
+    "update": false
+  },
+  {
+    "id": "event-f356eede219d4143",
+    "canonical_url": "",
+    "cluster_id": "event-f356eede219d4143",
+    "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+    "first_seen": "2026-10-04T05:57:40.970535+00:00",
+    "last_seen": "2026-10-04T05:57:40.972249+00:00",
+    "last_sent": "2026-10-04T05:57:40.972249+00:00",
+    "content_hash": "7ad619fbf8cebca559483313d85af48bc7f6d8381834dc0c4084420200e50e11",
+    "update": false
+  },
+  {
+    "id": "event-09949714127df2ee",
+    "canonical_url": "",
+    "cluster_id": "event-09949714127df2ee",
+    "title": "Can AI Oversight Be Zero Knowledge?",
+    "first_seen": "2026-10-04T05:57:40.970928+00:00",
+    "last_seen": "2026-10-04T05:57:40.972392+00:00",
+    "last_sent": "2026-10-04T05:57:40.972392+00:00",
+    "content_hash": "d5424e52b2b4e8976daf9fc10d402c3320b49fee54bd84c3dc5835e79858a0a3",
+    "update": false
+  },
+  {
+    "id": "event-26e4322064c81638",
+    "canonical_url": "",
+    "cluster_id": "event-26e4322064c81638",
+    "title": "Religious scholars met with Anthropic",
+    "first_seen": "2026-10-04T05:57:40.971025+00:00",
+    "last_seen": "2026-10-04T05:57:40.972424+00:00",
+    "last_sent": "2026-10-04T05:57:40.972424+00:00",
+    "content_hash": "56ca54fbb71dfbd02c21018d2cfdaa43d02b008d8ba77e821d7e6fc399ebef21",
+    "update": false
+  },
+  {
+    "id": "arxiv-fe8d82d5ceb60919",
+    "canonical_url": "http://arxiv.org/abs/2610.02198v1",
+    "cluster_id": "event-4c120c708e097d38",
+    "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
+    "first_seen": "2026-10-04T05:57:40.971769+00:00",
+    "last_seen": "2026-10-04T05:57:40.971769+00:00",
+    "last_sent": "2026-10-04T05:57:40.971769+00:00",
+    "content_hash": "bc9e8220cf7f4d4621d0206ecbb77e4d9d80866e0484eb167e40a69a38e9d3e2",
+    "update": false
+  },
+  {
+    "id": "arxiv-8efa327015ea0868",
+    "canonical_url": "http://arxiv.org/abs/2610.02195v1",
+    "cluster_id": "event-5bc31108a4116867",
+    "title": "Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control",
+    "first_seen": "2026-10-04T05:57:40.971805+00:00",
+    "last_seen": "2026-10-04T05:57:40.971805+00:00",
+    "last_sent": "2026-10-04T05:57:40.971805+00:00",
+    "content_hash": "7520e834f4b8067cf0a9eaa75576bfacb57f87ffa30064088d4f63128f802212",
+    "update": false
+  },
+  {
+    "id": "event-a55cca63ae098748",
+    "canonical_url": "",
+    "cluster_id": "event-a55cca63ae098748",
+    "title": "A foundation for systematic analysis of transformers and RNNs for tractography",
+    "first_seen": "2026-10-04T05:57:40.971913+00:00",
+    "last_seen": "2026-10-04T05:57:40.972469+00:00",
+    "last_sent": "2026-10-04T05:57:40.972469+00:00",
+    "content_hash": "a34d6ea8beb415dcf880c5cd8122e3ef21432bc6a11178ce702b8443ce2a06bd",
     "update": false
   }
 ]
