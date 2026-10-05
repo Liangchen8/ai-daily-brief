@@ -1,93 +1,5 @@
 [
   {
-    "id": "event-9d1f1717c9a072a2",
-    "canonical_url": "",
-    "cluster_id": "event-9d1f1717c9a072a2",
-    "title": "E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation",
-    "first_seen": "2026-09-05T04:31:50.183112+00:00",
-    "last_seen": "2026-09-05T04:31:50.184207+00:00",
-    "last_sent": "2026-09-05T04:31:50.184207+00:00",
-    "content_hash": "d0655851191d0c07c86e73b8c8d4c82fcad34c2159fd91d09eefe443756330f9",
-    "update": false
-  },
-  {
-    "id": "event-a7fe4f78e4b1d29e",
-    "canonical_url": "",
-    "cluster_id": "event-a7fe4f78e4b1d29e",
-    "title": "Multiplayer AI, where many people in an organization can use AI together to accomplish goals, remains one of the biggest",
-    "first_seen": "2026-09-05T04:31:50.183212+00:00",
-    "last_seen": "2026-09-05T04:31:50.184249+00:00",
-    "last_sent": "2026-09-05T04:31:50.184249+00:00",
-    "content_hash": "057f3d1703b1e108ef4d72fb58b934f6987f79ed7e458f69f3d40b5b3ab8ff7c",
-    "update": false
-  },
-  {
-    "id": "event-7b7c196b8a5a3a00",
-    "canonical_url": "",
-    "cluster_id": "event-7b7c196b8a5a3a00",
-    "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
-    "first_seen": "2026-09-05T04:31:50.183512+00:00",
-    "last_seen": "2026-09-05T04:31:50.184269+00:00",
-    "last_sent": "2026-09-05T04:31:50.184269+00:00",
-    "content_hash": "9533b869c67608cfb230d0942938444e59b75235f54b5409ede16dd145d03988",
-    "update": false
-  },
-  {
-    "id": "event-7d606d5bda070575",
-    "canonical_url": "",
-    "cluster_id": "event-7d606d5bda070575",
-    "title": "H3-World: Turning Language Understanding into World Control",
-    "first_seen": "2026-09-05T04:31:50.183553+00:00",
-    "last_seen": "2026-09-05T04:31:50.184285+00:00",
-    "last_sent": "2026-09-05T04:31:50.184285+00:00",
-    "content_hash": "cb3bfd25814492d94f22494d2d9dae1ff48401b6dcbcf60606af79a0b95096ed",
-    "update": false
-  },
-  {
-    "id": "event-b0250bd15177c588",
-    "canonical_url": "",
-    "cluster_id": "event-b0250bd15177c588",
-    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-    "first_seen": "2026-09-05T04:31:50.183882+00:00",
-    "last_seen": "2026-09-05T04:31:50.184301+00:00",
-    "last_sent": "2026-09-05T04:31:50.184301+00:00",
-    "content_hash": "9407f23ae1fa61f6fa28c349dde6a4baa03c274defd8820bb40ff39a45fe824c",
-    "update": false
-  },
-  {
-    "id": "hn-49560260",
-    "canonical_url": "https://agentconnect.md/blog/grep-beat-lsp-harness",
-    "cluster_id": "event-9d988b7ce6257c87",
-    "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
-    "first_seen": "2026-09-05T04:31:50.183978+00:00",
-    "last_seen": "2026-09-05T04:31:50.183978+00:00",
-    "last_sent": "2026-09-05T04:31:50.183978+00:00",
-    "content_hash": "9d7c50f060255285b86b94c404cc7cf5fd875684f3ca2c64649030b2040efbc7",
-    "update": false
-  },
-  {
-    "id": "54e0dc0ba0389d401c5e",
-    "canonical_url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
-    "cluster_id": "event-afebb26bca4008bd",
-    "title": "Google’s Gemini Spark can now manage your Google Photos library",
-    "first_seen": "2026-09-05T04:31:50.184155+00:00",
-    "last_seen": "2026-09-05T04:31:50.184155+00:00",
-    "last_sent": "2026-09-05T04:31:50.184155+00:00",
-    "content_hash": "14fe981d44164f75d16d5ee5b77317ac42ef6785862204fd28bfe24ee6a4ce65",
-    "update": false
-  },
-  {
-    "id": "82a7c4dce1d87cb8b5b3",
-    "canonical_url": "https://theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-    "cluster_id": "event-ca60608b73f30a2e",
-    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-    "first_seen": "2026-09-05T04:31:50.184173+00:00",
-    "last_seen": "2026-09-05T04:31:50.184173+00:00",
-    "last_sent": "2026-09-05T04:31:50.184173+00:00",
-    "content_hash": "63d92a7b58e5c6733107dcb2cdf5b1eb8c48a17ec60735983a5b67ee7e0001e8",
-    "update": false
-  },
-  {
     "id": "event-1935388640943086",
     "canonical_url": "",
     "cluster_id": "event-1935388640943086",
@@ -2450,6 +2362,127 @@
     "last_seen": "2026-10-04T05:57:40.972469+00:00",
     "last_sent": "2026-10-04T05:57:40.972469+00:00",
     "content_hash": "a34d6ea8beb415dcf880c5cd8122e3ef21432bc6a11178ce702b8443ce2a06bd",
+    "update": false
+  },
+  {
+    "id": "event-b69f00610df6722b",
+    "canonical_url": "",
+    "cluster_id": "event-b69f00610df6722b",
+    "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+    "first_seen": "2026-10-05T05:43:09.008809+00:00",
+    "last_seen": "2026-10-05T05:43:09.010134+00:00",
+    "last_sent": "2026-10-05T05:43:09.010134+00:00",
+    "content_hash": "3c141a811c505db1ed5f9ca4f7984540ce35c6d37b9f8e9e2d75915945e94764",
+    "update": false
+  },
+  {
+    "id": "event-8ce037766f4ad393",
+    "canonical_url": "",
+    "cluster_id": "event-8ce037766f4ad393",
+    "title": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
+    "first_seen": "2026-10-05T05:43:09.009039+00:00",
+    "last_seen": "2026-10-05T05:43:09.010353+00:00",
+    "last_sent": "2026-10-05T05:43:09.010353+00:00",
+    "content_hash": "9e724d84fbde7c235e5125b553c7e5006fb29ee943e4f09636b92a026b717961",
+    "update": false
+  },
+  {
+    "id": "event-14e55b9ba0cc6918",
+    "canonical_url": "",
+    "cluster_id": "event-14e55b9ba0cc6918",
+    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+    "first_seen": "2026-10-05T05:43:09.009095+00:00",
+    "last_seen": "2026-10-05T05:43:09.010386+00:00",
+    "last_sent": "2026-10-05T05:43:09.010386+00:00",
+    "content_hash": "addf46dced33f89f734057c729bded5641e1a6bc83177f3bfe4044c327228b8e",
+    "update": false
+  },
+  {
+    "id": "hn-49948332",
+    "canonical_url": "https://theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "cluster_id": "event-74c73d7e568681b0",
+    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+    "first_seen": "2026-10-05T05:43:09.009175+00:00",
+    "last_seen": "2026-10-05T05:43:09.009175+00:00",
+    "last_sent": "2026-10-05T05:43:09.009175+00:00",
+    "content_hash": "49052f4c8e57e7a1ac14bbe2228adb9de3496dd6633a8dfaabafbcc04ab489f7",
+    "update": false
+  },
+  {
+    "id": "bcd6afe28be5d49e2982",
+    "canonical_url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force",
+    "cluster_id": "event-4bb5c9eb72d05076",
+    "title": "Trump unveils his new Super Intelligence Force",
+    "first_seen": "2026-10-05T05:43:09.009230+00:00",
+    "last_seen": "2026-10-05T05:43:09.009230+00:00",
+    "last_sent": "2026-10-05T05:43:09.009230+00:00",
+    "content_hash": "937f85d4d084a423e613b04aed1593e4b4cf4fea164f6e198270735c1c2308cd",
+    "update": false
+  },
+  {
+    "id": "event-98fe8030016e1f7a",
+    "canonical_url": "",
+    "cluster_id": "event-98fe8030016e1f7a",
+    "title": "Sharpening Tax in Post-Training",
+    "first_seen": "2026-10-05T05:43:09.009394+00:00",
+    "last_seen": "2026-10-05T05:43:09.010325+00:00",
+    "last_sent": "2026-10-05T05:43:09.010325+00:00",
+    "content_hash": "6387d399ef0f458fcb8e8f1b0bea3d7d26afd794e5dc182c2cd7127e25869065",
+    "update": false
+  },
+  {
+    "id": "arxiv-de22cc6963d618ee",
+    "canonical_url": "http://arxiv.org/abs/2610.03675v1",
+    "cluster_id": "event-3b14965711cffb1f",
+    "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+    "first_seen": "2026-10-05T05:43:09.009501+00:00",
+    "last_seen": "2026-10-05T05:43:09.009501+00:00",
+    "last_sent": "2026-10-05T05:43:09.009501+00:00",
+    "content_hash": "2c5797c6c81435dedbc4924cca13f89af9fa14c6c38fb14e72cdf55dbf3704ff",
+    "update": false
+  },
+  {
+    "id": "arxiv-315112cb27149732",
+    "canonical_url": "http://arxiv.org/abs/2610.03667v1",
+    "cluster_id": "event-570027969641959d",
+    "title": "Planning to Learn",
+    "first_seen": "2026-10-05T05:43:09.009529+00:00",
+    "last_seen": "2026-10-05T05:43:09.009529+00:00",
+    "last_sent": "2026-10-05T05:43:09.009529+00:00",
+    "content_hash": "a1348aa6ed494fd00e9404e7b253a4be1ab75657c22561cea0363699c9665b5b",
+    "update": false
+  },
+  {
+    "id": "event-dbdcba1cd403b615",
+    "canonical_url": "",
+    "cluster_id": "event-dbdcba1cd403b615",
+    "title": "Hierarchical Continuous Diffusion Language Models",
+    "first_seen": "2026-10-05T05:43:09.009583+00:00",
+    "last_seen": "2026-10-05T05:43:09.010288+00:00",
+    "last_sent": "2026-10-05T05:43:09.010288+00:00",
+    "content_hash": "8aa978d2f61f462a06604fc21bf0b1b7b6fca65acc6fed11e44870a6e8d4d600",
+    "update": false
+  },
+  {
+    "id": "arxiv-e58e1ad097e30138",
+    "canonical_url": "http://arxiv.org/abs/2610.03632v1",
+    "cluster_id": "event-6bc9ecfaa2abebdc",
+    "title": "World Embedding Benchmark",
+    "first_seen": "2026-10-05T05:43:09.009829+00:00",
+    "last_seen": "2026-10-05T05:43:09.009829+00:00",
+    "last_sent": "2026-10-05T05:43:09.009829+00:00",
+    "content_hash": "6a8f26fac9eeb1879a3428c6b29e607960075f27337686c816899f47e0f99258",
+    "update": false
+  },
+  {
+    "id": "arxiv-8d379f209454178f",
+    "canonical_url": "http://arxiv.org/abs/2610.03604v1",
+    "cluster_id": "event-1181d18bdd0fc78e",
+    "title": "Mastering Atari 2600 Games with Discovered Options",
+    "first_seen": "2026-10-05T05:43:09.009965+00:00",
+    "last_seen": "2026-10-05T05:43:09.009965+00:00",
+    "last_sent": "2026-10-05T05:43:09.009965+00:00",
+    "content_hash": "4dc06c0bc2eab92044a8f83053a20d00f27b4f35e6f1f868e64a5c56078366da",
     "update": false
   }
 ]
