@@ -1,49 +1,5 @@
 [
   {
-    "id": "event-1935388640943086",
-    "canonical_url": "",
-    "cluster_id": "event-1935388640943086",
-    "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
-    "first_seen": "2026-09-06T04:44:17.423541+00:00",
-    "last_seen": "2026-09-06T04:44:17.424061+00:00",
-    "last_sent": "2026-09-06T04:44:17.424061+00:00",
-    "content_hash": "ab9f3bc85d51685f54895a554adedf47fe60238a3d8b3c2a6f84a7796f306bb7",
-    "update": false
-  },
-  {
-    "id": "event-7991ef8cb6844f55",
-    "canonical_url": "",
-    "cluster_id": "event-7991ef8cb6844f55",
-    "title": "Editable Visual Design",
-    "first_seen": "2026-09-06T04:44:17.423762+00:00",
-    "last_seen": "2026-09-06T04:44:17.424276+00:00",
-    "last_sent": "2026-09-06T04:44:17.424276+00:00",
-    "content_hash": "d46430b91c493ec9c0ffec2e22d0b0b50047df74ce448e2cf81dab3ad819498b",
-    "update": false
-  },
-  {
-    "id": "event-0b51533a46678b0d",
-    "canonical_url": "",
-    "cluster_id": "event-0b51533a46678b0d",
-    "title": "America's two largest school districts impose AI moratoriums",
-    "first_seen": "2026-09-06T04:44:17.423837+00:00",
-    "last_seen": "2026-09-06T04:44:17.424300+00:00",
-    "last_sent": "2026-09-06T04:44:17.424300+00:00",
-    "content_hash": "6a8ba1d437f6bd127da302cd929a8742ec5e703b395a7a698a2d1d79299f8e7d",
-    "update": false
-  },
-  {
-    "id": "event-d3025d2b744d7ca3",
-    "canonical_url": "",
-    "cluster_id": "event-d3025d2b744d7ca3",
-    "title": "Hikers rescued after using Google Gemini for planning",
-    "first_seen": "2026-09-06T04:44:17.423969+00:00",
-    "last_seen": "2026-09-06T04:44:17.424317+00:00",
-    "last_sent": "2026-09-06T04:44:17.424317+00:00",
-    "content_hash": "d859497f4eb4cc3b32336f4ce26b1ea392bf360f17e1d66f456eb870f9904c84",
-    "update": false
-  },
-  {
     "id": "event-ca1a7d036227ac8f",
     "canonical_url": "",
     "cluster_id": "event-ca1a7d036227ac8f",
@@ -2483,6 +2439,127 @@
     "last_seen": "2026-10-05T05:43:09.009965+00:00",
     "last_sent": "2026-10-05T05:43:09.009965+00:00",
     "content_hash": "4dc06c0bc2eab92044a8f83053a20d00f27b4f35e6f1f868e64a5c56078366da",
+    "update": false
+  },
+  {
+    "id": "event-7470e3a65aa3aff2",
+    "canonical_url": "",
+    "cluster_id": "event-7470e3a65aa3aff2",
+    "title": "Building advertising for the way people use AI",
+    "first_seen": "2026-10-06T06:23:54.574855+00:00",
+    "last_seen": "2026-10-06T06:23:54.576714+00:00",
+    "last_sent": "2026-10-06T06:23:54.576714+00:00",
+    "content_hash": "ffa52db2af927930f25335ab90a141a406467cbf141a434e0f5f7bbf5afd6d9c",
+    "update": false
+  },
+  {
+    "id": "event-b9e44919e9e066b8",
+    "canonical_url": "",
+    "cluster_id": "event-b9e44919e9e066b8",
+    "title": "Science or Slop?: Benchmarking and Mitigating Scientific Slop in AI-Generated Papers",
+    "first_seen": "2026-10-06T06:23:54.575379+00:00",
+    "last_seen": "2026-10-06T06:23:54.576758+00:00",
+    "last_sent": "2026-10-06T06:23:54.576758+00:00",
+    "content_hash": "5d6ba022e50fe5cf85921e2199058c8118114f21c03be70b9c8d7a1e59d53341",
+    "update": false
+  },
+  {
+    "id": "event-9aa96fb7dab5cf74",
+    "canonical_url": "",
+    "cluster_id": "event-9aa96fb7dab5cf74",
+    "title": "FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation",
+    "first_seen": "2026-10-06T06:23:54.575417+00:00",
+    "last_seen": "2026-10-06T06:23:54.576823+00:00",
+    "last_sent": "2026-10-06T06:23:54.576823+00:00",
+    "content_hash": "445ac4173e42efdee28f3cd60138adbcc5b9b6d34af6624034c38c5b93c0f23d",
+    "update": false
+  },
+  {
+    "id": "event-002c42a9b6a595aa",
+    "canonical_url": "",
+    "cluster_id": "event-002c42a9b6a595aa",
+    "title": "RSIGame: Autonomous Agentic Game Development with Recursive Self-improvement",
+    "first_seen": "2026-10-06T06:23:54.575458+00:00",
+    "last_seen": "2026-10-06T06:23:54.576856+00:00",
+    "last_sent": "2026-10-06T06:23:54.576856+00:00",
+    "content_hash": "fe3b60822cf17e83e1052d234528b230127059dbacfe7571521d32bbe7ede68f",
+    "update": false
+  },
+  {
+    "id": "event-59861907b0948d1d",
+    "canonical_url": "",
+    "cluster_id": "event-59861907b0948d1d",
+    "title": "Hierarchical Continuous Diffusion Language Models",
+    "first_seen": "2026-10-06T06:23:54.575711+00:00",
+    "last_seen": "2026-10-06T06:23:54.576792+00:00",
+    "last_sent": "2026-10-06T06:23:54.576792+00:00",
+    "content_hash": "0f8da7ae451abb3b9c21b302722d1d4477790d43579eaaa03185f260731e4a2a",
+    "update": false
+  },
+  {
+    "id": "hn-49961057",
+    "canonical_url": "https://techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+    "cluster_id": "event-07a17245370e4841",
+    "title": "Anthropic reported diary entry to police, woman faces felony charge",
+    "first_seen": "2026-10-06T06:23:54.575811+00:00",
+    "last_seen": "2026-10-06T06:23:54.575811+00:00",
+    "last_sent": "2026-10-06T06:23:54.575811+00:00",
+    "content_hash": "0de2412655a32716eaab7b274845f59051626ec29c24c9792b84ee3814824bdf",
+    "update": false
+  },
+  {
+    "id": "hn-49970871",
+    "canonical_url": "https://qlabs.sh/research/dust",
+    "cluster_id": "event-74325b13073e181e",
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "first_seen": "2026-10-06T06:23:54.575844+00:00",
+    "last_seen": "2026-10-06T06:23:54.575844+00:00",
+    "last_sent": "2026-10-06T06:23:54.575844+00:00",
+    "content_hash": "dedcff8a9fcb2fcdaf20e65ff4d8392fa8f5169016dfba4d22a9257c685a5359",
+    "update": false
+  },
+  {
+    "id": "hf-0c7a7375737ef113",
+    "canonical_url": "https://huggingface.co/papers/2610.02388",
+    "cluster_id": "event-5caf988c98453147",
+    "title": "Octrees as an Explicit 3D Language",
+    "first_seen": "2026-10-06T06:23:54.575877+00:00",
+    "last_seen": "2026-10-06T06:23:54.575877+00:00",
+    "last_sent": "2026-10-06T06:23:54.575877+00:00",
+    "content_hash": "f6c2de29655546f0161c0774733fe5b525c93bf2b0eafd7a36e4015e3aca13dd",
+    "update": false
+  },
+  {
+    "id": "224d23a65fe77606ccfd",
+    "canonical_url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions",
+    "cluster_id": "event-7733d01fa1581736",
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "first_seen": "2026-10-06T06:23:54.576011+00:00",
+    "last_seen": "2026-10-06T06:23:54.576565+00:00",
+    "last_sent": "2026-10-06T06:23:54.576565+00:00",
+    "content_hash": "4a4159fa3c948ff4c0be36c89aa0d59cae0a82fda2681151037f2e86101eea10",
+    "update": false
+  },
+  {
+    "id": "67bcb80379db9d284586",
+    "canonical_url": "https://theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+    "cluster_id": "event-f82125714d1faedf",
+    "title": "OpenAI is sticking more ads in ChatGPT",
+    "first_seen": "2026-10-06T06:23:54.576599+00:00",
+    "last_seen": "2026-10-06T06:23:54.576632+00:00",
+    "last_sent": "2026-10-06T06:23:54.576632+00:00",
+    "content_hash": "894a1db77fc8dea3c986550d84b0a1fcdfd1c7879389dac18883ba743e0d924a",
+    "update": false
+  },
+  {
+    "id": "4ed8e7bab66dbffe0ed4",
+    "canonical_url": "https://openai.com/index/eu-text-provenance",
+    "cluster_id": "event-821d049882527555",
+    "title": "Our approach to EU text provenance rules",
+    "first_seen": "2026-10-06T06:23:54.576665+00:00",
+    "last_seen": "2026-10-06T06:23:54.576665+00:00",
+    "last_sent": "2026-10-06T06:23:54.576665+00:00",
+    "content_hash": "f1c11e07a221f0db0ec256ba184ca718a085c9222528da5ff0eecae451a81530",
     "update": false
   }
 ]
