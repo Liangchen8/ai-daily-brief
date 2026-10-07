@@ -1,49 +1,5 @@
 [
   {
-    "id": "event-ca1a7d036227ac8f",
-    "canonical_url": "",
-    "cluster_id": "event-ca1a7d036227ac8f",
-    "title": "Research acceleration: The view inside OpenAI",
-    "first_seen": "2026-09-07T04:54:10.473270+00:00",
-    "last_seen": "2026-09-07T04:54:10.474621+00:00",
-    "last_sent": "2026-09-07T04:54:10.474621+00:00",
-    "content_hash": "1648bb67e3dab75b2148f5bd1f119b8b00c4d524a390d4ac95a82b3ae14b20d4",
-    "update": false
-  },
-  {
-    "id": "event-d979b25cf8a361d9",
-    "canonical_url": "",
-    "cluster_id": "event-d979b25cf8a361d9",
-    "title": "New TIL on using Blender with coding agents on macOS: til.simonwillison.net/llms/blender... \n\nGPT-6 Astra (medium):\n\n> U",
-    "first_seen": "2026-09-07T04:54:10.473460+00:00",
-    "last_seen": "2026-09-07T04:54:10.474829+00:00",
-    "last_sent": "2026-09-07T04:54:10.474829+00:00",
-    "content_hash": "fbc4d0c23068229c9ece6ad6e48f3c32fdddcb30b1ffa54af3fb536ddae9cebb",
-    "update": false
-  },
-  {
-    "id": "event-8337fba316bad7c2",
-    "canonical_url": "",
-    "cluster_id": "event-8337fba316bad7c2",
-    "title": "An Alien Mind",
-    "first_seen": "2026-09-07T04:54:10.474031+00:00",
-    "last_seen": "2026-09-07T04:54:10.474849+00:00",
-    "last_sent": "2026-09-07T04:54:10.474849+00:00",
-    "content_hash": "1fc905ce83fbb6d8d3c49e26bfc98224d2b7e6a8677ae1b679d490367bdf7693",
-    "update": false
-  },
-  {
-    "id": "event-dff00f70d8c771b2",
-    "canonical_url": "",
-    "cluster_id": "event-dff00f70d8c771b2",
-    "title": "Reflection-aware Generative Novel View Synthesis",
-    "first_seen": "2026-09-07T04:54:10.474198+00:00",
-    "last_seen": "2026-09-07T04:54:10.474865+00:00",
-    "last_sent": "2026-09-07T04:54:10.474865+00:00",
-    "content_hash": "5f91328533683897a7c809c5822ed3a10d81edb0493bc639b2ff90ea09850376",
-    "update": false
-  },
-  {
     "id": "event-35ec0bf326dcbdc7",
     "canonical_url": "",
     "cluster_id": "event-35ec0bf326dcbdc7",
@@ -2145,14 +2101,14 @@
     "update": false
   },
   {
-    "id": "hf-c9b244625ff40034",
-    "canonical_url": "https://huggingface.co/papers/2610.02193",
-    "cluster_id": "event-c963d808eaa24374",
+    "id": "event-59861907b0948d1d",
+    "canonical_url": "",
+    "cluster_id": "event-59861907b0948d1d",
     "title": "Hierarchical Continuous Diffusion Language Models",
     "first_seen": "2026-10-03T05:25:41.148074+00:00",
-    "last_seen": "2026-10-04T05:57:40.970590+00:00",
-    "last_sent": "2026-10-04T05:57:40.970590+00:00",
-    "content_hash": "200fc66961cdfdc2d7645d1e33a8f65bb9e15f1295251ab131058c771fa3730e",
+    "last_seen": "2026-10-07T06:03:21.824911+00:00",
+    "last_sent": "2026-10-07T06:03:21.824911+00:00",
+    "content_hash": "4f7c6e1743909c863e821ac815a011bba056c67b9bec0a6217eb8d2efe9d1305",
     "update": true
   },
   {
@@ -2560,6 +2516,105 @@
     "last_seen": "2026-10-06T06:23:54.576665+00:00",
     "last_sent": "2026-10-06T06:23:54.576665+00:00",
     "content_hash": "f1c11e07a221f0db0ec256ba184ca718a085c9222528da5ff0eecae451a81530",
+    "update": false
+  },
+  {
+    "id": "event-8149a96433abee7e",
+    "canonical_url": "",
+    "cluster_id": "event-8149a96433abee7e",
+    "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+    "first_seen": "2026-10-07T06:03:21.823059+00:00",
+    "last_seen": "2026-10-07T06:03:21.824709+00:00",
+    "last_sent": "2026-10-07T06:03:21.824709+00:00",
+    "content_hash": "0acc6f5cfce4751f6ecd66f5958673a95794fe3a7f6666d1d6f9f12c1a0e3e25",
+    "update": false
+  },
+  {
+    "id": "event-10b5660b8a862241",
+    "canonical_url": "",
+    "cluster_id": "event-10b5660b8a862241",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "first_seen": "2026-10-07T06:03:21.823254+00:00",
+    "last_seen": "2026-10-07T06:03:21.824862+00:00",
+    "last_sent": "2026-10-07T06:03:21.824862+00:00",
+    "content_hash": "9c945b7baeb6af5dbda48a75ceda6570388630afb2381e0d3d15e71f5bb274c4",
+    "update": false
+  },
+  {
+    "id": "event-6a9aa09a628e9467",
+    "canonical_url": "",
+    "cluster_id": "event-6a9aa09a628e9467",
+    "title": "Spatial Memory Intelligence: Endowing World Models with Understanding-Driven Long-Term Memory",
+    "first_seen": "2026-10-07T06:03:21.823523+00:00",
+    "last_seen": "2026-10-07T06:03:21.824934+00:00",
+    "last_sent": "2026-10-07T06:03:21.824934+00:00",
+    "content_hash": "095dc7749d93bc6d52a5db6dc9443e3dbe0295a352d9116b2d304c137fa63dd2",
+    "update": false
+  },
+  {
+    "id": "event-02f2b3797f2eb60d",
+    "canonical_url": "",
+    "cluster_id": "event-02f2b3797f2eb60d",
+    "title": "EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling",
+    "first_seen": "2026-10-07T06:03:21.823553+00:00",
+    "last_seen": "2026-10-07T06:03:21.824959+00:00",
+    "last_sent": "2026-10-07T06:03:21.824959+00:00",
+    "content_hash": "70e9f771d06d2ec58a25c028ab522740d460f4a70b024aa128b9b9c9bcc27059",
+    "update": false
+  },
+  {
+    "id": "hf-04d36fab73ed2368",
+    "canonical_url": "https://huggingface.co/papers/2610.03715",
+    "cluster_id": "event-04fdff8dcc5f54ff",
+    "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+    "first_seen": "2026-10-07T06:03:21.823585+00:00",
+    "last_seen": "2026-10-07T06:03:21.823796+00:00",
+    "last_sent": "2026-10-07T06:03:21.823796+00:00",
+    "content_hash": "ccbb84d61b5cb6f090804f0f7cc2614775726a38caeb7f91bcc94f3866a29bf7",
+    "update": false
+  },
+  {
+    "id": "hf-d732cc9e79709149",
+    "canonical_url": "https://huggingface.co/papers/2610.05162",
+    "cluster_id": "event-4239ad411109dde0",
+    "title": "Memadapter: Counterfactual Adaptation Against Memory-induced Sycophancy",
+    "first_seen": "2026-10-07T06:03:21.823647+00:00",
+    "last_seen": "2026-10-07T06:03:21.823647+00:00",
+    "last_sent": "2026-10-07T06:03:21.823647+00:00",
+    "content_hash": "d3855f3068474c245c3f5e2e61f16e9675cdb7fd79639859b6cb3d38c12cdda6",
+    "update": false
+  },
+  {
+    "id": "7b6d80078efe413bd5cc",
+    "canonical_url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout",
+    "cluster_id": "event-33f63c8b7f304713",
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "first_seen": "2026-10-07T06:03:21.824157+00:00",
+    "last_seen": "2026-10-07T06:03:21.824620+00:00",
+    "last_sent": "2026-10-07T06:03:21.824620+00:00",
+    "content_hash": "e454033f1678681dc20c903d404dc87b854f9ef5ca70858561009423d7ca5b46",
+    "update": false
+  },
+  {
+    "id": "d172affd22b68d29f8cc",
+    "canonical_url": "https://theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "cluster_id": "event-bfa5d5004fae479a",
+    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+    "first_seen": "2026-10-07T06:03:21.824348+00:00",
+    "last_seen": "2026-10-07T06:03:21.824529+00:00",
+    "last_sent": "2026-10-07T06:03:21.824529+00:00",
+    "content_hash": "65c084ff19afa8746cb3249dcf7ee3b9b369432f8441772371b7f015b39f1e67",
+    "update": false
+  },
+  {
+    "id": "hn-49978401",
+    "canonical_url": "https://jotbus.com/",
+    "cluster_id": "event-f63c135258bc8d65",
+    "title": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
+    "first_seen": "2026-10-07T06:03:21.824439+00:00",
+    "last_seen": "2026-10-07T06:03:21.824439+00:00",
+    "last_sent": "2026-10-07T06:03:21.824439+00:00",
+    "content_hash": "d40baa26a859cf8500f643d6e6f24708d96c5eb1bbfaabffc0ca214f30254c7a",
     "update": false
   }
 ]
