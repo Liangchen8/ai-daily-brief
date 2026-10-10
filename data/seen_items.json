@@ -1,27 +1,5 @@
 [
   {
-    "id": "hn-49614720",
-    "canonical_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "cluster_id": "event-5949986dd9ae239a",
-    "title": "ChatGPT Images 2.5",
-    "first_seen": "2026-09-09T04:48:36.217328+00:00",
-    "last_seen": "2026-09-10T05:10:47.793334+00:00",
-    "last_sent": "2026-09-10T05:10:47.793334+00:00",
-    "content_hash": "2b26916c9b620fefbe66ea7b05c7be8046d643ef5f9634e81224c6e34e9e1fc3",
-    "update": true
-  },
-  {
-    "id": "event-d0a5c1a5368a798d",
-    "canonical_url": "",
-    "cluster_id": "event-d0a5c1a5368a798d",
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "first_seen": "2026-09-10T05:10:47.792594+00:00",
-    "last_seen": "2026-09-10T05:10:47.794172+00:00",
-    "last_sent": "2026-09-10T05:10:47.794172+00:00",
-    "content_hash": "85d3b7fb9e4002813db58deef274bd7ff2465bbe4f0f6262dcd37a3c4dc490ae",
-    "update": false
-  },
-  {
     "id": "event-27e4793838a220e3",
     "canonical_url": "",
     "cluster_id": "event-27e4793838a220e3",
@@ -31,50 +9,6 @@
     "last_sent": "2026-09-14T05:02:00.888188+00:00",
     "content_hash": "0a793cf6eed5ed7ef0cbbdb246ae63028a3d9eac2bb2c8ed4b493a0226bba6cf",
     "update": true
-  },
-  {
-    "id": "event-40c3af4bc09c7224",
-    "canonical_url": "",
-    "cluster_id": "event-40c3af4bc09c7224",
-    "title": "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation",
-    "first_seen": "2026-09-10T05:10:47.793087+00:00",
-    "last_seen": "2026-09-10T05:10:47.794406+00:00",
-    "last_sent": "2026-09-10T05:10:47.794406+00:00",
-    "content_hash": "41aa4d0f149b7fd53b10015978e910b52f784d8ef1877cafd640f139993327fd",
-    "update": false
-  },
-  {
-    "id": "event-83d576db9dbfc81f",
-    "canonical_url": "",
-    "cluster_id": "event-83d576db9dbfc81f",
-    "title": "Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout",
-    "first_seen": "2026-09-10T05:10:47.793162+00:00",
-    "last_seen": "2026-09-10T05:10:47.794427+00:00",
-    "last_sent": "2026-09-10T05:10:47.794427+00:00",
-    "content_hash": "efd82002e7f01e3bf53786450b7eb1f5f099098a86e9968144479e82a490160b",
-    "update": false
-  },
-  {
-    "id": "event-b36a1688bcc244f0",
-    "canonical_url": "",
-    "cluster_id": "event-b36a1688bcc244f0",
-    "title": "Weakly General AI achieved (at least according to the criteria set in Metaculus in 2020) & a year before the most recent",
-    "first_seen": "2026-09-10T05:10:47.793310+00:00",
-    "last_seen": "2026-09-10T05:10:47.794451+00:00",
-    "last_sent": "2026-09-10T05:10:47.794451+00:00",
-    "content_hash": "196ceab017583bb0276da913c7a699b95312fad0e452a1cca87654cfd7498582",
-    "update": false
-  },
-  {
-    "id": "hn-49615537",
-    "canonical_url": "https://ai.meta.com/muse",
-    "cluster_id": "event-d0c2c588a3393e92",
-    "title": "Muse – Meta’s personal AI agent",
-    "first_seen": "2026-09-10T05:10:47.793568+00:00",
-    "last_seen": "2026-09-10T05:10:47.793568+00:00",
-    "last_sent": "2026-09-10T05:10:47.793568+00:00",
-    "content_hash": "22b8ca3a4901d1ebd41456021a460e459dd4c2dd2f408d9c8b4f5f3f8ca3331e",
-    "update": false
   },
   {
     "id": "event-3a317d72239e97a4",
@@ -2505,6 +2439,83 @@
     "last_seen": "2026-10-09T06:18:27.751340+00:00",
     "last_sent": "2026-10-09T06:18:27.751340+00:00",
     "content_hash": "9a2a549f02d3510c852ea9bcc652a7326eeaafba1f81010bcfccdb06a24cab71",
+    "update": false
+  },
+  {
+    "id": "event-0a60fbd5b5f4a548",
+    "canonical_url": "",
+    "cluster_id": "event-0a60fbd5b5f4a548",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "first_seen": "2026-10-10T06:00:30.020876+00:00",
+    "last_seen": "2026-10-10T06:00:30.022675+00:00",
+    "last_sent": "2026-10-10T06:00:30.022675+00:00",
+    "content_hash": "1929639ee185ad7e9deaa72f8f78e5a7fa5cce1a94fb2b8933933304b4f40e46",
+    "update": false
+  },
+  {
+    "id": "event-b0a5cc0a3144f6c3",
+    "canonical_url": "",
+    "cluster_id": "event-b0a5cc0a3144f6c3",
+    "title": "SuperNav: An Agentic Navigation System for Any Task in Any Scene",
+    "first_seen": "2026-10-10T06:00:30.021322+00:00",
+    "last_seen": "2026-10-10T06:00:30.022817+00:00",
+    "last_sent": "2026-10-10T06:00:30.022817+00:00",
+    "content_hash": "5f9bec2935e21e9120dcafdc1e55a09b5a643380600adb1152bbb492ae9d9be7",
+    "update": false
+  },
+  {
+    "id": "event-5d6c82fe9420a4e3",
+    "canonical_url": "",
+    "cluster_id": "event-5d6c82fe9420a4e3",
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "first_seen": "2026-10-10T06:00:30.021474+00:00",
+    "last_seen": "2026-10-10T06:00:30.022852+00:00",
+    "last_sent": "2026-10-10T06:00:30.022852+00:00",
+    "content_hash": "f3307a243df114072fa2d195af0b60f63c7687e1e56bbfddb99941b1bf62e42c",
+    "update": false
+  },
+  {
+    "id": "event-543db59389145fcd",
+    "canonical_url": "",
+    "cluster_id": "event-543db59389145fcd",
+    "title": "As a researcher who did early some work on the productivity impacts of AI chatbots using RCTs, I’d note a lack of simila",
+    "first_seen": "2026-10-10T06:00:30.021564+00:00",
+    "last_seen": "2026-10-10T06:00:30.022879+00:00",
+    "last_sent": "2026-10-10T06:00:30.022879+00:00",
+    "content_hash": "41e55c628a4076a383da490e2593e91106e6c2ad145b9054c2d6cefe39ffd28f",
+    "update": false
+  },
+  {
+    "id": "event-ded28c68947c06e5",
+    "canonical_url": "",
+    "cluster_id": "event-ded28c68947c06e5",
+    "title": "Why are coding agents so dumb?",
+    "first_seen": "2026-10-10T06:00:30.021654+00:00",
+    "last_seen": "2026-10-10T06:00:30.022909+00:00",
+    "last_sent": "2026-10-10T06:00:30.022909+00:00",
+    "content_hash": "134421aaa0ca91ae1213864bb23456d5dbf0712c68b69a7a075abbc0bed19951",
+    "update": false
+  },
+  {
+    "id": "35427d389fd63d7a0e78",
+    "canonical_url": "https://openai.com/index/sophos",
+    "cluster_id": "event-0a406d15cd20bd9f",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "first_seen": "2026-10-10T06:00:30.021743+00:00",
+    "last_seen": "2026-10-10T06:00:30.021743+00:00",
+    "last_sent": "2026-10-10T06:00:30.021743+00:00",
+    "content_hash": "f739ed3632c76985d648388382b03092091a7590e96a8ac4026cbb29318bf173",
+    "update": false
+  },
+  {
+    "id": "arxiv-5039b16bf5335cad",
+    "canonical_url": "http://arxiv.org/abs/2610.12452v1",
+    "cluster_id": "event-a09f0afb3643a8d6",
+    "title": "BrickBench: Evaluating Agentic Brick Design",
+    "first_seen": "2026-10-10T06:00:30.022587+00:00",
+    "last_seen": "2026-10-10T06:00:30.022587+00:00",
+    "last_sent": "2026-10-10T06:00:30.022587+00:00",
+    "content_hash": "535c952cfa40f8be01468fefe3bf3ee84ad5d97d43f2d8bcee9294b8d84b2863",
     "update": false
   }
 ]
