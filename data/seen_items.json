@@ -11,105 +11,6 @@
     "update": true
   },
   {
-    "id": "event-5aef69e5e5f72140",
-    "canonical_url": "",
-    "cluster_id": "event-5aef69e5e5f72140",
-    "title": "This week brought some of the clearest statements we've heard from both Anthropic & OpenAI that some form of recursive s",
-    "first_seen": "2026-09-13T05:14:25.413901+00:00",
-    "last_seen": "2026-09-13T05:14:25.415321+00:00",
-    "last_sent": "2026-09-13T05:14:25.415321+00:00",
-    "content_hash": "ae9b744cbe8d811f53525e980fef01107b0a64cf0d765b77c44426da7b74fd93",
-    "update": false
-  },
-  {
-    "id": "event-344f0dfd82a32049",
-    "canonical_url": "",
-    "cluster_id": "event-344f0dfd82a32049",
-    "title": "Here's a automated forecasting system to estimate catastrophic risk from some major experts on forecasting.\n\nThe models",
-    "first_seen": "2026-09-13T05:14:25.414218+00:00",
-    "last_seen": "2026-09-13T05:14:25.415350+00:00",
-    "last_sent": "2026-09-13T05:14:25.415350+00:00",
-    "content_hash": "69158b92d46e4b197edeb2c9c90417d6b711066cc0022e5f1a8ef8b7e1022c7c",
-    "update": false
-  },
-  {
-    "id": "event-004a5e73f818cbd9",
-    "canonical_url": "",
-    "cluster_id": "event-004a5e73f818cbd9",
-    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-    "first_seen": "2026-09-13T05:14:25.414272+00:00",
-    "last_seen": "2026-09-13T05:14:25.415374+00:00",
-    "last_sent": "2026-09-13T05:14:25.415374+00:00",
-    "content_hash": "22f27390c5ed575b03f70dc6a3cf2ea3858da400a32cbd252777b309d1705389",
-    "update": false
-  },
-  {
-    "id": "event-6873294eaa2d9391",
-    "canonical_url": "",
-    "cluster_id": "event-6873294eaa2d9391",
-    "title": "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining",
-    "first_seen": "2026-09-13T05:14:25.414379+00:00",
-    "last_seen": "2026-09-13T05:14:25.415399+00:00",
-    "last_sent": "2026-09-13T05:14:25.415399+00:00",
-    "content_hash": "8cc654516b9652e9cc5f9887d7216e3e9b0cce287ed49b872c2dd2787ada2b83",
-    "update": false
-  },
-  {
-    "id": "event-95b7cf6a071d99d7",
-    "canonical_url": "",
-    "cluster_id": "event-95b7cf6a071d99d7",
-    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "first_seen": "2026-09-13T05:14:25.414807+00:00",
-    "last_seen": "2026-09-13T05:14:25.415431+00:00",
-    "last_sent": "2026-09-13T05:14:25.415431+00:00",
-    "content_hash": "2239185f51b334014345a218e00d93e8ff559d77ee1f6ee784056dc3dd45c04a",
-    "update": false
-  },
-  {
-    "id": "5453706f722c21b4b250",
-    "canonical_url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating",
-    "cluster_id": "event-3b12c83b560a1088",
-    "title": "OpenAI’s feud with mathematicians is only escalating",
-    "first_seen": "2026-09-13T05:14:25.414834+00:00",
-    "last_seen": "2026-09-13T05:14:25.415258+00:00",
-    "last_sent": "2026-09-13T05:14:25.415258+00:00",
-    "content_hash": "157d577e8761aa669d5e0193535e5ce94b6d8dd2a1d44e1a309aef321bd78a79",
-    "update": false
-  },
-  {
-    "id": "hn-49662767",
-    "canonical_url": "https://github.com/kennethwolters/litelm",
-    "cluster_id": "event-972e8d1137f2a77e",
-    "title": "Litelm: LiteLLM Without the Bloat",
-    "first_seen": "2026-09-13T05:14:25.414995+00:00",
-    "last_seen": "2026-09-13T05:14:25.414995+00:00",
-    "last_sent": "2026-09-13T05:14:25.414995+00:00",
-    "content_hash": "fb18fff158429a6302e2821d342c2c4f089ff288aad126aebf638b74c4b8228c",
-    "update": false
-  },
-  {
-    "id": "hn-49666425",
-    "canonical_url": "https://washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says",
-    "cluster_id": "event-93a7b6b78f86ddfc",
-    "title": "Houthis used Anthropic to develop guided weapons",
-    "first_seen": "2026-09-13T05:14:25.415154+00:00",
-    "last_seen": "2026-09-13T05:14:25.415154+00:00",
-    "last_sent": "2026-09-13T05:14:25.415154+00:00",
-    "content_hash": "f051e0a671aaa18f244220545560fb25471369cf8e1e925695cdba13938c0314",
-    "update": false
-  },
-  {
-    "id": "hn-49674280",
-    "canonical_url": "https://tokendelivery.ai/",
-    "cluster_id": "event-edbe5f941c49397f",
-    "title": "Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
-    "first_seen": "2026-09-13T05:14:25.415232+00:00",
-    "last_seen": "2026-09-13T05:14:25.415232+00:00",
-    "last_sent": "2026-09-13T05:14:25.415232+00:00",
-    "content_hash": "9d09aa21ef5420e9c408c7d6907159cb9efd364b2629fbd0ea22962dfcfdcf6a",
-    "update": false
-  },
-  {
     "id": "event-8057a8d1c8b86a27",
     "canonical_url": "",
     "cluster_id": "event-8057a8d1c8b86a27",
@@ -2362,6 +2263,94 @@
     "last_seen": "2026-10-12T06:03:59.254834+00:00",
     "last_sent": "2026-10-12T06:03:59.254834+00:00",
     "content_hash": "097c936db009002108a8c123f9d0f7b10fde38b7bf1391ed9accb8535c1a505d",
+    "update": false
+  },
+  {
+    "id": "event-4cb529a41530f3b5",
+    "canonical_url": "",
+    "cluster_id": "event-4cb529a41530f3b5",
+    "title": "Simulating student learning for better AI tutoring",
+    "first_seen": "2026-10-13T06:53:40.260503+00:00",
+    "last_seen": "2026-10-13T06:53:40.261545+00:00",
+    "last_sent": "2026-10-13T06:53:40.261545+00:00",
+    "content_hash": "cf26db947219e207cb4a8e81dc734f6c1cb85b8364a1e79f081221c9fce26ffb",
+    "update": false
+  },
+  {
+    "id": "event-f18e2e6fa5c34203",
+    "canonical_url": "",
+    "cluster_id": "event-f18e2e6fa5c34203",
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "first_seen": "2026-10-13T06:53:40.260795+00:00",
+    "last_seen": "2026-10-13T06:53:40.261799+00:00",
+    "last_sent": "2026-10-13T06:53:40.261799+00:00",
+    "content_hash": "65b036ae09751f6252e802621fbbffb5ceeb00d6f34cb553654a59cfca297c95",
+    "update": false
+  },
+  {
+    "id": "event-e8d679b6f940762e",
+    "canonical_url": "",
+    "cluster_id": "event-e8d679b6f940762e",
+    "title": "ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents",
+    "first_seen": "2026-10-13T06:53:40.260847+00:00",
+    "last_seen": "2026-10-13T06:53:40.261822+00:00",
+    "last_sent": "2026-10-13T06:53:40.261822+00:00",
+    "content_hash": "280e912c76cedb69ded0543923d0ab8d4c17bedb04b94080036caa3b8809bf88",
+    "update": false
+  },
+  {
+    "id": "event-63e666682cb1e39f",
+    "canonical_url": "",
+    "cluster_id": "event-63e666682cb1e39f",
+    "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
+    "first_seen": "2026-10-13T06:53:40.260928+00:00",
+    "last_seen": "2026-10-13T06:53:40.261845+00:00",
+    "last_sent": "2026-10-13T06:53:40.261845+00:00",
+    "content_hash": "666c9a38fde1292cfefc5c07cc3d2f6f587fb653ae82b4494b36729f31b8da42",
+    "update": false
+  },
+  {
+    "id": "hf-2d41eaab42a61e84",
+    "canonical_url": "https://huggingface.co/papers/2610.13944",
+    "cluster_id": "event-e2ab26339965fc63",
+    "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
+    "first_seen": "2026-10-13T06:53:40.261004+00:00",
+    "last_seen": "2026-10-13T06:53:40.261004+00:00",
+    "last_sent": "2026-10-13T06:53:40.261004+00:00",
+    "content_hash": "32352ac5b0c60ebdb5f06df23e2e10d51f80f940c0aac4fa5e57e0a75251d0c2",
+    "update": false
+  },
+  {
+    "id": "event-ba6f98edaf86e6d2",
+    "canonical_url": "",
+    "cluster_id": "event-ba6f98edaf86e6d2",
+    "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+    "first_seen": "2026-10-13T06:53:40.261033+00:00",
+    "last_seen": "2026-10-13T06:53:40.261659+00:00",
+    "last_sent": "2026-10-13T06:53:40.261659+00:00",
+    "content_hash": "4c642e38a300e93f518c0cc6882e76b423892d8a8a8bd03cc87aabc402d6fa39",
+    "update": false
+  },
+  {
+    "id": "hn-50065932",
+    "canonical_url": "https://argmin.net/p/faster-fourier-transforms",
+    "cluster_id": "event-f224ac86f2aa49ed",
+    "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+    "first_seen": "2026-10-13T06:53:40.261060+00:00",
+    "last_seen": "2026-10-13T06:53:40.261060+00:00",
+    "last_sent": "2026-10-13T06:53:40.261060+00:00",
+    "content_hash": "e51163bfc83e140d14e7f20450eef26091f0955242b2feb42db8c7d488232d98",
+    "update": false
+  },
+  {
+    "id": "hn-50063717",
+    "canonical_url": "https://github.com/prabanta-dev/janas",
+    "cluster_id": "event-0b2c3e009a695b16",
+    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+    "first_seen": "2026-10-13T06:53:40.261139+00:00",
+    "last_seen": "2026-10-13T06:53:40.261139+00:00",
+    "last_sent": "2026-10-13T06:53:40.261139+00:00",
+    "content_hash": "fddf2b0ed2a43879811d683ff1ad2ba8f32d0216e0b3c872d903ec90f1d20cc6",
     "update": false
   }
 ]
