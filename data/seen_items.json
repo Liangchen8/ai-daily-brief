@@ -2332,14 +2332,14 @@
     "update": false
   },
   {
-    "id": "hn-50065932",
-    "canonical_url": "https://argmin.net/p/faster-fourier-transforms",
-    "cluster_id": "event-f224ac86f2aa49ed",
-    "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+    "id": "event-9f8f00db833beaa0",
+    "canonical_url": "",
+    "cluster_id": "event-9f8f00db833beaa0",
+    "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
     "first_seen": "2026-10-13T06:53:40.261060+00:00",
-    "last_seen": "2026-10-13T06:53:40.261060+00:00",
-    "last_sent": "2026-10-13T06:53:40.261060+00:00",
-    "content_hash": "e51163bfc83e140d14e7f20450eef26091f0955242b2feb42db8c7d488232d98",
+    "last_seen": "2026-10-14T04:55:39.646521+00:00",
+    "last_sent": "2026-10-14T04:55:39.646521+00:00",
+    "content_hash": "1613e07a14d67ed2c05334d75ae4927f9c812ce52e8d793f023866d6944dd7ee",
     "update": false
   },
   {
@@ -2351,6 +2351,171 @@
     "last_seen": "2026-10-13T06:53:40.261139+00:00",
     "last_sent": "2026-10-13T06:53:40.261139+00:00",
     "content_hash": "fddf2b0ed2a43879811d683ff1ad2ba8f32d0216e0b3c872d903ec90f1d20cc6",
+    "update": false
+  },
+  {
+    "id": "event-98366fb1244f9435",
+    "canonical_url": "",
+    "cluster_id": "event-98366fb1244f9435",
+    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+    "first_seen": "2026-10-14T04:55:39.644605+00:00",
+    "last_seen": "2026-10-14T04:55:39.646295+00:00",
+    "last_sent": "2026-10-14T04:55:39.646295+00:00",
+    "content_hash": "3660aa8ce9226c46c86fe87c992438b18b68d8c10710ac1e0f288c8bb4a5cfcf",
+    "update": false
+  },
+  {
+    "id": "event-03e6552fdb4b26d6",
+    "canonical_url": "",
+    "cluster_id": "event-03e6552fdb4b26d6",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "first_seen": "2026-10-14T04:55:39.644806+00:00",
+    "last_seen": "2026-10-14T04:55:39.646488+00:00",
+    "last_sent": "2026-10-14T04:55:39.646488+00:00",
+    "content_hash": "94ce24a9c7981f48b979fd05acc5e103f61a3bf9e549f7c8ccd051f11ccaa461",
+    "update": false
+  },
+  {
+    "id": "event-905394fbea385c8a",
+    "canonical_url": "",
+    "cluster_id": "event-905394fbea385c8a",
+    "title": "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models",
+    "first_seen": "2026-10-14T04:55:39.645219+00:00",
+    "last_seen": "2026-10-14T04:55:39.646548+00:00",
+    "last_sent": "2026-10-14T04:55:39.646548+00:00",
+    "content_hash": "cd0a33971d628359b1423f8c65ca3f87857d2bafa29344e677bf570256c8309f",
+    "update": false
+  },
+  {
+    "id": "event-0d1b3f9743e9f8c7",
+    "canonical_url": "",
+    "cluster_id": "event-0d1b3f9743e9f8c7",
+    "title": "SuperNav: An Agentic Navigation System for Any Task in Any Scene",
+    "first_seen": "2026-10-14T04:55:39.645276+00:00",
+    "last_seen": "2026-10-14T04:55:39.646576+00:00",
+    "last_sent": "2026-10-14T04:55:39.646576+00:00",
+    "content_hash": "e1c2c53261a478d965e94750176277b699500ceec76cbd69a85af963222d5766",
+    "update": false
+  },
+  {
+    "id": "hf-1f545aef44db9f86",
+    "canonical_url": "https://huggingface.co/papers/2610.12374",
+    "cluster_id": "event-a1ef19dda247c112",
+    "title": "AgentGarten: Code Worlds for Evolving Agents",
+    "first_seen": "2026-10-14T04:55:39.645317+00:00",
+    "last_seen": "2026-10-14T04:55:39.645317+00:00",
+    "last_sent": "2026-10-14T04:55:39.645317+00:00",
+    "content_hash": "58c5f27090f1b211a893964762a9e2db87739d55281023f70025c847db8a3254",
+    "update": false
+  },
+  {
+    "id": "hf-e2d41b480a03dc95",
+    "canonical_url": "https://huggingface.co/papers/2610.12611",
+    "cluster_id": "event-eb4a2ea306a06ebb",
+    "title": "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments",
+    "first_seen": "2026-10-14T04:55:39.645355+00:00",
+    "last_seen": "2026-10-14T04:55:39.645355+00:00",
+    "last_sent": "2026-10-14T04:55:39.645355+00:00",
+    "content_hash": "7c8d4dc96bca1f28755fd876ca21dfdfd17fdf223c1c1f6425a00cf9e78e8a30",
+    "update": false
+  },
+  {
+    "id": "hf-91d24abeba433f45",
+    "canonical_url": "https://huggingface.co/papers/2610.12772",
+    "cluster_id": "event-386e6fbff916e4c2",
+    "title": "Reflex: Visually Grounded Reactive Humanoid Control",
+    "first_seen": "2026-10-14T04:55:39.645425+00:00",
+    "last_seen": "2026-10-14T04:55:39.645425+00:00",
+    "last_sent": "2026-10-14T04:55:39.645425+00:00",
+    "content_hash": "75872f39ad53e26a9d8b758b24d6c86c2060382e0cc5e58fa7a1d6b00c438d24",
+    "update": false
+  },
+  {
+    "id": "hf-031b762547f003b1",
+    "canonical_url": "https://huggingface.co/papers/2610.13630",
+    "cluster_id": "event-2aeface891eecec7",
+    "title": "Multi-Stream Attention Residuals",
+    "first_seen": "2026-10-14T04:55:39.645524+00:00",
+    "last_seen": "2026-10-14T04:55:39.645524+00:00",
+    "last_sent": "2026-10-14T04:55:39.645524+00:00",
+    "content_hash": "07b613695a8e50108874e9584317a5bc918b4e4885386d9f730cecf5ecc88ee0",
+    "update": false
+  },
+  {
+    "id": "hf-3182152b7d419858",
+    "canonical_url": "https://huggingface.co/papers/2610.13912",
+    "cluster_id": "event-af26633a1c2dbf8f",
+    "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+    "first_seen": "2026-10-14T04:55:39.645557+00:00",
+    "last_seen": "2026-10-14T04:55:39.645557+00:00",
+    "last_sent": "2026-10-14T04:55:39.645557+00:00",
+    "content_hash": "88acad1ce12f0be28bc8a8e3bfd5d46276b92dba7c2c46e853ef05f8637c31d6",
+    "update": false
+  },
+  {
+    "id": "hf-26d8054945510646",
+    "canonical_url": "https://huggingface.co/papers/2610.12570",
+    "cluster_id": "event-8997af5b8002c153",
+    "title": "Contextual Correction of Parallel Drafts for Speculative Decoding",
+    "first_seen": "2026-10-14T04:55:39.645591+00:00",
+    "last_seen": "2026-10-14T04:55:39.645591+00:00",
+    "last_sent": "2026-10-14T04:55:39.645591+00:00",
+    "content_hash": "25481ffcb594b022f893bf02c64cdf02fdbc84cf53d6d5a546925c86a28252f0",
+    "update": false
+  },
+  {
+    "id": "hn-50073633",
+    "canonical_url": "https://anthropic.com/engineering/redesigning-source-control",
+    "cluster_id": "event-6e05e0c710ea3119",
+    "title": "Redesigning source control at Anthropic",
+    "first_seen": "2026-10-14T04:55:39.645657+00:00",
+    "last_seen": "2026-10-14T04:55:39.645657+00:00",
+    "last_sent": "2026-10-14T04:55:39.645657+00:00",
+    "content_hash": "44f832f2cdbe2ec240e495dc4711daf36cc16aa99c2a3c1bca28c755a63bcf2e",
+    "update": false
+  },
+  {
+    "id": "hf-403604ecbfe65532",
+    "canonical_url": "https://huggingface.co/papers/2610.13947",
+    "cluster_id": "event-a1838d12490b0dbc",
+    "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+    "first_seen": "2026-10-14T04:55:39.645689+00:00",
+    "last_seen": "2026-10-14T04:55:39.645689+00:00",
+    "last_sent": "2026-10-14T04:55:39.645689+00:00",
+    "content_hash": "8abf887ac25bef66305efffe51aa3a016dd53c38c8fd59c24cca64f43375c26f",
+    "update": false
+  },
+  {
+    "id": "hf-0f44611a54a9e738",
+    "canonical_url": "https://huggingface.co/papers/2610.13832",
+    "cluster_id": "event-f22f8f25dfab524a",
+    "title": "SpatialASM: Internalizing Active Mentalization for Spatial Reasoning",
+    "first_seen": "2026-10-14T04:55:39.645723+00:00",
+    "last_seen": "2026-10-14T04:55:39.645723+00:00",
+    "last_sent": "2026-10-14T04:55:39.645723+00:00",
+    "content_hash": "3e946d4130e0e797043b2a36db46e98276689e1109a61e16d99cf822e72358da",
+    "update": false
+  },
+  {
+    "id": "hn-50068036",
+    "canonical_url": "https://blog.character.ai/an-update-on-character-ai",
+    "cluster_id": "event-9273a19f9b591eba",
+    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+    "first_seen": "2026-10-14T04:55:39.645757+00:00",
+    "last_seen": "2026-10-14T04:55:39.645757+00:00",
+    "last_sent": "2026-10-14T04:55:39.645757+00:00",
+    "content_hash": "f6ac9c05e01471f28bc604669676ccca782b8c20015e5126e575cfc1ac38b7fc",
+    "update": false
+  },
+  {
+    "id": "hn-50059523",
+    "canonical_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
+    "cluster_id": "event-7ed33463be7d3e2b",
+    "title": "AI coding agents generate more code, but not more software",
+    "first_seen": "2026-10-14T04:55:39.645790+00:00",
+    "last_seen": "2026-10-14T04:55:39.645790+00:00",
+    "last_sent": "2026-10-14T04:55:39.645790+00:00",
+    "content_hash": "43247afd8f3f5bc48d4239509bcc3ea9ffc1f974e0102513aa2509e763874c03",
     "update": false
   }
 ]
