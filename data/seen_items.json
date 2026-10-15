@@ -1,16 +1,5 @@
 [
   {
-    "id": "event-27e4793838a220e3",
-    "canonical_url": "",
-    "cluster_id": "event-27e4793838a220e3",
-    "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
-    "first_seen": "2026-09-10T05:10:47.792981+00:00",
-    "last_seen": "2026-09-14T05:02:00.888188+00:00",
-    "last_sent": "2026-09-14T05:02:00.888188+00:00",
-    "content_hash": "0a793cf6eed5ed7ef0cbbdb246ae63028a3d9eac2bb2c8ed4b493a0226bba6cf",
-    "update": true
-  },
-  {
     "id": "event-8057a8d1c8b86a27",
     "canonical_url": "",
     "cluster_id": "event-8057a8d1c8b86a27",
@@ -19,61 +8,6 @@
     "last_seen": "2026-09-16T04:54:49.218517+00:00",
     "last_sent": "2026-09-16T04:54:49.218517+00:00",
     "content_hash": "777eacb725be14a0fe7d17f93f6dc80f5047ea5a7de2e1d3c714eefc695d48c2",
-    "update": false
-  },
-  {
-    "id": "event-3c8a02d5c69e4702",
-    "canonical_url": "",
-    "cluster_id": "event-3c8a02d5c69e4702",
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "first_seen": "2026-09-14T05:02:00.887068+00:00",
-    "last_seen": "2026-09-14T05:02:00.888140+00:00",
-    "last_sent": "2026-09-14T05:02:00.888140+00:00",
-    "content_hash": "44cf546119bdb8462467f6d36e733e3e3b8943099d6c3aab87a2aa9d938eee5c",
-    "update": false
-  },
-  {
-    "id": "event-08441ef928a40652",
-    "canonical_url": "",
-    "cluster_id": "event-08441ef928a40652",
-    "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
-    "first_seen": "2026-09-14T05:02:00.887571+00:00",
-    "last_seen": "2026-09-14T05:02:00.888167+00:00",
-    "last_sent": "2026-09-14T05:02:00.888167+00:00",
-    "content_hash": "fb1e8ca936f65c9c9169c8a1e915531f57e50c5afd4f76ae6e6a6e6d26b6a88e",
-    "update": false
-  },
-  {
-    "id": "event-dfe85ba5b05a0872",
-    "canonical_url": "",
-    "cluster_id": "event-dfe85ba5b05a0872",
-    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-    "first_seen": "2026-09-14T05:02:00.887905+00:00",
-    "last_seen": "2026-09-14T05:02:00.888204+00:00",
-    "last_sent": "2026-09-14T05:02:00.888204+00:00",
-    "content_hash": "f186829dfba980ac0d5fcd5e9a89935fb4b19031ab4dec84ad0eba1a62814a00",
-    "update": false
-  },
-  {
-    "id": "event-b03507484e61c687",
-    "canonical_url": "",
-    "cluster_id": "event-b03507484e61c687",
-    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-    "first_seen": "2026-09-14T05:02:00.887945+00:00",
-    "last_seen": "2026-09-14T05:02:00.888221+00:00",
-    "last_sent": "2026-09-14T05:02:00.888221+00:00",
-    "content_hash": "73439b8982932206c2b3819fc826f9871ebce9e0b89127fd9dae9cb504c84103",
-    "update": false
-  },
-  {
-    "id": "hn-49690627",
-    "canonical_url": "https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct",
-    "cluster_id": "event-154d37975769ee16",
-    "title": "Opportunistic AI detects colorectal cancer using routine, noncontrast CT",
-    "first_seen": "2026-09-14T05:02:00.888112+00:00",
-    "last_seen": "2026-09-14T05:02:00.888112+00:00",
-    "last_sent": "2026-09-14T05:02:00.888112+00:00",
-    "content_hash": "cf101747c4eefca9bb85ca81bf1671aba826573bb13f919c700e18b901a5137b",
     "update": false
   },
   {
@@ -2516,6 +2450,83 @@
     "last_seen": "2026-10-14T04:55:39.645790+00:00",
     "last_sent": "2026-10-14T04:55:39.645790+00:00",
     "content_hash": "43247afd8f3f5bc48d4239509bcc3ea9ffc1f974e0102513aa2509e763874c03",
+    "update": false
+  },
+  {
+    "id": "event-9159208182de1c81",
+    "canonical_url": "",
+    "cluster_id": "event-9159208182de1c81",
+    "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+    "first_seen": "2026-10-15T04:41:56.723622+00:00",
+    "last_seen": "2026-10-15T04:41:56.725446+00:00",
+    "last_sent": "2026-10-15T04:41:56.725446+00:00",
+    "content_hash": "86564c1f97492433f4a686ba10e714a01cd349acc9ce92e3fc04b4f621f72eba",
+    "update": false
+  },
+  {
+    "id": "event-5f771eb1511d9ca0",
+    "canonical_url": "",
+    "cluster_id": "event-5f771eb1511d9ca0",
+    "title": "The EU’s next chapter in AI is agentic",
+    "first_seen": "2026-10-15T04:41:56.723864+00:00",
+    "last_seen": "2026-10-15T04:41:56.725620+00:00",
+    "last_sent": "2026-10-15T04:41:56.725620+00:00",
+    "content_hash": "b43b80b88c761ef74eb5b4adede55f7203b9861e1b6c201a8ca8585c17ee83ad",
+    "update": false
+  },
+  {
+    "id": "event-e73c32e5663e834a",
+    "canonical_url": "",
+    "cluster_id": "event-e73c32e5663e834a",
+    "title": "Agent-Reflex: Teaching Language Agents to Act Reflectively",
+    "first_seen": "2026-10-15T04:41:56.724142+00:00",
+    "last_seen": "2026-10-15T04:41:56.725706+00:00",
+    "last_sent": "2026-10-15T04:41:56.725706+00:00",
+    "content_hash": "0b7a8049852d25e6048fbaf92f5909c00b8700260ce39cc49521e9b78109aad7",
+    "update": false
+  },
+  {
+    "id": "event-e22b2e49be0942ac",
+    "canonical_url": "",
+    "cluster_id": "event-e22b2e49be0942ac",
+    "title": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
+    "first_seen": "2026-10-15T04:41:56.724178+00:00",
+    "last_seen": "2026-10-15T04:41:56.725755+00:00",
+    "last_sent": "2026-10-15T04:41:56.725755+00:00",
+    "content_hash": "b2129d9cc356a038356cdd62a1a92eba37a3d5f086df88c30bd00c353da66175",
+    "update": false
+  },
+  {
+    "id": "event-4c79be326b016bc9",
+    "canonical_url": "",
+    "cluster_id": "event-4c79be326b016bc9",
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "first_seen": "2026-10-15T04:41:56.724290+00:00",
+    "last_seen": "2026-10-15T04:41:56.725788+00:00",
+    "last_sent": "2026-10-15T04:41:56.725788+00:00",
+    "content_hash": "a4b93b174782d43272873aea75bde3c08d3fc24111134ff36315771033f66767",
+    "update": false
+  },
+  {
+    "id": "hf-cf3c7d6ca1c2b7db",
+    "canonical_url": "https://huggingface.co/papers/2610.18484",
+    "cluster_id": "event-0b95600894348b50",
+    "title": "ReTerm: Recovery Training for Self-Improving Terminal Agents",
+    "first_seen": "2026-10-15T04:41:56.724474+00:00",
+    "last_seen": "2026-10-15T04:41:56.724474+00:00",
+    "last_sent": "2026-10-15T04:41:56.724474+00:00",
+    "content_hash": "04b5dd77f4e44ff032bd31552be5eff45bd672d237724e113cfbb850c9d88a56",
+    "update": false
+  },
+  {
+    "id": "hn-50090842",
+    "canonical_url": "https://lwn.net/Articles/1100449",
+    "cluster_id": "event-50810a1cbc3ac7c9",
+    "title": "Linus Torvalds's first LLM-assisted patch series",
+    "first_seen": "2026-10-15T04:41:56.724695+00:00",
+    "last_seen": "2026-10-15T04:41:56.724695+00:00",
+    "last_sent": "2026-10-15T04:41:56.724695+00:00",
+    "content_hash": "16e4f10d51bb27ba373d17de9b66dad9e62cf957577ee54551dc777a83ddcdbd",
     "update": false
   }
 ]
