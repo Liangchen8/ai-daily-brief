@@ -11,83 +11,6 @@
     "update": false
   },
   {
-    "id": "event-a128606f8ffbf345",
-    "canonical_url": "",
-    "cluster_id": "event-a128606f8ffbf345",
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "first_seen": "2026-09-15T05:01:30.219878+00:00",
-    "last_seen": "2026-09-15T05:01:30.220777+00:00",
-    "last_sent": "2026-09-15T05:01:30.220777+00:00",
-    "content_hash": "af6ec7fee480c02c1fd0cbdf8a46adbbf8001d15b7b0db2585cbed71b1df8395",
-    "update": false
-  },
-  {
-    "id": "event-c687bc91fa7641e6",
-    "canonical_url": "",
-    "cluster_id": "event-c687bc91fa7641e6",
-    "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
-    "first_seen": "2026-09-15T05:01:30.220332+00:00",
-    "last_seen": "2026-09-15T05:01:30.220808+00:00",
-    "last_sent": "2026-09-15T05:01:30.220808+00:00",
-    "content_hash": "9d12a685bfb13e8170db70215dfbc0a1033bca455e811e7318fd4b58c04580db",
-    "update": false
-  },
-  {
-    "id": "event-1df4ca08dddec10c",
-    "canonical_url": "",
-    "cluster_id": "event-1df4ca08dddec10c",
-    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-    "first_seen": "2026-09-15T05:01:30.220455+00:00",
-    "last_seen": "2026-09-15T05:01:30.220825+00:00",
-    "last_sent": "2026-09-15T05:01:30.220825+00:00",
-    "content_hash": "b026b2ab9f175be19961919a2d2ad51c079bb986cecbcc89b7b230e51e0097d7",
-    "update": false
-  },
-  {
-    "id": "event-cd38300db37264c1",
-    "canonical_url": "",
-    "cluster_id": "event-cd38300db37264c1",
-    "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-    "first_seen": "2026-09-15T05:01:30.220660+00:00",
-    "last_seen": "2026-09-15T05:01:30.220841+00:00",
-    "last_sent": "2026-09-15T05:01:30.220841+00:00",
-    "content_hash": "7b9ecd50147e4b0b0ccdc1365764821f36810a8d834132060b08e359f49b0d32",
-    "update": false
-  },
-  {
-    "id": "event-11385ef2913ade88",
-    "canonical_url": "",
-    "cluster_id": "event-11385ef2913ade88",
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "first_seen": "2026-09-15T05:01:30.220700+00:00",
-    "last_seen": "2026-09-15T05:01:30.220857+00:00",
-    "last_sent": "2026-09-15T05:01:30.220857+00:00",
-    "content_hash": "151ee61246b88d1d348f4bad9305056e7192c5c85e4acf67194deb8ac412f1a6",
-    "update": false
-  },
-  {
-    "id": "c2074bfb5763fc012bf0",
-    "canonical_url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again",
-    "cluster_id": "event-45ed5bb57be6d590",
-    "title": "With iOS 27, I’m actually using Siri again",
-    "first_seen": "2026-09-15T05:01:30.220719+00:00",
-    "last_seen": "2026-09-15T05:01:30.220719+00:00",
-    "last_sent": "2026-09-15T05:01:30.220719+00:00",
-    "content_hash": "955a4c7fa5c3c0cf3f794be5fde5e78b5f65930cac3d762ffbd85541b0f5f9dd",
-    "update": false
-  },
-  {
-    "id": "ac0c698bb9e96aee65b0",
-    "canonical_url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work",
-    "cluster_id": "event-0a3ab4d813f567f7",
-    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-    "first_seen": "2026-09-15T05:01:30.220740+00:00",
-    "last_seen": "2026-09-15T05:01:30.220740+00:00",
-    "last_sent": "2026-09-15T05:01:30.220740+00:00",
-    "content_hash": "d2ab6a13f843fb20be3eb73555dc8c6b844f5ce4d2573bba52507d15433fc7e3",
-    "update": false
-  },
-  {
     "id": "a9553848eb646cf1752a",
     "canonical_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
     "cluster_id": "event-8057a8d1c8b86a27",
@@ -2527,6 +2450,171 @@
     "last_seen": "2026-10-15T04:41:56.724695+00:00",
     "last_sent": "2026-10-15T04:41:56.724695+00:00",
     "content_hash": "16e4f10d51bb27ba373d17de9b66dad9e62cf957577ee54551dc777a83ddcdbd",
+    "update": false
+  },
+  {
+    "id": "event-1fb7c5548775ba11",
+    "canonical_url": "",
+    "cluster_id": "event-1fb7c5548775ba11",
+    "title": "Teaching students to think and learn through questions",
+    "first_seen": "2026-10-16T04:36:01.215101+00:00",
+    "last_seen": "2026-10-16T04:36:01.217520+00:00",
+    "last_sent": "2026-10-16T04:36:01.217520+00:00",
+    "content_hash": "60cd8277f2d00fc764540a0d778b4c42f6b315008bc50a037a653ee650ad6dbf",
+    "update": false
+  },
+  {
+    "id": "event-a9869a04e92655b8",
+    "canonical_url": "",
+    "cluster_id": "event-a9869a04e92655b8",
+    "title": "LensErase: A Foundation Model for Erase Anything",
+    "first_seen": "2026-10-16T04:36:01.215313+00:00",
+    "last_seen": "2026-10-16T04:36:01.217628+00:00",
+    "last_sent": "2026-10-16T04:36:01.217628+00:00",
+    "content_hash": "353b579cde7740f5ff3df646819dddfcadecf5b5c511305e309f7bc5f7cbc23b",
+    "update": false
+  },
+  {
+    "id": "event-681ea3591471121a",
+    "canonical_url": "",
+    "cluster_id": "event-681ea3591471121a",
+    "title": "Player-1: Learning to Play from Synthetic Experience",
+    "first_seen": "2026-10-16T04:36:01.215692+00:00",
+    "last_seen": "2026-10-16T04:36:01.217831+00:00",
+    "last_sent": "2026-10-16T04:36:01.217831+00:00",
+    "content_hash": "cc5ba73eda9c64dde5bdd2338f29a6c917fbbc4e424f7f5699f8ddf0787ee120",
+    "update": false
+  },
+  {
+    "id": "event-1f6210282bc8e589",
+    "canonical_url": "",
+    "cluster_id": "event-1f6210282bc8e589",
+    "title": "Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory",
+    "first_seen": "2026-10-16T04:36:01.215786+00:00",
+    "last_seen": "2026-10-16T04:36:01.217869+00:00",
+    "last_sent": "2026-10-16T04:36:01.217869+00:00",
+    "content_hash": "7982ce1881ded79784f4494d4a40347d2ed3904b484e3c512973c0bb5ca885b5",
+    "update": false
+  },
+  {
+    "id": "event-a98200e17677cd8b",
+    "canonical_url": "",
+    "cluster_id": "event-a98200e17677cd8b",
+    "title": "Towards Agentic Robots: Model, Data, Environment, and Harness",
+    "first_seen": "2026-10-16T04:36:01.216058+00:00",
+    "last_seen": "2026-10-16T04:36:01.217900+00:00",
+    "last_sent": "2026-10-16T04:36:01.217900+00:00",
+    "content_hash": "3a14c3ba87100e7c3b36a8b18f80cc527ff50aa885ebbda85c202c22a2474f0c",
+    "update": false
+  },
+  {
+    "id": "c0253bc9f09520a63cda",
+    "canonical_url": "https://theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+    "cluster_id": "event-b2cdd126b186e576",
+    "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+    "first_seen": "2026-10-16T04:36:01.216188+00:00",
+    "last_seen": "2026-10-16T04:36:01.217225+00:00",
+    "last_sent": "2026-10-16T04:36:01.217225+00:00",
+    "content_hash": "1f8333706d3f03196ed9994bb8a5791f3c4ef7b5ec2e55e85a9c8d2d2e93b810",
+    "update": false
+  },
+  {
+    "id": "hf-1cebd21e7214f89a",
+    "canonical_url": "https://huggingface.co/papers/2610.20220",
+    "cluster_id": "event-2b8ac48dd337d143",
+    "title": "Glance Forcing: Making Bidirectional Diffusion Autoregressive at a Glance",
+    "first_seen": "2026-10-16T04:36:01.216230+00:00",
+    "last_seen": "2026-10-16T04:36:01.216230+00:00",
+    "last_sent": "2026-10-16T04:36:01.216230+00:00",
+    "content_hash": "a08e3dc945e29d979ab1d0281e2bdbd832d2622bb78f29076f384b29ed60cf8b",
+    "update": false
+  },
+  {
+    "id": "hf-697bdacecc095ea0",
+    "canonical_url": "https://huggingface.co/papers/2610.20137",
+    "cluster_id": "event-a31bb9e9368cfeb6",
+    "title": "StreamErase: Towards Ultra-Fast Streaming Video Erasing",
+    "first_seen": "2026-10-16T04:36:01.216316+00:00",
+    "last_seen": "2026-10-16T04:36:01.216316+00:00",
+    "last_sent": "2026-10-16T04:36:01.216316+00:00",
+    "content_hash": "d078be125c7d41327ab89f39ed7e1eeef73f68ccab6eb698c6955e0b91986f2b",
+    "update": false
+  },
+  {
+    "id": "hn-50100791",
+    "canonical_url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+    "cluster_id": "event-d3af03fac077542b",
+    "title": "AI was great until it was not",
+    "first_seen": "2026-10-16T04:36:01.216729+00:00",
+    "last_seen": "2026-10-16T04:36:01.216729+00:00",
+    "last_sent": "2026-10-16T04:36:01.216729+00:00",
+    "content_hash": "cea1ac70631d415af97958eb5fc82f852fffdabd5d05410d18b35d94c2fef5a2",
+    "update": false
+  },
+  {
+    "id": "5f6d1da94d609ba77a89",
+    "canonical_url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
+    "cluster_id": "event-a4876abe2814a710",
+    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "first_seen": "2026-10-16T04:36:01.217085+00:00",
+    "last_seen": "2026-10-16T04:36:01.217156+00:00",
+    "last_sent": "2026-10-16T04:36:01.217156+00:00",
+    "content_hash": "c647e02413574fb72586afa479f05b962166fdbc621fc5255fa3c3ea2640653b",
+    "update": false
+  },
+  {
+    "id": "f364e7fed696067411a3",
+    "canonical_url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "cluster_id": "event-654f4a33dd22787c",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "first_seen": "2026-10-16T04:36:01.217191+00:00",
+    "last_seen": "2026-10-16T04:36:01.217191+00:00",
+    "last_sent": "2026-10-16T04:36:01.217191+00:00",
+    "content_hash": "2b69744c201ed27ec44067f53f3b6c04ba4e047d25ea06d379ee2088f2aa0ad4",
+    "update": false
+  },
+  {
+    "id": "b619dd2ef51d2ac899ff",
+    "canonical_url": "https://microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar",
+    "cluster_id": "event-9a8b70e2e194abab",
+    "title": "Proof-based general-purpose computing with Magnetar",
+    "first_seen": "2026-10-16T04:36:01.217260+00:00",
+    "last_seen": "2026-10-16T04:36:01.217260+00:00",
+    "last_sent": "2026-10-16T04:36:01.217260+00:00",
+    "content_hash": "6ba3f60c88a18e7f9a464f2ffe8c6ad67ea07e568af7898ab80a171a5b77589a",
+    "update": false
+  },
+  {
+    "id": "40c12a81962da0f617e7",
+    "canonical_url": "https://theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "cluster_id": "event-e3532ab3be4b1315",
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "first_seen": "2026-10-16T04:36:01.217295+00:00",
+    "last_seen": "2026-10-16T04:36:01.217295+00:00",
+    "last_sent": "2026-10-16T04:36:01.217295+00:00",
+    "content_hash": "51bf0819deca00b8413639ac27817be9e1778cc92644e1baaa4bd237779bfe42",
+    "update": false
+  },
+  {
+    "id": "66577a7f686d4b81df0e",
+    "canonical_url": "https://openai.com/index/sullivan-cromwell",
+    "cluster_id": "event-e3e518f55a722101",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "first_seen": "2026-10-16T04:36:01.217330+00:00",
+    "last_seen": "2026-10-16T04:36:01.217330+00:00",
+    "last_sent": "2026-10-16T04:36:01.217330+00:00",
+    "content_hash": "86bcae5bb9898afc95457d3368061d90a810985183efa457a1f3904ceb32fc33",
+    "update": false
+  },
+  {
+    "id": "arxiv-ba31f530dfd56d3b",
+    "canonical_url": "http://arxiv.org/abs/2610.22372v1",
+    "cluster_id": "event-06a5026773ce3150",
+    "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+    "first_seen": "2026-10-16T04:36:01.217365+00:00",
+    "last_seen": "2026-10-16T04:36:01.217365+00:00",
+    "last_sent": "2026-10-16T04:36:01.217365+00:00",
+    "content_hash": "872ca49e7f75f5bf484f599203b2c7a931a4db8c8100ebdebb3ad3978bf721cb",
     "update": false
   }
 ]
