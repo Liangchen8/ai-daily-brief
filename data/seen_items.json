@@ -1,93 +1,5 @@
 [
   {
-    "id": "event-8057a8d1c8b86a27",
-    "canonical_url": "",
-    "cluster_id": "event-8057a8d1c8b86a27",
-    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-    "first_seen": "2026-09-13T05:14:25.415286+00:00",
-    "last_seen": "2026-09-16T04:54:49.218517+00:00",
-    "last_sent": "2026-09-16T04:54:49.218517+00:00",
-    "content_hash": "777eacb725be14a0fe7d17f93f6dc80f5047ea5a7de2e1d3c714eefc695d48c2",
-    "update": false
-  },
-  {
-    "id": "a9553848eb646cf1752a",
-    "canonical_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
-    "cluster_id": "event-8057a8d1c8b86a27",
-    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-    "first_seen": "2026-09-16T04:54:49.216278+00:00",
-    "last_seen": "2026-09-16T04:54:49.217757+00:00",
-    "last_sent": "2026-09-16T04:54:49.217757+00:00",
-    "content_hash": "4075e24e3e8ebfe63fc9ac4a6d2b36ea12e64af0c5c15d784fce2ce3bd276730",
-    "update": false
-  },
-  {
-    "id": "event-1a5c1f483e933a16",
-    "canonical_url": "",
-    "cluster_id": "event-1a5c1f483e933a16",
-    "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
-    "first_seen": "2026-09-16T04:54:49.216890+00:00",
-    "last_seen": "2026-09-16T04:54:49.218722+00:00",
-    "last_sent": "2026-09-16T04:54:49.218722+00:00",
-    "content_hash": "19e5b6794c080443d35602182f58499ef8c3898a4b2d716098829ffeb032077b",
-    "update": false
-  },
-  {
-    "id": "event-3abddce31ce188ff",
-    "canonical_url": "",
-    "cluster_id": "event-3abddce31ce188ff",
-    "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
-    "first_seen": "2026-09-16T04:54:49.216963+00:00",
-    "last_seen": "2026-09-16T04:54:49.218764+00:00",
-    "last_sent": "2026-09-16T04:54:49.218764+00:00",
-    "content_hash": "b6cf5513db4cf78d10b40f1b0fd417ed9c20d8215c65a51688e2c927de0139d6",
-    "update": false
-  },
-  {
-    "id": "event-584dae45270f89ac",
-    "canonical_url": "",
-    "cluster_id": "event-584dae45270f89ac",
-    "title": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
-    "first_seen": "2026-09-16T04:54:49.217074+00:00",
-    "last_seen": "2026-09-16T04:54:49.218796+00:00",
-    "last_sent": "2026-09-16T04:54:49.218796+00:00",
-    "content_hash": "d421619eddbc0a1d5e3bbb133a05027a85f0e4b385287c26095ac43def440856",
-    "update": false
-  },
-  {
-    "id": "event-61f4522721104d10",
-    "canonical_url": "",
-    "cluster_id": "event-61f4522721104d10",
-    "title": "The AI industry has taken a doomer turn. What now?",
-    "first_seen": "2026-09-16T04:54:49.217184+00:00",
-    "last_seen": "2026-09-16T04:54:49.218828+00:00",
-    "last_sent": "2026-09-16T04:54:49.218828+00:00",
-    "content_hash": "2e740c74b354f98c302976bcb081ffd58067fc5799d4fdb44926cfc1e29872e3",
-    "update": false
-  },
-  {
-    "id": "hn-49715927",
-    "canonical_url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-    "cluster_id": "event-9e4c3be9c95f21cb",
-    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-    "first_seen": "2026-09-16T04:54:49.217355+00:00",
-    "last_seen": "2026-09-16T04:54:49.217355+00:00",
-    "last_sent": "2026-09-16T04:54:49.217355+00:00",
-    "content_hash": "7016262fc8060ed67e627c6fc34a310c44a66ec526c3eb57287a5a02cac5f98f",
-    "update": false
-  },
-  {
-    "id": "hf-8549a0786888a00c",
-    "canonical_url": "https://huggingface.co/papers/2609.15659",
-    "cluster_id": "event-58c6731bec350f00",
-    "title": "Kaininja: Extending Native 3D Generators to the Part Level",
-    "first_seen": "2026-09-16T04:54:49.217433+00:00",
-    "last_seen": "2026-09-16T04:54:49.217433+00:00",
-    "last_sent": "2026-09-16T04:54:49.217433+00:00",
-    "content_hash": "d6299170111e7b6eed259befac89f7bca8e52b4495638ade45e2ad7d31d09476",
-    "update": false
-  },
-  {
     "id": "event-9bb0288f362ac56b",
     "canonical_url": "",
     "cluster_id": "event-9bb0288f362ac56b",
@@ -2615,6 +2527,94 @@
     "last_seen": "2026-10-16T04:36:01.217365+00:00",
     "last_sent": "2026-10-16T04:36:01.217365+00:00",
     "content_hash": "872ca49e7f75f5bf484f599203b2c7a931a4db8c8100ebdebb3ad3978bf721cb",
+    "update": false
+  },
+  {
+    "id": "event-1681fa6a65673673",
+    "canonical_url": "",
+    "cluster_id": "event-1681fa6a65673673",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "first_seen": "2026-10-17T04:26:42.444738+00:00",
+    "last_seen": "2026-10-17T04:26:42.446066+00:00",
+    "last_sent": "2026-10-17T04:26:42.446066+00:00",
+    "content_hash": "a460c6c0a7b2d0d030fe413db23070d33e93124394c19efe1d0cbb66542a8e1f",
+    "update": false
+  },
+  {
+    "id": "event-931df3741265b107",
+    "canonical_url": "",
+    "cluster_id": "event-931df3741265b107",
+    "title": "It used to be that you could look at the CoT from a request and get a sense of where the model was going, but with tons",
+    "first_seen": "2026-10-17T04:26:42.444905+00:00",
+    "last_seen": "2026-10-17T04:26:42.446111+00:00",
+    "last_sent": "2026-10-17T04:26:42.446111+00:00",
+    "content_hash": "aa7aa0b84cbf76a1d11116ddd150689979883d126b811d4b42be1b6122416e68",
+    "update": false
+  },
+  {
+    "id": "event-7771e7f1a7fdaea5",
+    "canonical_url": "",
+    "cluster_id": "event-7771e7f1a7fdaea5",
+    "title": "3DCodeVerse: Exploring 3D Worlds as Code",
+    "first_seen": "2026-10-17T04:26:42.444998+00:00",
+    "last_seen": "2026-10-17T04:26:42.446147+00:00",
+    "last_sent": "2026-10-17T04:26:42.446147+00:00",
+    "content_hash": "801615013bb8c54e0fecefb8ef0845f53a762d3713c0b58338b39f49245b98ad",
+    "update": false
+  },
+  {
+    "id": "event-3801b3289cbbeef4",
+    "canonical_url": "",
+    "cluster_id": "event-3801b3289cbbeef4",
+    "title": "VLA-Δ: Learning Physical State Transition for Vision-Language-Action Models",
+    "first_seen": "2026-10-17T04:26:42.445078+00:00",
+    "last_seen": "2026-10-17T04:26:42.446178+00:00",
+    "last_sent": "2026-10-17T04:26:42.446178+00:00",
+    "content_hash": "107ad0bf0594fa26c736d91e5567fe395dde9d53442e6769e02f5766ebf4dca0",
+    "update": false
+  },
+  {
+    "id": "event-dfa25b641efa0bd8",
+    "canonical_url": "",
+    "cluster_id": "event-dfa25b641efa0bd8",
+    "title": "Mosaic: Multi-Session Agentic Reinforcement Learning",
+    "first_seen": "2026-10-17T04:26:42.445118+00:00",
+    "last_seen": "2026-10-17T04:26:42.446209+00:00",
+    "last_sent": "2026-10-17T04:26:42.446209+00:00",
+    "content_hash": "b81acea711dca41c3a14d340099a2fbf65a7df40edc3fa61c44baf32bccaee0f",
+    "update": false
+  },
+  {
+    "id": "hf-eedfde31d6d32690",
+    "canonical_url": "https://huggingface.co/papers/2610.22131",
+    "cluster_id": "event-fbe3dad78b24ac40",
+    "title": "Intern-Decision: Efficient Multimodal Decision Making with Autoregressive Masked Language Modeling",
+    "first_seen": "2026-10-17T04:26:42.445230+00:00",
+    "last_seen": "2026-10-17T04:26:42.445230+00:00",
+    "last_sent": "2026-10-17T04:26:42.445230+00:00",
+    "content_hash": "b6d49908741dbed3e2159c8bfeed73ea629ef84ad01300121c4fb46bcb5699ea",
+    "update": false
+  },
+  {
+    "id": "bsky-bafyreibxx7k5b4dxbcmvnchx2psohh3z73jyho7rz6sxkrpsn7qktxkwwi",
+    "canonical_url": "https://bsky.app/profile/emollick.bsky.social/post/3mxwf7wo7rs2x",
+    "cluster_id": "event-98b74ab497258a1c",
+    "title": "The sudden collapse of the value of Chain-of-Thought (even summarized CoT) in the agentic era changes working with AI.",
+    "first_seen": "2026-10-17T04:26:42.445305+00:00",
+    "last_seen": "2026-10-17T04:26:42.445305+00:00",
+    "last_sent": "2026-10-17T04:26:42.445305+00:00",
+    "content_hash": "5c7b6d00d5f9c927467f826dd7e3f4e07a202e312041f3a8ddf6c16178eb3426",
+    "update": false
+  },
+  {
+    "id": "hf-2c98329fe9a586a7",
+    "canonical_url": "https://huggingface.co/papers/2610.22352",
+    "cluster_id": "event-b3bcf2919166f616",
+    "title": "SUPRA-TEX: 3D Generation with Super-Aligned Texture",
+    "first_seen": "2026-10-17T04:26:42.445342+00:00",
+    "last_seen": "2026-10-17T04:26:42.445342+00:00",
+    "last_sent": "2026-10-17T04:26:42.445342+00:00",
+    "content_hash": "147ef9d4fbac6b5c69cb582ae05f18ac69dddd9f39aa0f8bd85c329a41e2386e",
     "update": false
   }
 ]
