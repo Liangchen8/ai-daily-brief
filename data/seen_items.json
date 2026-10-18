@@ -1,82 +1,5 @@
 [
   {
-    "id": "event-9bb0288f362ac56b",
-    "canonical_url": "",
-    "cluster_id": "event-9bb0288f362ac56b",
-    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-    "first_seen": "2026-09-17T05:23:14.531038+00:00",
-    "last_seen": "2026-09-17T05:23:14.532875+00:00",
-    "last_sent": "2026-09-17T05:23:14.532875+00:00",
-    "content_hash": "971f1ea8d0039b1c99b682aa2af832a6dbaec52ed41512ae3b9303d4235b9ad0",
-    "update": false
-  },
-  {
-    "id": "event-df91efb29d90a11c",
-    "canonical_url": "",
-    "cluster_id": "event-df91efb29d90a11c",
-    "title": "How workers are unlocking new ways of working",
-    "first_seen": "2026-09-17T05:23:14.531170+00:00",
-    "last_seen": "2026-09-17T05:23:14.532669+00:00",
-    "last_sent": "2026-09-17T05:23:14.532669+00:00",
-    "content_hash": "6df256ef41d211bd3a08091c19d187059a4b819b194395a5dfd457f9b01f62fc",
-    "update": false
-  },
-  {
-    "id": "event-4356377a0fd58a85",
-    "canonical_url": "",
-    "cluster_id": "event-4356377a0fd58a85",
-    "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
-    "first_seen": "2026-09-17T05:23:14.531516+00:00",
-    "last_seen": "2026-09-17T05:23:14.532925+00:00",
-    "last_sent": "2026-09-17T05:23:14.532925+00:00",
-    "content_hash": "111c9c6db39a99c630ff76398cee8c877cfc67395b85f75a4f11f3d7edf567e6",
-    "update": false
-  },
-  {
-    "id": "event-e0c5b6ef079aa6d2",
-    "canonical_url": "",
-    "cluster_id": "event-e0c5b6ef079aa6d2",
-    "title": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
-    "first_seen": "2026-09-17T05:23:14.531549+00:00",
-    "last_seen": "2026-09-17T05:23:14.532958+00:00",
-    "last_sent": "2026-09-17T05:23:14.532958+00:00",
-    "content_hash": "7fb42d5eb47d83bbfcf435c0ce182d79411b50ee6fef8e2c9982c21dd0659269",
-    "update": false
-  },
-  {
-    "id": "event-88ba39a409b767bf",
-    "canonical_url": "",
-    "cluster_id": "event-88ba39a409b767bf",
-    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-    "first_seen": "2026-09-17T05:23:14.531743+00:00",
-    "last_seen": "2026-09-17T05:23:14.532991+00:00",
-    "last_sent": "2026-09-17T05:23:14.532991+00:00",
-    "content_hash": "4b3057e4d145be1830e5c37b81351a5da524993f4fc78b4fa1b55767d02d830d",
-    "update": false
-  },
-  {
-    "id": "hn-49723408",
-    "canonical_url": "https://mistral.ai/news/mistral-x-mozilla",
-    "cluster_id": "event-28cfe9b0fd40393e",
-    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-    "first_seen": "2026-09-17T05:23:14.531808+00:00",
-    "last_seen": "2026-09-17T05:23:14.531808+00:00",
-    "last_sent": "2026-09-17T05:23:14.531808+00:00",
-    "content_hash": "b2b344d4dc1e9950c876c082d5816b74f413e66ede7b5b81e35dedee7d973ec4",
-    "update": false
-  },
-  {
-    "id": "hn-49716241",
-    "canonical_url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
-    "cluster_id": "event-b6f545cf3bfc1bea",
-    "title": "Hugging Face is billing OpenAI $100M for hacking it",
-    "first_seen": "2026-09-17T05:23:14.532547+00:00",
-    "last_seen": "2026-09-17T05:23:14.532547+00:00",
-    "last_sent": "2026-09-17T05:23:14.532547+00:00",
-    "content_hash": "63d7a8c5911852a46b87cdd19d5755b76d7510ba8ea598aa2c3e230c46ea5730",
-    "update": false
-  },
-  {
     "id": "event-a1eab8c70f2b27b8",
     "canonical_url": "",
     "cluster_id": "event-a1eab8c70f2b27b8",
@@ -2387,15 +2310,15 @@
     "update": false
   },
   {
-    "id": "event-681ea3591471121a",
-    "canonical_url": "",
+    "id": "arxiv-fef909eb3c68b91c",
+    "canonical_url": "http://arxiv.org/abs/2610.22340v1",
     "cluster_id": "event-681ea3591471121a",
-    "title": "Player-1: Learning to Play from Synthetic Experience",
+    "title": "Dexterity from Supervised Play",
     "first_seen": "2026-10-16T04:36:01.215692+00:00",
-    "last_seen": "2026-10-16T04:36:01.217831+00:00",
-    "last_sent": "2026-10-16T04:36:01.217831+00:00",
-    "content_hash": "cc5ba73eda9c64dde5bdd2338f29a6c917fbbc4e424f7f5699f8ddf0787ee120",
-    "update": false
+    "last_seen": "2026-10-18T04:32:30.599730+00:00",
+    "last_sent": "2026-10-18T04:32:30.599730+00:00",
+    "content_hash": "39e009893ffbbed96406827c4dc6df829e7cd4d0fe8c757443d42cc5ee653946",
+    "update": true
   },
   {
     "id": "event-1f6210282bc8e589",
@@ -2615,6 +2538,116 @@
     "last_seen": "2026-10-17T04:26:42.445342+00:00",
     "last_sent": "2026-10-17T04:26:42.445342+00:00",
     "content_hash": "147ef9d4fbac6b5c69cb582ae05f18ac69dddd9f39aa0f8bd85c329a41e2386e",
+    "update": false
+  },
+  {
+    "id": "event-b6a06c7ab37be716",
+    "canonical_url": "",
+    "cluster_id": "event-b6a06c7ab37be716",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "first_seen": "2026-10-18T04:32:30.598478+00:00",
+    "last_seen": "2026-10-18T04:32:30.600345+00:00",
+    "last_sent": "2026-10-18T04:32:30.600345+00:00",
+    "content_hash": "84c983e9722f4bee7f53aeea40456ae655a04546b5b8ab4a455e09228ea5c2ab",
+    "update": false
+  },
+  {
+    "id": "event-35d3dd805c358e5a",
+    "canonical_url": "",
+    "cluster_id": "event-35d3dd805c358e5a",
+    "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
+    "first_seen": "2026-10-18T04:32:30.598749+00:00",
+    "last_seen": "2026-10-18T04:32:30.600511+00:00",
+    "last_sent": "2026-10-18T04:32:30.600511+00:00",
+    "content_hash": "74a98394e8d82a786fe9df045bdebd803ca89b849483acf91534f24c1f42ac75",
+    "update": false
+  },
+  {
+    "id": "event-5ced904ec583a25d",
+    "canonical_url": "",
+    "cluster_id": "event-5ced904ec583a25d",
+    "title": "InfiniSplat v2: Analyzing and Improving Feed-Forward 3DGS from Any Views",
+    "first_seen": "2026-10-18T04:32:30.598934+00:00",
+    "last_seen": "2026-10-18T04:32:30.600543+00:00",
+    "last_sent": "2026-10-18T04:32:30.600543+00:00",
+    "content_hash": "e48024ff5e25b92b33934f06390f95d6848f22e11da92bac49b5fa9fbbc8a848",
+    "update": false
+  },
+  {
+    "id": "event-4e66aa00728862d8",
+    "canonical_url": "",
+    "cluster_id": "event-4e66aa00728862d8",
+    "title": "Status quo isn't an option. You can either add additional frictions (adding fees, make services worse, ban agents) or re",
+    "first_seen": "2026-10-18T04:32:30.599025+00:00",
+    "last_seen": "2026-10-18T04:32:30.600569+00:00",
+    "last_sent": "2026-10-18T04:32:30.600569+00:00",
+    "content_hash": "74b2307902639a034f2c32e4c157e227c2bd796a07c26a70a8fce67879849010",
+    "update": false
+  },
+  {
+    "id": "event-adfd2e9f3e73f348",
+    "canonical_url": "",
+    "cluster_id": "event-adfd2e9f3e73f348",
+    "title": "OpenAI discloses four more rogue incidents",
+    "first_seen": "2026-10-18T04:32:30.599156+00:00",
+    "last_seen": "2026-10-18T04:32:30.600594+00:00",
+    "last_sent": "2026-10-18T04:32:30.600594+00:00",
+    "content_hash": "39c8871bab30987f411e231b679353340f9fa373d552c0f8661ebabcc452a110",
+    "update": false
+  },
+  {
+    "id": "hn-50133736",
+    "canonical_url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+    "cluster_id": "event-467cb25bd3e300c1",
+    "title": "Pattern matching beats narrative reasoning",
+    "first_seen": "2026-10-18T04:32:30.599186+00:00",
+    "last_seen": "2026-10-18T04:32:30.599186+00:00",
+    "last_sent": "2026-10-18T04:32:30.599186+00:00",
+    "content_hash": "14777dcfb47676b6cd4a2982e2513ad366c5539eb98ce87c6da8117370577c33",
+    "update": false
+  },
+  {
+    "id": "e967e4e73355622dcfe4",
+    "canonical_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+    "cluster_id": "event-bf88a91fd441d643",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "first_seen": "2026-10-18T04:32:30.599425+00:00",
+    "last_seen": "2026-10-18T04:32:30.599425+00:00",
+    "last_sent": "2026-10-18T04:32:30.599425+00:00",
+    "content_hash": "d9ea52d64fb51a10fb31a1f69ebed9511753261925eaaa180829600120bb04a2",
+    "update": false
+  },
+  {
+    "id": "arxiv-d154ec7bf14d4b76",
+    "canonical_url": "http://arxiv.org/abs/2610.22358v1",
+    "cluster_id": "event-b41d0f50c1824ab5",
+    "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+    "first_seen": "2026-10-18T04:32:30.599548+00:00",
+    "last_seen": "2026-10-18T04:32:30.599548+00:00",
+    "last_sent": "2026-10-18T04:32:30.599548+00:00",
+    "content_hash": "b20d13220d9d74dc2ac89bdb6c0365f7587892382025fed01552c5c7b593b67f",
+    "update": false
+  },
+  {
+    "id": "arxiv-b91cbd948f682fca",
+    "canonical_url": "http://arxiv.org/abs/2610.22328v1",
+    "cluster_id": "event-fef057f4fd926895",
+    "title": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning",
+    "first_seen": "2026-10-18T04:32:30.599919+00:00",
+    "last_seen": "2026-10-18T04:32:30.599919+00:00",
+    "last_sent": "2026-10-18T04:32:30.599919+00:00",
+    "content_hash": "d13dae0b049fd4a47941148e1a73184641527abf4cb170357ab0506189cb0445",
+    "update": false
+  },
+  {
+    "id": "arxiv-6f3c5a02d4b3e1cd",
+    "canonical_url": "http://arxiv.org/abs/2610.22297v1",
+    "cluster_id": "event-76d81c7436582440",
+    "title": "Private Retrieval Augmented Generation via Random Projection",
+    "first_seen": "2026-10-18T04:32:30.600257+00:00",
+    "last_seen": "2026-10-18T04:32:30.600257+00:00",
+    "last_sent": "2026-10-18T04:32:30.600257+00:00",
+    "content_hash": "30a0226ab108465ff32b15f321dd00bd9725fbaf517cba5d203b79586611d363",
     "update": false
   }
 ]
