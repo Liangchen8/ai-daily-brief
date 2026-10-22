@@ -1,49 +1,5 @@
 [
   {
-    "id": "event-e2b4e8eaafce2b6c",
-    "canonical_url": "",
-    "cluster_id": "event-e2b4e8eaafce2b6c",
-    "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
-    "first_seen": "2026-09-19T04:44:38.092345+00:00",
-    "last_seen": "2026-09-21T05:08:46.424749+00:00",
-    "last_sent": "2026-09-21T05:08:46.424749+00:00",
-    "content_hash": "da43a3bb6373499412128106822997f91d92375638d560bc1e58d9f9c600e636",
-    "update": true
-  },
-  {
-    "id": "event-ba62fe31931f0ad8",
-    "canonical_url": "",
-    "cluster_id": "event-ba62fe31931f0ad8",
-    "title": "AI for Games in the Foundation Model Era",
-    "first_seen": "2026-09-21T05:08:46.423313+00:00",
-    "last_seen": "2026-09-21T05:08:46.424616+00:00",
-    "last_sent": "2026-09-21T05:08:46.424616+00:00",
-    "content_hash": "f7932ff581443961c13bfaaba6d8255e506c16f4049f9479fe8aedacf4c5dbfe",
-    "update": false
-  },
-  {
-    "id": "event-3ef8bcb679fc303e",
-    "canonical_url": "",
-    "cluster_id": "event-3ef8bcb679fc303e",
-    "title": "Why MCP Was Always a Bad Idea?",
-    "first_seen": "2026-09-21T05:08:46.423952+00:00",
-    "last_seen": "2026-09-21T05:08:46.424767+00:00",
-    "last_sent": "2026-09-21T05:08:46.424767+00:00",
-    "content_hash": "63d263de395848034a2ffb803e9718211abfa46d9cb2bac49ed28e9c5557b0fa",
-    "update": false
-  },
-  {
-    "id": "event-554ee246452cb670",
-    "canonical_url": "",
-    "cluster_id": "event-554ee246452cb670",
-    "title": "Available Guardrails: Certifying Selective Prediction across ML Systems",
-    "first_seen": "2026-09-21T05:08:46.424239+00:00",
-    "last_seen": "2026-09-21T05:08:46.424783+00:00",
-    "last_sent": "2026-09-21T05:08:46.424783+00:00",
-    "content_hash": "79c5c33ec3e05b5c61f1339bed9a5dc4fe9ef75964b1b734bd08a4b21e14cf5b",
-    "update": false
-  },
-  {
     "id": "event-3f7f4921ad1ec459",
     "canonical_url": "",
     "cluster_id": "event-3f7f4921ad1ec459",
