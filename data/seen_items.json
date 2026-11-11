@@ -1,49 +1,5 @@
 [
   {
-    "id": "event-46c30432d1e858a1",
-    "canonical_url": "",
-    "cluster_id": "event-46c30432d1e858a1",
-    "title": "AgentGarten: Code Worlds for Evolving Agents",
-    "first_seen": "2026-10-12T06:03:59.253147+00:00",
-    "last_seen": "2026-10-12T06:03:59.254567+00:00",
-    "last_sent": "2026-10-12T06:03:59.254567+00:00",
-    "content_hash": "6b9e5a9b0ba3535c5e549977f8b5f39fac20ea050f7f35a0280e8f26615fbda3",
-    "update": false
-  },
-  {
-    "id": "event-cef817b3eb3c6f15",
-    "canonical_url": "",
-    "cluster_id": "event-cef817b3eb3c6f15",
-    "title": "SuperNav: An Agentic Navigation System for Any Task in Any Scene",
-    "first_seen": "2026-10-12T06:03:59.253374+00:00",
-    "last_seen": "2026-10-12T06:03:59.254760+00:00",
-    "last_sent": "2026-10-12T06:03:59.254760+00:00",
-    "content_hash": "310ae29bb66ebec250394c749c07f8f946f5e04b68cf159a868d8d8a69426fcd",
-    "update": false
-  },
-  {
-    "id": "event-74b1410dc18152a3",
-    "canonical_url": "",
-    "cluster_id": "event-74b1410dc18152a3",
-    "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-    "first_seen": "2026-10-12T06:03:59.253555+00:00",
-    "last_seen": "2026-10-12T06:03:59.254806+00:00",
-    "last_sent": "2026-10-12T06:03:59.254806+00:00",
-    "content_hash": "6a66c9f6cabb4a3edd18b19ed9731761584388ca1c6e80f2a5763979ee3e2184",
-    "update": false
-  },
-  {
-    "id": "event-ff6d2cdd8b760fa5",
-    "canonical_url": "",
-    "cluster_id": "event-ff6d2cdd8b760fa5",
-    "title": "Designing Protein Structures from Natural Language",
-    "first_seen": "2026-10-12T06:03:59.253983+00:00",
-    "last_seen": "2026-10-12T06:03:59.254834+00:00",
-    "last_sent": "2026-10-12T06:03:59.254834+00:00",
-    "content_hash": "097c936db009002108a8c123f9d0f7b10fde38b7bf1391ed9accb8535c1a505d",
-    "update": false
-  },
-  {
     "id": "event-4cb529a41530f3b5",
     "canonical_url": "",
     "cluster_id": "event-4cb529a41530f3b5",
