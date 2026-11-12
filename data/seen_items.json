@@ -1,71 +1,5 @@
 [
   {
-    "id": "event-4cb529a41530f3b5",
-    "canonical_url": "",
-    "cluster_id": "event-4cb529a41530f3b5",
-    "title": "Simulating student learning for better AI tutoring",
-    "first_seen": "2026-10-13T06:53:40.260503+00:00",
-    "last_seen": "2026-10-13T06:53:40.261545+00:00",
-    "last_sent": "2026-10-13T06:53:40.261545+00:00",
-    "content_hash": "cf26db947219e207cb4a8e81dc734f6c1cb85b8364a1e79f081221c9fce26ffb",
-    "update": false
-  },
-  {
-    "id": "event-f18e2e6fa5c34203",
-    "canonical_url": "",
-    "cluster_id": "event-f18e2e6fa5c34203",
-    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-    "first_seen": "2026-10-13T06:53:40.260795+00:00",
-    "last_seen": "2026-10-13T06:53:40.261799+00:00",
-    "last_sent": "2026-10-13T06:53:40.261799+00:00",
-    "content_hash": "65b036ae09751f6252e802621fbbffb5ceeb00d6f34cb553654a59cfca297c95",
-    "update": false
-  },
-  {
-    "id": "event-e8d679b6f940762e",
-    "canonical_url": "",
-    "cluster_id": "event-e8d679b6f940762e",
-    "title": "ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents",
-    "first_seen": "2026-10-13T06:53:40.260847+00:00",
-    "last_seen": "2026-10-13T06:53:40.261822+00:00",
-    "last_sent": "2026-10-13T06:53:40.261822+00:00",
-    "content_hash": "280e912c76cedb69ded0543923d0ab8d4c17bedb04b94080036caa3b8809bf88",
-    "update": false
-  },
-  {
-    "id": "event-63e666682cb1e39f",
-    "canonical_url": "",
-    "cluster_id": "event-63e666682cb1e39f",
-    "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
-    "first_seen": "2026-10-13T06:53:40.260928+00:00",
-    "last_seen": "2026-10-13T06:53:40.261845+00:00",
-    "last_sent": "2026-10-13T06:53:40.261845+00:00",
-    "content_hash": "666c9a38fde1292cfefc5c07cc3d2f6f587fb653ae82b4494b36729f31b8da42",
-    "update": false
-  },
-  {
-    "id": "hf-2d41eaab42a61e84",
-    "canonical_url": "https://huggingface.co/papers/2610.13944",
-    "cluster_id": "event-e2ab26339965fc63",
-    "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
-    "first_seen": "2026-10-13T06:53:40.261004+00:00",
-    "last_seen": "2026-10-13T06:53:40.261004+00:00",
-    "last_sent": "2026-10-13T06:53:40.261004+00:00",
-    "content_hash": "32352ac5b0c60ebdb5f06df23e2e10d51f80f940c0aac4fa5e57e0a75251d0c2",
-    "update": false
-  },
-  {
-    "id": "event-ba6f98edaf86e6d2",
-    "canonical_url": "",
-    "cluster_id": "event-ba6f98edaf86e6d2",
-    "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
-    "first_seen": "2026-10-13T06:53:40.261033+00:00",
-    "last_seen": "2026-10-13T06:53:40.261659+00:00",
-    "last_sent": "2026-10-13T06:53:40.261659+00:00",
-    "content_hash": "4c642e38a300e93f518c0cc6882e76b423892d8a8a8bd03cc87aabc402d6fa39",
-    "update": false
-  },
-  {
     "id": "event-9f8f00db833beaa0",
     "canonical_url": "",
     "cluster_id": "event-9f8f00db833beaa0",
@@ -74,17 +8,6 @@
     "last_seen": "2026-10-14T04:55:39.646521+00:00",
     "last_sent": "2026-10-14T04:55:39.646521+00:00",
     "content_hash": "1613e07a14d67ed2c05334d75ae4927f9c812ce52e8d793f023866d6944dd7ee",
-    "update": false
-  },
-  {
-    "id": "hn-50063717",
-    "canonical_url": "https://github.com/prabanta-dev/janas",
-    "cluster_id": "event-0b2c3e009a695b16",
-    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-    "first_seen": "2026-10-13T06:53:40.261139+00:00",
-    "last_seen": "2026-10-13T06:53:40.261139+00:00",
-    "last_sent": "2026-10-13T06:53:40.261139+00:00",
-    "content_hash": "fddf2b0ed2a43879811d683ff1ad2ba8f32d0216e0b3c872d903ec90f1d20cc6",
     "update": false
   },
   {
